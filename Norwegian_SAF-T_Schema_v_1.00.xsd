@@ -11,7 +11,7 @@
 			</doc:Version>
 			<doc:Author>SAF-T Working group</doc:Author>
 			<doc:BasedOn>OECD Standard Audit File - Taxation 2.00</doc:BasedOn>
-			<doc:ModificationDate>15-01-2016</doc:ModificationDate>
+			<doc:ModificationDate>23-01-2016</doc:ModificationDate>
 		</xs:documentation>
 	</xs:annotation>
 	<xs:element name="AuditFile">
@@ -2656,62 +2656,47 @@ CurrencyAmount x ExchangeRate = Amount </xs:documentation>
 		<xs:annotation>
 			<xs:documentation>Bank account number information. IBAN number, or account number with optional information.</xs:documentation>
 		</xs:annotation>
-		<xs:choice>
-			<xs:sequence>
+		<xs:sequence>
+			<xs:choice>
 				<xs:element name="IBANNumber" type="SAFmiddle1textType">
 					<xs:annotation>
 						<xs:documentation>International Bank Account Number, ISO 13616</xs:documentation>
 					</xs:annotation>
 				</xs:element>
-				<xs:element name="BIC" type="SAFshorttextType" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>Bank Identifier Code.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="CurrencyCode" type="ISOCurrencyCode" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>Currency Code for the Bank Account from ISO 4217.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="GeneralLedgerAccountID" type="SAFmiddle2textType" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>Link to a General Ledger account.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-			</xs:sequence>
-			<xs:sequence>
-				<xs:element name="BankAccountNumber" type="SAFmiddle1textType">
-					<xs:annotation>
-						<xs:documentation>The number allocated to the account by the individual’s or company’s own bank.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="BankAccountName" type="SAFmiddle2textType" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>The name of the individual or company holding the bank account.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="SortCode" type="SAFshorttextType" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>Identifier for the bank branch at which the account is held. May be needed to uniquely identify the account. Also known as ABA Number or National Bank Code</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="BIC" type="SAFshorttextType" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>Bank Identifier Code.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="CurrencyCode" type="ISOCurrencyCode" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>Currency Code for the Bank Account from ISO 4217.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="GeneralLedgerAccountID" type="SAFmiddle2textType" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>Link to a General Ledger account.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-			</xs:sequence>
-		</xs:choice>
+				<xs:sequence>
+					<xs:element name="BankAccountNumber" type="SAFmiddle1textType">
+						<xs:annotation>
+							<xs:documentation>The number allocated to the account by the individual’s or company’s own bank.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element name="BankAccountName" type="SAFmiddle2textType" minOccurs="0">
+						<xs:annotation>
+							<xs:documentation>The name of the individual or company holding the bank account.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element name="SortCode" type="SAFshorttextType" minOccurs="0">
+						<xs:annotation>
+							<xs:documentation>Identifier for the bank branch at which the account is held. May be needed to uniquely identify the account. Also known as ABA Number or National Bank Code</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+				</xs:sequence>
+			</xs:choice>
+			<xs:element name="BIC" type="SAFshorttextType" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>Bank Identifier Code.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="CurrencyCode" type="ISOCurrencyCode" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>Currency Code for the Bank Account from ISO 4217.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="GeneralLedgerAccountID" type="SAFmiddle2textType" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>Link to a General Ledger account.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
 	</xs:complexType>
 	<xs:complexType name="CompanyHeaderStructure">
 		<xs:annotation>
