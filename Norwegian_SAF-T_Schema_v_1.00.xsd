@@ -11,7 +11,7 @@
 			</doc:Version>
 			<doc:Author>SAF-T Working group</doc:Author>
 			<doc:BasedOn>OECD Standard Audit File - Taxation 2.00</doc:BasedOn>
-			<doc:ModificationDate>23-01-2016</doc:ModificationDate>
+			<doc:ModificationDate>26-01-2016</doc:ModificationDate>
 		</xs:documentation>
 	</xs:annotation>
 	<xs:element name="AuditFile">
@@ -3178,14 +3178,20 @@ The only valid value is “Skatteetaten ”.</xs:documentation>
 			<xs:documentation>Tax Amount information structure.</xs:documentation>
 		</xs:annotation>
 		<xs:sequence>
-			<xs:element name="TaxType" type="SAFcodeType" minOccurs="0">
+			<xs:element name="TaxType" minOccurs="0">
 				<xs:annotation>
-					<xs:documentation>Tax type for look-up in tables</xs:documentation>
+					<xs:documentation>Tax type for look-up in tables.
+If used, then the only valid value is "MVA".</xs:documentation>
 				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="SAFcodeType">
+						<xs:enumeration value="MVA"/>
+					</xs:restriction>
+				</xs:simpleType>
 			</xs:element>
 			<xs:element name="TaxCode" type="SAFcodeType" minOccurs="0">
 				<xs:annotation>
-					<xs:documentation>Tax Code for lookup in tables</xs:documentation>
+					<xs:documentation>Tax Code for lookup in tables.</xs:documentation>
 				</xs:annotation>
 			</xs:element>
 			<xs:element name="TaxPercentage" type="xs:decimal" minOccurs="0">
