@@ -11,7 +11,7 @@
 			</doc:Version>
 			<doc:Author>SAF-T Working group</doc:Author>
 			<doc:BasedOn>OECD Standard Audit File - Taxation 2.00</doc:BasedOn>
-			<doc:ModificationDate>26-01-2016</doc:ModificationDate>
+			<doc:ModificationDate>27-01-2016</doc:ModificationDate>
 		</xs:documentation>
 	</xs:annotation>
 	<xs:element name="AuditFile">
@@ -449,7 +449,7 @@ Asset, Liability, Sale, Expense</xs:documentation>
 												<xs:sequence>
 													<xs:element name="AnalysisType" type="SAFcodeType">
 														<xs:annotation>
-															<xs:documentation>Analysis type identifier/code for the dimension type (e.g. departments, projects, journal types, cost centers, etc.)</xs:documentation>
+															<xs:documentation>Analysis type identifier/code for the dimension type (e.g. departments, projects, journal types, cost centers, employees, etc.)</xs:documentation>
 														</xs:annotation>
 													</xs:element>
 													<xs:element name="AnalysisTypeDescription" type="SAFlongtextType">
@@ -976,20 +976,32 @@ Enumerated: Active, Closed, Observation, Passive.</xs:documentation>
 							<xs:element name="Journal" minOccurs="0" maxOccurs="unbounded">
 								<xs:complexType>
 									<xs:sequence>
-										<xs:element name="JournalID" type="SAFshorttextType">
+										<xs:element name="JournalID">
 											<xs:annotation>
-												<xs:documentation>Source GL journal identifier, or invoices and payments in single ledger systems</xs:documentation>
+												<xs:documentation>Source GL journal identifier, or invoices and payments in single ledger systems.
+The only valid value is “A” (Assorted journals).</xs:documentation>
 											</xs:annotation>
+											<xs:simpleType>
+												<xs:restriction base="SAFshorttextType">
+													<xs:enumeration value="A"/>
+												</xs:restriction>
+											</xs:simpleType>
 										</xs:element>
 										<xs:element name="Description" type="SAFlongtextType">
 											<xs:annotation>
 												<xs:documentation>Description of the Journal</xs:documentation>
 											</xs:annotation>
 										</xs:element>
-										<xs:element name="Type" type="SAFcodeType">
+										<xs:element name="Type">
 											<xs:annotation>
-												<xs:documentation>Grouping mechanism for journals</xs:documentation>
+												<xs:documentation>Grouping mechanism for journals.
+The only valid value is “A” (Assorted types).</xs:documentation>
 											</xs:annotation>
+											<xs:simpleType>
+												<xs:restriction base="SAFcodeType">
+													<xs:enumeration value="A"/>
+												</xs:restriction>
+											</xs:simpleType>
 										</xs:element>
 										<xs:element name="Transaction" minOccurs="0" maxOccurs="unbounded">
 											<xs:annotation>
