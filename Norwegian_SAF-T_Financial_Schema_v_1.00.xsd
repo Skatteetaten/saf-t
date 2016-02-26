@@ -3,7 +3,7 @@
 <xs:schema xmlns="urn:OECD:StandardAuditFile-Taxation/2.00" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:doc="urn:schemas-OECD:schema-extensions:documentation" targetNamespace="urn:OECD:StandardAuditFile-Taxation/2.00" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.00" id="SAF-T">
 	<xs:annotation>
 		<xs:documentation>
-			<doc:Title>Norwegian Standard Audit File - Taxation</doc:Title>
+			<doc:Title>Norwegian SAF-T Financial data</doc:Title>
 			<doc:Copyright>Skatteetaten</doc:Copyright>
 			<doc:Version>
 				<doc:Number>1.00</doc:Number>
@@ -11,7 +11,7 @@
 			</doc:Version>
 			<doc:Author>SAF-T Working group</doc:Author>
 			<doc:BasedOn>OECD Standard Audit File - Taxation 2.00</doc:BasedOn>
-			<doc:ModificationDate>27-01-2016</doc:ModificationDate>
+			<doc:ModificationDate>26-02-2016</doc:ModificationDate>
 		</xs:documentation>
 	</xs:annotation>
 	<xs:element name="AuditFile">
@@ -72,6 +72,9 @@ The only valid value is “A” (Accounting).</xs:documentation>
 								<xs:complexType>
 									<xs:sequence>
 										<xs:element name="Account" maxOccurs="unbounded">
+											<xs:annotation>
+												<xs:documentation>General ledger account information.</xs:documentation>
+											</xs:annotation>
 											<xs:complexType>
 												<xs:sequence>
 													<xs:element name="AccountID" type="SAFmiddle2textType">
@@ -101,9 +104,7 @@ The only valid value is “A” (Accounting).</xs:documentation>
 													</xs:element>
 													<xs:element name="AccountType">
 														<xs:annotation>
-															<xs:documentation>Type of account. 
-Choose from the predefined enumerations:
-Asset, Liability, Sale, Expense</xs:documentation>
+															<xs:documentation>Type of account. Set standard account in the StandardAccountID element. The only valid value is “GL” (General Ledger).</xs:documentation>
 														</xs:annotation>
 														<xs:simpleType>
 															<xs:restriction base="SAFshorttextType">
@@ -113,7 +114,7 @@ Asset, Liability, Sale, Expense</xs:documentation>
 													</xs:element>
 													<xs:element name="AccountCreationDate" type="xs:date" minOccurs="0">
 														<xs:annotation>
-															<xs:documentation>Date of creating the generalledger account</xs:documentation>
+															<xs:documentation>Date of when the general ledger account was created.</xs:documentation>
 														</xs:annotation>
 													</xs:element>
 													<xs:choice>
@@ -195,6 +196,9 @@ Asset, Liability, Sale, Expense</xs:documentation>
 								<xs:complexType>
 									<xs:sequence>
 										<xs:element name="Customer" maxOccurs="unbounded">
+											<xs:annotation>
+												<xs:documentation>Customer information.</xs:documentation>
+											</xs:annotation>
 											<xs:complexType>
 												<xs:complexContent>
 													<xs:extension base="CompanyStructure">
@@ -206,7 +210,7 @@ Asset, Liability, Sale, Expense</xs:documentation>
 															</xs:element>
 															<xs:element name="SelfBillingIndicator" type="SAFcodeType" minOccurs="0">
 																<xs:annotation>
-																	<xs:documentation>Indicator showing if a self-billing agreement exists between the customer and the supplier</xs:documentation>
+																	<xs:documentation>Indicator showing if a self-billing agreement exists between the customer and the supplier.</xs:documentation>
 																</xs:annotation>
 															</xs:element>
 															<xs:element name="AccountID" type="SAFmiddle2textType" minOccurs="0">
@@ -258,6 +262,9 @@ Asset, Liability, Sale, Expense</xs:documentation>
 								<xs:complexType>
 									<xs:sequence>
 										<xs:element name="Supplier" maxOccurs="unbounded">
+											<xs:annotation>
+												<xs:documentation>Supplier information.</xs:documentation>
+											</xs:annotation>
 											<xs:complexType>
 												<xs:complexContent>
 													<xs:extension base="CompanyStructure">
@@ -269,7 +276,7 @@ Asset, Liability, Sale, Expense</xs:documentation>
 															</xs:element>
 															<xs:element name="SelfBillingIndicator" type="SAFcodeType" minOccurs="0">
 																<xs:annotation>
-																	<xs:documentation>Indicator showing if a self-billing agreement exists between the customer and the supplier</xs:documentation>
+																	<xs:documentation>Indicator showing if a self-billing agreement exists between the customer and the supplier.</xs:documentation>
 																</xs:annotation>
 															</xs:element>
 															<xs:element name="AccountID" type="SAFmiddle2textType" minOccurs="0">
@@ -321,12 +328,14 @@ Asset, Liability, Sale, Expense</xs:documentation>
 								<xs:complexType>
 									<xs:sequence>
 										<xs:element name="TaxTableEntry" maxOccurs="unbounded">
+											<xs:annotation>
+												<xs:documentation>Tax entry information.</xs:documentation>
+											</xs:annotation>
 											<xs:complexType>
 												<xs:sequence>
 													<xs:element name="TaxType">
 														<xs:annotation>
-															<xs:documentation>Tax type for look-up in tables. 
-“MVA” is the only valid value.</xs:documentation>
+															<xs:documentation>Tax type for look-up in tables. “MVA” is the only valid value.</xs:documentation>
 														</xs:annotation>
 														<xs:simpleType>
 															<xs:restriction base="SAFcodeType">
@@ -336,8 +345,7 @@ Asset, Liability, Sale, Expense</xs:documentation>
 													</xs:element>
 													<xs:element name="Description">
 														<xs:annotation>
-															<xs:documentation>Description of the Tax Type. 
-“Merverdiavgift” is the only valid value.</xs:documentation>
+															<xs:documentation>Description of the Tax Type. “Merverdiavgift” is the only valid value.</xs:documentation>
 														</xs:annotation>
 														<xs:simpleType>
 															<xs:restriction base="SAFlongtextType">
@@ -440,16 +448,19 @@ Asset, Liability, Sale, Expense</xs:documentation>
 							</xs:element>
 							<xs:element name="AnalysisTypeTable" minOccurs="0">
 								<xs:annotation>
-									<xs:documentation>Table with the analysis code identifiers. Used for further specification of transaction data. Example: cost unit, cost center, project, department, provider, journal type, etc. </xs:documentation>
+									<xs:documentation>Table with the analysis code identifiers. Used for further specification of transaction data. Example: cost unit, cost center, project, department, provider, journal type, employees, etc. Journal type (bilagsart) should always be used on all transactions.</xs:documentation>
 								</xs:annotation>
 								<xs:complexType>
 									<xs:sequence>
 										<xs:element name="AnalysisTypeTableEntry" maxOccurs="unbounded">
+											<xs:annotation>
+												<xs:documentation>Analysis entry information.</xs:documentation>
+											</xs:annotation>
 											<xs:complexType>
 												<xs:sequence>
 													<xs:element name="AnalysisType" type="SAFcodeType">
 														<xs:annotation>
-															<xs:documentation>Analysis type identifier/code for the dimension type (e.g. departments, projects, journal types, cost centers, employees, etc.)</xs:documentation>
+															<xs:documentation>Analysis type identifier/code for the dimension type (e.g. departments, projects, journal types, cost centers, employees, etc.).</xs:documentation>
 														</xs:annotation>
 													</xs:element>
 													<xs:element name="AnalysisTypeDescription" type="SAFlongtextType">
@@ -479,8 +490,7 @@ Asset, Liability, Sale, Expense</xs:documentation>
 													</xs:element>
 													<xs:element name="Status" minOccurs="0">
 														<xs:annotation>
-															<xs:documentation>Status of the analysis entry.
-Enumerated: Active, Closed, Observation, Passive.</xs:documentation>
+															<xs:documentation>Status of the analysis entry. Choose from the predefined enumerations: Active, Closed, Observation, Passive.</xs:documentation>
 														</xs:annotation>
 														<xs:simpleType>
 															<xs:restriction base="SAFmiddle1textType">
@@ -731,6 +741,9 @@ Enumerated: Active, Closed, Observation, Passive.</xs:documentation>
 								<xs:complexType>
 									<xs:sequence>
 										<xs:element name="Owner" maxOccurs="unbounded">
+											<xs:annotation>
+												<xs:documentation>Owner information.</xs:documentation>
+											</xs:annotation>
 											<xs:complexType>
 												<xs:complexContent>
 													<xs:extension base="CompanyStructure">
@@ -974,12 +987,14 @@ Enumerated: Active, Closed, Observation, Passive.</xs:documentation>
 								</xs:annotation>
 							</xs:element>
 							<xs:element name="Journal" minOccurs="0" maxOccurs="unbounded">
+								<xs:annotation>
+									<xs:documentation>Journal information.</xs:documentation>
+								</xs:annotation>
 								<xs:complexType>
 									<xs:sequence>
 										<xs:element name="JournalID">
 											<xs:annotation>
-												<xs:documentation>Source GL journal identifier, or invoices and payments in single ledger systems.
-The only valid value is “A” (Assorted journals).</xs:documentation>
+												<xs:documentation>Source GL journal identifier, or invoices and payments in single ledger systems. The only valid value is “A” (Assorted journals).</xs:documentation>
 											</xs:annotation>
 											<xs:simpleType>
 												<xs:restriction base="SAFshorttextType">
@@ -994,8 +1009,7 @@ The only valid value is “A” (Assorted journals).</xs:documentation>
 										</xs:element>
 										<xs:element name="Type">
 											<xs:annotation>
-												<xs:documentation>Grouping mechanism for journals.
-The only valid value is “A” (Assorted types).</xs:documentation>
+												<xs:documentation>Grouping mechanism for journals. The only valid value is “A” (Assorted types).</xs:documentation>
 											</xs:annotation>
 											<xs:simpleType>
 												<xs:restriction base="SAFcodeType">
@@ -1016,12 +1030,12 @@ The only valid value is “A” (Assorted types).</xs:documentation>
 													</xs:element>
 													<xs:element name="Period" type="xs:nonNegativeInteger">
 														<xs:annotation>
-															<xs:documentation>Accounting Period</xs:documentation>
+															<xs:documentation>Accounting Period.</xs:documentation>
 														</xs:annotation>
 													</xs:element>
 													<xs:element name="PeriodYear">
 														<xs:annotation>
-															<xs:documentation>The year of the Accounting Period.</xs:documentation>
+															<xs:documentation>The year of the Accounting Period. Restriction: 1970-2100.</xs:documentation>
 														</xs:annotation>
 														<xs:simpleType>
 															<xs:restriction base="xs:nonNegativeInteger">
@@ -1037,7 +1051,7 @@ The only valid value is “A” (Assorted types).</xs:documentation>
 													</xs:element>
 													<xs:element name="SourceID" type="SAFmiddle1textType" minOccurs="0">
 														<xs:annotation>
-															<xs:documentation>Details of person or application that entered the transaction</xs:documentation>
+															<xs:documentation>Details of person or application that entered the transaction.</xs:documentation>
 														</xs:annotation>
 													</xs:element>
 													<xs:element name="TransactionType" type="SAFshorttextType" minOccurs="0">
@@ -1047,24 +1061,22 @@ The only valid value is “A” (Assorted types).</xs:documentation>
 													</xs:element>
 													<xs:element name="Description" type="SAFlongtextType">
 														<xs:annotation>
-															<xs:documentation>Description of Journal Transaction</xs:documentation>
+															<xs:documentation>Description of Journal Transaction.</xs:documentation>
 														</xs:annotation>
 													</xs:element>
 													<xs:element name="BatchID" type="SAFmiddle1textType" minOccurs="0">
 														<xs:annotation>
-															<xs:documentation>Systems generated ID for batch</xs:documentation>
+															<xs:documentation>Systems generated ID for batch.</xs:documentation>
 														</xs:annotation>
 													</xs:element>
 													<xs:element name="SystemEntryDate" type="xs:date">
 														<xs:annotation>
-															<xs:documentation>Date captured by system. The date when the transaction was entered into the system - manual entry, imported transaction, etc. 
-If this date is not available in your system, use the TransactionDate.</xs:documentation>
+															<xs:documentation>Date captured by system. The date when the transaction was entered into the system - manual entry, imported transaction, etc. If this date is not available in your system, use the TransactionDate.</xs:documentation>
 														</xs:annotation>
 													</xs:element>
 													<xs:element name="GLPostingDate" type="xs:date">
 														<xs:annotation>
-															<xs:documentation>Date posting to the general ledger account. The date when the transaction was updated to the database. 
-If this date is not available in your system, use the TransactionDate.</xs:documentation>
+															<xs:documentation>Date posting to the general ledger account. The date when the transaction was updated to the database. If this date is not available in your system, use the TransactionDate.</xs:documentation>
 														</xs:annotation>
 													</xs:element>
 													<xs:element name="CustomerID" type="SAFmiddle1textType" minOccurs="0">
@@ -1090,13 +1102,12 @@ If this date is not available in your system, use the TransactionDate.</xs:docum
 															<xs:sequence>
 																<xs:element name="RecordID" type="SAFshorttextType">
 																	<xs:annotation>
-																		<xs:documentation>Identifier to trace entry to journal line or posting reference</xs:documentation>
+																		<xs:documentation>Identifier to trace entry to journal line or posting reference.</xs:documentation>
 																	</xs:annotation>
 																</xs:element>
 																<xs:element name="AccountID" type="SAFmiddle2textType">
 																	<xs:annotation>
-																		<xs:documentation>General ledger account code/number. 
-If this Line is a ledger/sub account (accounts payable or accounts receivable) entry, then this is the account code/number into where this ledger/sub account is consolidated in the balance sheet. </xs:documentation>
+																		<xs:documentation>General ledger account code/number. If this Line is a ledger/sub account (accounts payable or accounts receivable) entry, then this is the account code/number into where this ledger/sub account is consolidated in the balance sheet. </xs:documentation>
 																	</xs:annotation>
 																</xs:element>
 																<xs:element name="Analysis" type="AnalysisStructure" minOccurs="0" maxOccurs="unbounded">
@@ -1106,27 +1117,22 @@ If this Line is a ledger/sub account (accounts payable or accounts receivable) e
 																</xs:element>
 																<xs:element name="ValueDate" type="xs:date" minOccurs="0">
 																	<xs:annotation>
-																		<xs:documentation>Effective date from which interest charged. 
-To be reported when this date or this Line of the accounting document/voucher differs from the TransactionDate.</xs:documentation>
+																		<xs:documentation>Effective date from which interest charged. To be reported when this date or this Line of the accounting document/voucher differs from the TransactionDate.</xs:documentation>
 																	</xs:annotation>
 																</xs:element>
 																<xs:element name="SourceDocumentID" type="SAFmiddle1textType" minOccurs="0">
 																	<xs:annotation>
-																		<xs:documentation>Source document number to which line relates</xs:documentation>
+																		<xs:documentation>Source document number to which line relates.</xs:documentation>
 																	</xs:annotation>
 																</xs:element>
 																<xs:element name="CustomerID" type="SAFmiddle1textType" minOccurs="0">
 																	<xs:annotation>
-																		<xs:documentation>Unique account code/number for the customer.
-Is only used if this Line is a ledger/sub account (accounts payable or accounts receivable) entry.
-Must not be used in conjunction with SupplierID.</xs:documentation>
+																		<xs:documentation>Unique account code/number for the customer. Is only used if this Line is a ledger/sub account (accounts payable or accounts receivable) entry. Must not be used in conjunction with SupplierID.</xs:documentation>
 																	</xs:annotation>
 																</xs:element>
 																<xs:element name="SupplierID" type="SAFmiddle1textType" minOccurs="0">
 																	<xs:annotation>
-																		<xs:documentation>Unique account code/number for the supplier.
-Is only used if this Line is a ledger/sub account (accounts payable or accounts receivable) entry.
-Must not be used in conjunction with CustomerID.</xs:documentation>
+																		<xs:documentation>Unique account code/number for the supplier. Is only used if this Line is a ledger/sub account (accounts payable or accounts receivable) entry. Must not be used in conjunction with CustomerID.</xs:documentation>
 																	</xs:annotation>
 																</xs:element>
 																<xs:element name="Description" type="SAFlongtextType">
@@ -1137,12 +1143,12 @@ Must not be used in conjunction with CustomerID.</xs:documentation>
 																<xs:choice>
 																	<xs:element name="DebitAmount" type="AmountStructure">
 																		<xs:annotation>
-																			<xs:documentation>Debit amount information for transaction</xs:documentation>
+																			<xs:documentation>Debit amount information for transaction.</xs:documentation>
 																		</xs:annotation>
 																	</xs:element>
 																	<xs:element name="CreditAmount" type="AmountStructure">
 																		<xs:annotation>
-																			<xs:documentation>Credit amount information for transaction</xs:documentation>
+																			<xs:documentation>Credit amount information for transaction.</xs:documentation>
 																		</xs:annotation>
 																	</xs:element>
 																</xs:choice>
@@ -1173,7 +1179,7 @@ Must not be used in conjunction with CustomerID.</xs:documentation>
 																</xs:element>
 																<xs:element name="CrossReference" type="SAFmiddle1textType" minOccurs="0">
 																	<xs:annotation>
-																		<xs:documentation>Cross-reference.</xs:documentation>
+																		<xs:documentation>Cross-reference. Information about matched documents/records.</xs:documentation>
 																	</xs:annotation>
 																</xs:element>
 																<xs:element name="SystemEntryTime" type="xs:dateTime" minOccurs="0">
