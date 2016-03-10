@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!-- edited with XMLSpy v2014 sp1 (x64) (http://www.altova.com) by Geir Ove Klefsåsvold (Visma Software International AS) -->
-<xs:schema xmlns="urn:OECD:StandardAuditFile-Taxation/2.00" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:doc="urn:schemas-OECD:schema-extensions:documentation" targetNamespace="urn:OECD:StandardAuditFile-Taxation/2.00" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.00" id="SAF-T">
+<xs:schema xmlns="urn:OECD:StandardAuditFile-Taxation:NO" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:doc="urn:schemas-OECD:schema-extensions:documentation" targetNamespace="urn:OECD:StandardAuditFile-Taxation:NO" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.00" id="SAF-T">
 	<xs:annotation>
 		<xs:documentation>
 			<doc:Title>Norwegian SAF-T Financial data</doc:Title>
@@ -11,7 +11,7 @@
 			</doc:Version>
 			<doc:Author>SAF-T Working group</doc:Author>
 			<doc:BasedOn>OECD Standard Audit File - Taxation 2.00</doc:BasedOn>
-			<doc:ModificationDate>26-02-2016</doc:ModificationDate>
+			<doc:ModificationDate>07-03-2016</doc:ModificationDate>
 		</xs:documentation>
 	</xs:annotation>
 	<xs:element name="AuditFile">
@@ -30,8 +30,7 @@
 								<xs:sequence>
 									<xs:element name="TaxAccountingBasis">
 										<xs:annotation>
-											<xs:documentation>Type of data in the audit file.
-The only valid value is “A” (Accounting).</xs:documentation>
+											<xs:documentation>Type of data in the audit file. The only valid value is “A” (Accounting).</xs:documentation>
 										</xs:annotation>
 										<xs:simpleType>
 											<xs:restriction base="SAFshorttextType">
