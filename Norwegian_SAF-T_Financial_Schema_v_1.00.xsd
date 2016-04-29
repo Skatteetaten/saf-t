@@ -11,7 +11,6 @@
 			</doc:Version>
 			<doc:Author>SAF-T Working group</doc:Author>
 			<doc:BasedOn>OECD Standard Audit File - Taxation 2.00</doc:BasedOn>
-			<doc:ModificationDate>16-03-2016</doc:ModificationDate>
 		</xs:documentation>
 	</xs:annotation>
 	<xs:element name="AuditFile">
@@ -398,6 +397,16 @@
 																<xs:element name="Region" type="SAFcodeType" minOccurs="0">
 																	<xs:annotation>
 																		<xs:documentation>Not in use.</xs:documentation>
+																	</xs:annotation>
+																</xs:element>
+																<xs:element name="StandardTaxCode" type="SAFmiddle1textType">
+																	<xs:annotation>
+																		<xs:documentation>Standard Tax Code.</xs:documentation>
+																	</xs:annotation>
+																</xs:element>
+																<xs:element name="Compensation" type="xs:boolean" minOccurs="0">
+																	<xs:annotation>
+																		<xs:documentation>Indicates if the Tax Code is used for compensation.</xs:documentation>
 																	</xs:annotation>
 																</xs:element>
 																<xs:element name="BaseRate" maxOccurs="unbounded">
