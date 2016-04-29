@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2014 sp1 (x64) (http://www.altova.com) by Geir Ove Klefsåsvold (Visma Software International AS) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" attributeFormDefault="unqualified" vc:minVersion="1.1">
+	<xs:element name="StandardTaxCodes">
+		<xs:annotation>
+			<xs:documentation>Standard Tax Codes for use in Norwegian SAF-T</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="TaxCode" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation>Tax Codes</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ID" type="xs:string">
+								<xs:annotation>
+									<xs:documentation>Standard Tax Code</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="Description" maxOccurs="unbounded">
+								<xs:annotation>
+									<xs:documentation>Description of the stadard Tax Code</xs:documentation>
+								</xs:annotation>
+								<xs:complexType>
+									<xs:simpleContent>
+										<xs:extension base="xs:string">
+											<xs:attribute name="ISOLanguageCode">
+												<xs:annotation>
+													<xs:documentation>Three-letter language code according to ISO 639-3 standared. Example: NOB for Norwegian.</xs:documentation>
+												</xs:annotation>
+											</xs:attribute>
+										</xs:extension>
+									</xs:simpleContent>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="TaxRate" type="TaxRate" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation>Tax rate.</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+							<xs:element name="Compensation" type="xs:boolean" minOccurs="0">
+								<xs:annotation>
+									<xs:documentation>Indicates if the tax code might apply to/be appropriate for compensation, depending on the specific circumstances.</xs:documentation>
+								</xs:annotation>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:simpleType name="TaxRate">
+		<xs:annotation>
+			<xs:documentation>Tax rates.</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Regular rate"/>
+			<xs:enumeration value="Reduced rate, foodstuffs"/>
+			<xs:enumeration value="Reduced rate, raw fish"/>
+			<xs:enumeration value="Reduced rate"/>
+			<xs:enumeration value="Zero rate"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>
