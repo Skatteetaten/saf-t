@@ -22,7 +22,7 @@
 	</Account>
 	<Account>
 		<AccountID>1031</AccountID>
-		<Description ISOLanguageCode="NOB">Patenter, ervervet </Description>
+		<Description ISOLanguageCode="NOB">Patenter, ervervet</Description>
 		<Description ISOLanguageCode="ENG">Patents, acquired</Description>
 	</Account>
 	<Account>
@@ -207,7 +207,7 @@
 	</Account>
 	<Account>
 		<AccountID>1270</AccountID>
-		<Description ISOLanguageCode="NOB">Verktøy o.l. </Description>
+		<Description ISOLanguageCode="NOB">Verktøy o.l.</Description>
 		<Description ISOLanguageCode="ENG">Tools etc.</Description>
 	</Account>
 	<Account>
@@ -341,7 +341,7 @@
 		<Description ISOLanguageCode="ENG">Receivables from employed owners</Description>
 	</Account>
 	<Account>
-		<AccountID>1394</AccountID>
+		<AccountID>1393</AccountID>
 		<Description ISOLanguageCode="NOB">Innskuddsfond</Description>
 		<Description ISOLanguageCode="ENG">Deposit fund</Description>
 	</Account>
@@ -678,7 +678,7 @@
 	<Account>
 		<AccountID>1780</AccountID>
 		<Description ISOLanguageCode="NOB">Krav på innbetaling av selskapskapital</Description>
-		<Description ISOLanguageCode="ENG">Unpaid subscribed capital </Description>
+		<Description ISOLanguageCode="ENG">Unpaid subscribed capital</Description>
 	</Account>
 	<Account>
 		<AccountID>1801</AccountID>
@@ -842,23 +842,13 @@
 	</Account>
 	<Account>
 		<AccountID>2000</AccountID>
-		<Description ISOLanguageCode="NOB">Aksjekapital</Description>
-		<Description ISOLanguageCode="ENG">Subscribed share capital</Description>
-	</Account>
-	<Account>
-		<AccountID>2000</AccountID>
-		<Description ISOLanguageCode="NOB">Egenkapital, bundet</Description>
-		<Description ISOLanguageCode="ENG">Equity, undistributable</Description>
+		<Description ISOLanguageCode="NOB">Aksjekapital/Egenkapital, bundet</Description>
+		<Description ISOLanguageCode="ENG">Subscribed share capital/Equity, undistributable</Description>
 	</Account>
 	<Account>
 		<AccountID>2010</AccountID>
-		<Description ISOLanguageCode="NOB">Egne aksjer</Description>
-		<Description ISOLanguageCode="ENG">Own shares (treasury stock)</Description>
-	</Account>
-	<Account>
-		<AccountID>2010</AccountID>
-		<Description ISOLanguageCode="NOB">Felleseid andelskapital</Description>
-		<Description ISOLanguageCode="ENG">Jointly-owned cooperative share capital</Description>
+		<Description ISOLanguageCode="NOB">Egne aksjer/Felleseid andelskapital</Description>
+		<Description ISOLanguageCode="ENG">Own shares (treasury stock)/Jointly-owned cooperative share capital</Description>
 	</Account>
 	<Account>
 		<AccountID>2020</AccountID>
@@ -901,24 +891,9 @@
 		<Description ISOLanguageCode="ENG">Reserve for valuation variances, general partnership-companies and likewise</Description>
 	</Account>
 	<Account>
-		<AccountID>2041</AccountID>
-		<Description ISOLanguageCode="NOB">Fond for vurderingsforskjeller i DLS</Description>
-		<Description ISOLanguageCode="ENG">Reserve for valuation variances, general partnership-companies and likewise</Description>
-	</Account>
-	<Account>
 		<AccountID>2042</AccountID>
 		<Description ISOLanguageCode="NOB">Fond for vurderingsforskjeller i andre selskap</Description>
 		<Description ISOLanguageCode="ENG">Reserve for valuation variances, other companies</Description>
-	</Account>
-	<Account>
-		<AccountID>2042</AccountID>
-		<Description ISOLanguageCode="NOB">Fond for vurderingsforskjeller i andre selskap</Description>
-		<Description ISOLanguageCode="ENG">Reserve for valuation variances, other companies</Description>
-	</Account>
-	<Account>
-		<AccountID>2045</AccountID>
-		<Description ISOLanguageCode="NOB">Fond for urealiserte gevinster</Description>
-		<Description ISOLanguageCode="ENG">Reserve for non-realised gains</Description>
 	</Account>
 	<Account>
 		<AccountID>2045</AccountID>
@@ -1008,12 +983,7 @@
 	<Account>
 		<AccountID>2078</AccountID>
 		<Description ISOLanguageCode="NOB">Premie til tilleggstrygd for sykepenger</Description>
-		<Description ISOLanguageCode="ENG">Premium for supplementary national insurance for sickness benefits </Description>
-	</Account>
-	<Account>
-		<AccountID>2080</AccountID>
-		<Description ISOLanguageCode="NOB">Udekket tap</Description>
-		<Description ISOLanguageCode="ENG">Uncovered loss</Description>
+		<Description ISOLanguageCode="ENG">Premium for supplementary national insurance for sickness benefits</Description>
 	</Account>
 	<Account>
 		<AccountID>2080</AccountID>
@@ -1023,12 +993,7 @@
 	<Account>
 		<AccountID>2099</AccountID>
 		<Description ISOLanguageCode="NOB">Udisponert resultat</Description>
-		<Description ISOLanguageCode="ENG">Retained result </Description>
-	</Account>
-	<Account>
-		<AccountID>2099</AccountID>
-		<Description ISOLanguageCode="NOB">Udisponert resultat</Description>
-		<Description ISOLanguageCode="ENG">Retained result </Description>
+		<Description ISOLanguageCode="ENG">Retained result</Description>
 	</Account>
 	<Account>
 		<AccountID>2100</AccountID>
@@ -1122,8 +1087,8 @@
 	</Account>
 	<Account>
 		<AccountID>2360</AccountID>
-		<Description ISOLanguageCode="NOB">Byggelån </Description>
-		<Description ISOLanguageCode="ENG">Construction loans </Description>
+		<Description ISOLanguageCode="NOB">Byggelån</Description>
+		<Description ISOLanguageCode="ENG">Construction loans</Description>
 	</Account>
 	<Account>
 		<AccountID>2380</AccountID>
@@ -1137,7 +1102,7 @@
 	</Account>
 	<Account>
 		<AccountID>2400</AccountID>
-		<Description ISOLanguageCode="NOB">Leverandørgjeld </Description>
+		<Description ISOLanguageCode="NOB">Leverandørgjeld</Description>
 		<Description ISOLanguageCode="ENG">Trade creditors</Description>
 	</Account>
 	<Account>
@@ -1173,7 +1138,7 @@
 	<Account>
 		<AccountID>2620</AccountID>
 		<Description ISOLanguageCode="NOB">Bidragstrekk</Description>
-		<Description ISOLanguageCode="ENG">Deduction of support (child-support etc) payments</Description>
+		<Description ISOLanguageCode="ENG">Deduction of support (child-support etc.) payments</Description>
 	</Account>
 	<Account>
 		<AccountID>2630</AccountID>
@@ -1728,7 +1693,7 @@
 	<Account>
 		<AccountID>3889</AccountID>
 		<Description ISOLanguageCode="NOB">Motkonto balanseverdi solgte immatr. eiendeler og varige driftsmidler</Description>
-		<Description ISOLanguageCode="ENG">Contra account, book value of intangible assets and tangible fixed assets </Description>
+		<Description ISOLanguageCode="ENG">Contra account, book value of intangible assets and tangible fixed assets</Description>
 	</Account>
 	<Account>
 		<AccountID>3891</AccountID>
@@ -1892,7 +1857,7 @@
 	</Account>
 	<Account>
 		<AccountID>4600</AccountID>
-		<Description ISOLanguageCode="NOB">Emballasjematerialer </Description>
+		<Description ISOLanguageCode="NOB">Emballasjematerialer</Description>
 		<Description ISOLanguageCode="ENG">Packing materials</Description>
 	</Account>
 	<Account>
@@ -2047,12 +2012,12 @@
 	</Account>
 	<Account>
 		<AccountID>5401</AccountID>
-		<Description ISOLanguageCode="NOB">Arbeidsgiveravgift </Description>
+		<Description ISOLanguageCode="NOB">Arbeidsgiveravgift</Description>
 		<Description ISOLanguageCode="ENG">Employers national insurance contributions</Description>
 	</Account>
 	<Account>
 		<AccountID>5405</AccountID>
-		<Description ISOLanguageCode="NOB">Arbeidsgiveravgift av påløpte feriepenger </Description>
+		<Description ISOLanguageCode="NOB">Arbeidsgiveravgift av påløpte feriepenger</Description>
 		<Description ISOLanguageCode="ENG">Employers national insurance contributions on accrued holiday pay</Description>
 	</Account>
 	<Account>
@@ -2062,7 +2027,7 @@
 	</Account>
 	<Account>
 		<AccountID>5500</AccountID>
-		<Description ISOLanguageCode="NOB">Annen kostnadsgodtgjørelse </Description>
+		<Description ISOLanguageCode="NOB">Annen kostnadsgodtgjørelse</Description>
 		<Description ISOLanguageCode="ENG">Other expense allowances</Description>
 	</Account>
 	<Account>
@@ -2138,12 +2103,12 @@
 	<Account>
 		<AccountID>5941</AccountID>
 		<Description ISOLanguageCode="NOB">LO/NHO-ordningen (O&amp;U+sluttvederlag)</Description>
-		<Description ISOLanguageCode="ENG">LO/NHO scheme (O&amp;U + severance pay)[1] </Description>
+		<Description ISOLanguageCode="ENG">LO/NHO scheme (O&amp;U + severance pay)</Description>
 	</Account>
 	<Account>
 		<AccountID>5942</AccountID>
 		<Description ISOLanguageCode="NOB">LO/NHO-ordningen (AFP)</Description>
-		<Description ISOLanguageCode="ENG">LO/NHO scheme (AFP)[2] </Description>
+		<Description ISOLanguageCode="ENG">LO/NHO scheme (AFP)</Description>
 	</Account>
 	<Account>
 		<AccountID>5950</AccountID>
@@ -2262,7 +2227,7 @@
 	</Account>
 	<Account>
 		<AccountID>6320</AccountID>
-		<Description ISOLanguageCode="NOB">Renovasjon, vann, avløp o.l. </Description>
+		<Description ISOLanguageCode="NOB">Renovasjon, vann, avløp o.l.</Description>
 		<Description ISOLanguageCode="ENG">Waste disposal, water, sewage etc.</Description>
 	</Account>
 	<Account>
@@ -2397,7 +2362,7 @@
 	</Account>
 	<Account>
 		<AccountID>6620</AccountID>
-		<Description ISOLanguageCode="NOB">Reparasjon og vedlikehold utstyr </Description>
+		<Description ISOLanguageCode="NOB">Reparasjon og vedlikehold utstyr</Description>
 		<Description ISOLanguageCode="ENG">Repair and maintenance of equipment</Description>
 	</Account>
 	<Account>
@@ -2467,12 +2432,12 @@
 	</Account>
 	<Account>
 		<AccountID>6840</AccountID>
-		<Description ISOLanguageCode="NOB">Aviser, tidsskrifter, bøker o.l. </Description>
+		<Description ISOLanguageCode="NOB">Aviser, tidsskrifter, bøker o.l.</Description>
 		<Description ISOLanguageCode="ENG">Newspapers, journals/periodicals, books etc.</Description>
 	</Account>
 	<Account>
 		<AccountID>6860</AccountID>
-		<Description ISOLanguageCode="NOB">Møte, kurs, oppdatering o.l. </Description>
+		<Description ISOLanguageCode="NOB">Møte, kurs, oppdatering o.l.</Description>
 		<Description ISOLanguageCode="ENG">Meetings, seminars/courses, refresher courses etc.</Description>
 	</Account>
 	<Account>
@@ -2487,7 +2452,7 @@
 	</Account>
 	<Account>
 		<AccountID>6903</AccountID>
-		<Description ISOLanguageCode="NOB">Mobiltelefon </Description>
+		<Description ISOLanguageCode="NOB">Mobiltelefon</Description>
 		<Description ISOLanguageCode="ENG">Mobile telephone</Description>
 	</Account>
 	<Account>
@@ -2682,7 +2647,7 @@
 	</Account>
 	<Account>
 		<AccountID>7620</AccountID>
-		<Description ISOLanguageCode="NOB">Kostnad ved varemerke o.l. </Description>
+		<Description ISOLanguageCode="NOB">Kostnad ved varemerke o.l.</Description>
 		<Description ISOLanguageCode="ENG">Cost related to trademarks etc.</Description>
 	</Account>
 	<Account>
@@ -2778,7 +2743,7 @@
 	<Account>
 		<AccountID>7889</AccountID>
 		<Description ISOLanguageCode="NOB">Motkonto, balanseverdi solgte immatr. eiendeler og varige driftsmidler</Description>
-		<Description ISOLanguageCode="ENG">Contra account, book value of sold intangible assets and tangible fixed assets </Description>
+		<Description ISOLanguageCode="ENG">Contra account, book value of sold intangible assets and tangible fixed assets</Description>
 	</Account>
 	<Account>
 		<AccountID>7891</AccountID>
@@ -2797,8 +2762,8 @@
 	</Account>
 	<Account>
 		<AccountID>7972</AccountID>
-		<Description ISOLanguageCode="NOB">Justering merverdiavgift maskiner, inventar mv</Description>
-		<Description ISOLanguageCode="ENG">Ajustment VAT machinery, fixtures and fittings etc  </Description>
+		<Description ISOLanguageCode="NOB">Justering merverdiavgift maskiner, inventar mv.</Description>
+		<Description ISOLanguageCode="ENG">Ajustment VAT machinery, fixtures and fittings etc.</Description>
 	</Account>
 	<Account>
 		<AccountID>8001</AccountID>
@@ -2973,7 +2938,7 @@
 	<Account>
 		<AccountID>8110</AccountID>
 		<Description ISOLanguageCode="NOB">Nedskrivning av andre finansielle omløpsmidler</Description>
-		<Description ISOLanguageCode="ENG">Write-down on other financial current assets </Description>
+		<Description ISOLanguageCode="ENG">Write-down on other financial current assets</Description>
 	</Account>
 	<Account>
 		<AccountID>8121</AccountID>
@@ -3102,7 +3067,7 @@
 	</Account>
 	<Account>
 		<AccountID>8900</AccountID>
-		<Description ISOLanguageCode="NOB">Overføringer fond </Description>
+		<Description ISOLanguageCode="NOB">Overføringer fond</Description>
 		<Description ISOLanguageCode="ENG">Reserve transfers</Description>
 	</Account>
 	<Account>

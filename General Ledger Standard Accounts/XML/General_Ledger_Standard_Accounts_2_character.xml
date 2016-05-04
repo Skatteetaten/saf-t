@@ -12,7 +12,7 @@
 	</Account>
 	<Account>
 		<AccountID>12</AccountID>
-		<Description ISOLanguageCode="NOB">Transportmidler, inventar, maskiner o.l. </Description>
+		<Description ISOLanguageCode="NOB">Transportmidler, inventar, maskiner o.l.</Description>
 		<Description ISOLanguageCode="ENG">Means of transport, fixtures and fittings, machinery etc.</Description>
 	</Account>
 	<Account>
@@ -32,12 +32,12 @@
 	</Account>
 	<Account>
 		<AccountID>16</AccountID>
-		<Description ISOLanguageCode="NOB">Merverdiavgift, opptjente offentlige tilskudd o.l. </Description>
+		<Description ISOLanguageCode="NOB">Merverdiavgift, opptjente offentlige tilskudd o.l.</Description>
 		<Description ISOLanguageCode="ENG">VAT (value-added tax), earned public grants etc.</Description>
 	</Account>
 	<Account>
 		<AccountID>17</AccountID>
-		<Description ISOLanguageCode="NOB">Forskuddsbetalt kostnad, påløpt inntekt o.l. </Description>
+		<Description ISOLanguageCode="NOB">Forskuddsbetalt kostnad, påløpt inntekt o.l.</Description>
 		<Description ISOLanguageCode="ENG">Prepaid expenses, accrued income etc.</Description>
 	</Account>
 	<Account>
@@ -232,7 +232,7 @@
 	</Account>
 	<Account>
 		<AccountID>56</AccountID>
-		<Description ISOLanguageCode="NOB">Arbeidsgodtgjørelse til eiere o.l. </Description>
+		<Description ISOLanguageCode="NOB">Arbeidsgodtgjørelse til eiere o.l.</Description>
 		<Description ISOLanguageCode="ENG">Labour remuneration to owners etc.</Description>
 	</Account>
 	<Account>
@@ -272,7 +272,7 @@
 	</Account>
 	<Account>
 		<AccountID>64</AccountID>
-		<Description ISOLanguageCode="NOB">Leie maskiner, inventar, o.l. </Description>
+		<Description ISOLanguageCode="NOB">Leie maskiner, inventar, o.l.</Description>
 		<Description ISOLanguageCode="ENG">Rental of machinery, fixtures, fittings etc.</Description>
 	</Account>
 	<Account>
@@ -282,7 +282,7 @@
 	</Account>
 	<Account>
 		<AccountID>66</AccountID>
-		<Description ISOLanguageCode="NOB">Reparasjon og vedlikehold </Description>
+		<Description ISOLanguageCode="NOB">Reparasjon og vedlikehold</Description>
 		<Description ISOLanguageCode="ENG">Repair and maintenance</Description>
 	</Account>
 	<Account>
@@ -292,12 +292,12 @@
 	</Account>
 	<Account>
 		<AccountID>68</AccountID>
-		<Description ISOLanguageCode="NOB">Kontorkostnad, trykksak o.l. </Description>
+		<Description ISOLanguageCode="NOB">Kontorkostnad, trykksak o.l.</Description>
 		<Description ISOLanguageCode="ENG">Office costs, printed matter etc.</Description>
 	</Account>
 	<Account>
 		<AccountID>69</AccountID>
-		<Description ISOLanguageCode="NOB">Telefon og porto o.l. </Description>
+		<Description ISOLanguageCode="NOB">Telefon og porto o.l.</Description>
 		<Description ISOLanguageCode="ENG">Telephone and postage etc.</Description>
 	</Account>
 	<Account>
@@ -307,7 +307,7 @@
 	</Account>
 	<Account>
 		<AccountID>71</AccountID>
-		<Description ISOLanguageCode="NOB">Kostnad og godtgjørelse for reise, diett, bil, o.l. </Description>
+		<Description ISOLanguageCode="NOB">Kostnad og godtgjørelse for reise, diett, bil, o.l.</Description>
 		<Description ISOLanguageCode="ENG">Costs and allowances for travel, subsistence, car etc.</Description>
 	</Account>
 	<Account>
@@ -342,7 +342,7 @@
 	</Account>
 	<Account>
 		<AccountID>78</AccountID>
-		<Description ISOLanguageCode="NOB">Tap o.l. </Description>
+		<Description ISOLanguageCode="NOB">Tap o.l.</Description>
 		<Description ISOLanguageCode="ENG">Losses etc.</Description>
 	</Account>
 	<Account>
@@ -377,7 +377,7 @@
 	</Account>
 	<Account>
 		<AccountID>85</AccountID>
-		<Description ISOLanguageCode="NOB">Ekstraordinær kostnad </Description>
+		<Description ISOLanguageCode="NOB">Ekstraordinær kostnad</Description>
 		<Description ISOLanguageCode="ENG">Extraordinary expenses</Description>
 	</Account>
 	<Account>
