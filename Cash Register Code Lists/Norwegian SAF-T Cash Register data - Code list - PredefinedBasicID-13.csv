@@ -1,0 +1,27 @@
+PredefinedBasicID-13;English name
+13001;POS application start
+13002;POS application shut down
+13003;Employee log in
+13004;Employee log out
+13005;Open cash drawer
+13006;Close cash drawer
+13007;Update of POS application
+13008;X report
+13009;Z report
+13010;Suspend transaction
+13011;Resume transaction
+13012;Sales receipt
+13013;Return receipt
+13014;Copy receipt
+13015;Pro forma receipt
+13016;Delivery receipt
+13017;Training receipt 
+13018;Other reports or receipts
+13019;Cash withdrawal
+13020;Export of journal to external storage (cash register)
+13021;Price change
+13022;Price look-up 
+13023;Training mode on 
+13024;Training mode off
+13025;Memory full (cash register)
+13999;Other

@@ -1,0 +1,17 @@
+BasicType;English name
+01;Cost codes
+02;Product codes
+03;Project codes
+04;Article Group codes
+05;Ticketline codes
+06;Logging codes
+07;Savings codes
+08;Discount codes
+09;Quantity codes / Quantity ID
+10;Raise codes
+11;Transaction codes 
+12;Payment codes
+13;Event codes
+14;Service code
+15;User codes / User ID
+16;Other
