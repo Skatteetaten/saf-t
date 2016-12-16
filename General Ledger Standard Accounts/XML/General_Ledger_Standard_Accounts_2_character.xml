@@ -52,8 +52,8 @@
 	</Account>
 	<Account>
 		<AccountID>20</AccountID>
-		<Description ISOLanguageCode="NOB">Egenkaptial</Description>
-		<Description ISOLanguageCode="ENG">Equity</Description>
+		<Description ISOLanguageCode="NOB">Egenkapital AS/ASA / Egenkapital andre foretak (inkl. samvirkeforetak)</Description>
+		<Description ISOLanguageCode="ENG">Equity, limited liability companies / Equity, other enterprises (including cooperative societies)</Description>
 	</Account>
 	<Account>
 		<AccountID>21</AccountID>
@@ -112,7 +112,7 @@
 	</Account>
 	<Account>
 		<AccountID>32</AccountID>
-		<Description ISOLanguageCode="NOB">Salgsinntekt, utenfor avgiftsområdet</Description>
+		<Description ISOLanguageCode="NOB">Salgsinntekt, unntatt avgiftsplikt</Description>
 		<Description ISOLanguageCode="ENG">Sales revenue, outside of VAT area</Description>
 	</Account>
 	<Account>

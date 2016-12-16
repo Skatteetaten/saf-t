@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StandardAccounts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="General_Ledger_Standard_Accounts.xsd">
 	<Account>
-		<AccountID>1001</AccountID>
+		<AccountID>1000</AccountID>
 		<Description ISOLanguageCode="NOB">Forskning og utvikling, ervervet</Description>
 		<Description ISOLanguageCode="ENG">Research and development, acquired</Description>
 	</Account>
@@ -11,7 +11,7 @@
 		<Description ISOLanguageCode="ENG">Research and development, proprietary</Description>
 	</Account>
 	<Account>
-		<AccountID>1021</AccountID>
+		<AccountID>1020</AccountID>
 		<Description ISOLanguageCode="NOB">Konsesjoner, ervervet</Description>
 		<Description ISOLanguageCode="ENG">Concessions, acquired</Description>
 	</Account>
@@ -21,7 +21,7 @@
 		<Description ISOLanguageCode="ENG">Concessions, proprietary</Description>
 	</Account>
 	<Account>
-		<AccountID>1031</AccountID>
+		<AccountID>1030</AccountID>
 		<Description ISOLanguageCode="NOB">Patenter, ervervet</Description>
 		<Description ISOLanguageCode="ENG">Patents, acquired</Description>
 	</Account>
@@ -31,7 +31,7 @@
 		<Description ISOLanguageCode="ENG">Patents, proprietary</Description>
 	</Account>
 	<Account>
-		<AccountID>1041</AccountID>
+		<AccountID>1040</AccountID>
 		<Description ISOLanguageCode="NOB">Lisenser, ervervet</Description>
 		<Description ISOLanguageCode="ENG">Licences, acquired</Description>
 	</Account>
@@ -41,7 +41,7 @@
 		<Description ISOLanguageCode="ENG">Licences, proprietary</Description>
 	</Account>
 	<Account>
-		<AccountID>1051</AccountID>
+		<AccountID>1050</AccountID>
 		<Description ISOLanguageCode="NOB">Varemerker, ervervet</Description>
 		<Description ISOLanguageCode="ENG">Trade marks, acquired</Description>
 	</Account>
@@ -51,7 +51,7 @@
 		<Description ISOLanguageCode="ENG">Trade marks, proprietary</Description>
 	</Account>
 	<Account>
-		<AccountID>1061</AccountID>
+		<AccountID>1060</AccountID>
 		<Description ISOLanguageCode="NOB">Andre rettigheter, ervervet</Description>
 		<Description ISOLanguageCode="ENG">Other rights, acquired</Description>
 	</Account>
@@ -61,7 +61,17 @@
 		<Description ISOLanguageCode="ENG">Other rights, proprietary</Description>
 	</Account>
 	<Account>
-		<AccountID>1071</AccountID>
+		<AccountID>1068</AccountID>
+		<Description ISOLanguageCode="NOB">Innenlands kjøp av rettigheter, omvendt avgiftsplikt</Description>
+		<Description ISOLanguageCode="ENG">Domestic purchase of rights, reversed VAT liability</Description>
+	</Account>
+	<Account>
+		<AccountID>1069</AccountID>
+		<Description ISOLanguageCode="NOB">Innenlands kjøp av rettigheter, omvendt avgiftsplikt, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Domestic purchase of rights, reversed VAT liability, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1070</AccountID>
 		<Description ISOLanguageCode="NOB">Utsatt skattefordel, brutto</Description>
 		<Description ISOLanguageCode="ENG">Deferred tax asset, gross</Description>
 	</Account>
@@ -101,7 +111,7 @@
 		<Description ISOLanguageCode="ENG">Plant under construction</Description>
 	</Account>
 	<Account>
-		<AccountID>1141</AccountID>
+		<AccountID>1140</AccountID>
 		<Description ISOLanguageCode="NOB">Jordbrukseiendommer</Description>
 		<Description ISOLanguageCode="ENG">Agricultural property</Description>
 	</Account>
@@ -111,7 +121,7 @@
 		<Description ISOLanguageCode="ENG">Forestry property</Description>
 	</Account>
 	<Account>
-		<AccountID>1151</AccountID>
+		<AccountID>1150</AccountID>
 		<Description ISOLanguageCode="NOB">Tomter</Description>
 		<Description ISOLanguageCode="ENG">Land</Description>
 	</Account>
@@ -127,8 +137,43 @@
 	</Account>
 	<Account>
 		<AccountID>1190</AccountID>
-		<Description ISOLanguageCode="NOB">Andre anleggsmidler</Description>
-		<Description ISOLanguageCode="ENG">Other fixed assets</Description>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1191</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1192</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1193</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1194</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med null sats</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1195</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med  null sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1196</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag utgående MVA kjøp tjenester fra utlandet</Description>
+		<Description ISOLanguageCode="ENG">Basis outgoing VAT purchase of services from abroad</Description>
+	</Account>
+	<Account>
+		<AccountID>1197</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag utgående MVA kjøp tjenester fra utlandet, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis outgoing VAT purchase of services from abroad, contra account</Description>
 	</Account>
 	<Account>
 		<AccountID>1200</AccountID>
@@ -141,9 +186,14 @@
 		<Description ISOLanguageCode="ENG">Machinery and plant under construction</Description>
 	</Account>
 	<Account>
-		<AccountID>1221</AccountID>
+		<AccountID>1220</AccountID>
 		<Description ISOLanguageCode="NOB">Skip</Description>
 		<Description ISOLanguageCode="ENG">Ships</Description>
+	</Account>
+	<Account>
+		<AccountID>1224</AccountID>
+		<Description ISOLanguageCode="NOB">Rigger</Description>
+		<Description ISOLanguageCode="ENG">Rigs</Description>
 	</Account>
 	<Account>
 		<AccountID>1225</AccountID>
@@ -151,7 +201,7 @@
 		<Description ISOLanguageCode="ENG">Aircrafts</Description>
 	</Account>
 	<Account>
-		<AccountID>1231</AccountID>
+		<AccountID>1230</AccountID>
 		<Description ISOLanguageCode="NOB">Personbiler/stasjonsvogner</Description>
 		<Description ISOLanguageCode="ENG">Automobiles/estate cars</Description>
 	</Account>
@@ -176,7 +226,7 @@
 		<Description ISOLanguageCode="ENG">Buses</Description>
 	</Account>
 	<Account>
-		<AccountID>1241</AccountID>
+		<AccountID>1240</AccountID>
 		<Description ISOLanguageCode="NOB">Traktorer</Description>
 		<Description ISOLanguageCode="ENG">Tractors</Description>
 	</Account>
@@ -196,7 +246,7 @@
 		<Description ISOLanguageCode="ENG">Fixtures and fittings</Description>
 	</Account>
 	<Account>
-		<AccountID>1261</AccountID>
+		<AccountID>1260</AccountID>
 		<Description ISOLanguageCode="NOB">Fast bygningsinventar, eget bygg</Description>
 		<Description ISOLanguageCode="ENG">Permanent building fixtures and fittings, own building</Description>
 	</Account>
@@ -217,11 +267,46 @@
 	</Account>
 	<Account>
 		<AccountID>1290</AccountID>
-		<Description ISOLanguageCode="NOB">Andre driftsmidler</Description>
-		<Description ISOLanguageCode="ENG">Other fixed assets</Description>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate</Description>
 	</Account>
 	<Account>
-		<AccountID>1301</AccountID>
+		<AccountID>1291</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1292</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1293</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1294</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med null sats</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1295</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med  null sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1296</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag utgående MVA kjøp tjenester fra utlandet</Description>
+		<Description ISOLanguageCode="ENG">Basis outgoing VAT purchase of services from abroad</Description>
+	</Account>
+	<Account>
+		<AccountID>1297</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag utgående MVA kjøp tjenester fra utlandet, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis outgoing VAT purchase of services from abroad, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1300</AccountID>
 		<Description ISOLanguageCode="NOB">Aksjer i datterselskap</Description>
 		<Description ISOLanguageCode="ENG">Shares in subsidiaries</Description>
 	</Account>
@@ -241,7 +326,7 @@
 		<Description ISOLanguageCode="ENG">Shares/units in subsidiaries, foreign, not included in the exemption model</Description>
 	</Account>
 	<Account>
-		<AccountID>1311</AccountID>
+		<AccountID>1310</AccountID>
 		<Description ISOLanguageCode="NOB">Aksjer i foretak i samme konsern</Description>
 		<Description ISOLanguageCode="ENG">Shares in group companies</Description>
 	</Account>
@@ -261,7 +346,7 @@
 		<Description ISOLanguageCode="ENG">Shares/units in group companies, foreign, not included in the exemption model</Description>
 	</Account>
 	<Account>
-		<AccountID>1321</AccountID>
+		<AccountID>1320</AccountID>
 		<Description ISOLanguageCode="NOB">Lån til datterselskaper</Description>
 		<Description ISOLanguageCode="ENG">Loans to subsidiaries</Description>
 	</Account>
@@ -276,7 +361,7 @@
 		<Description ISOLanguageCode="ENG">Investments in associated companies</Description>
 	</Account>
 	<Account>
-		<AccountID>1341</AccountID>
+		<AccountID>1340</AccountID>
 		<Description ISOLanguageCode="NOB">Lån til tilknyttet selskap</Description>
 		<Description ISOLanguageCode="ENG">Loans to associated companies</Description>
 	</Account>
@@ -286,7 +371,7 @@
 		<Description ISOLanguageCode="ENG">Loans to joint ventures</Description>
 	</Account>
 	<Account>
-		<AccountID>1351</AccountID>
+		<AccountID>1350</AccountID>
 		<Description ISOLanguageCode="NOB">Andre aksjer, norske</Description>
 		<Description ISOLanguageCode="ENG">Other shares, Norwegian</Description>
 	</Account>
@@ -316,7 +401,7 @@
 		<Description ISOLanguageCode="ENG">Bonds</Description>
 	</Account>
 	<Account>
-		<AccountID>1371</AccountID>
+		<AccountID>1370</AccountID>
 		<Description ISOLanguageCode="NOB">Fordringer på eiere</Description>
 		<Description ISOLanguageCode="ENG">Receivables from owners</Description>
 	</Account>
@@ -326,7 +411,7 @@
 		<Description ISOLanguageCode="ENG">Receivables from board members</Description>
 	</Account>
 	<Account>
-		<AccountID>1381</AccountID>
+		<AccountID>1380</AccountID>
 		<Description ISOLanguageCode="NOB">Fordringer på ansatte</Description>
 		<Description ISOLanguageCode="ENG">Receivables from employees</Description>
 	</Account>
@@ -376,7 +461,7 @@
 		<Description ISOLanguageCode="ENG">Other receivables</Description>
 	</Account>
 	<Account>
-		<AccountID>1401</AccountID>
+		<AccountID>1400</AccountID>
 		<Description ISOLanguageCode="NOB">Direkte materialer/råvarer</Description>
 		<Description ISOLanguageCode="ENG">Direct materials/raw materials</Description>
 	</Account>
@@ -396,7 +481,7 @@
 		<Description ISOLanguageCode="ENG">Change in stocks of raw materials and semi-manufactures</Description>
 	</Account>
 	<Account>
-		<AccountID>1421</AccountID>
+		<AccountID>1420</AccountID>
 		<Description ISOLanguageCode="NOB">Varer under tilvirkning</Description>
 		<Description ISOLanguageCode="ENG">Work in progress</Description>
 	</Account>
@@ -406,7 +491,7 @@
 		<Description ISOLanguageCode="ENG">Change in stocks of work in progress</Description>
 	</Account>
 	<Account>
-		<AccountID>1441</AccountID>
+		<AccountID>1440</AccountID>
 		<Description ISOLanguageCode="NOB">Ferdige egentilvirkede varer</Description>
 		<Description ISOLanguageCode="ENG">Self-produced finished goods</Description>
 	</Account>
@@ -416,7 +501,7 @@
 		<Description ISOLanguageCode="ENG">Change in stocks of self-produced finished goods</Description>
 	</Account>
 	<Account>
-		<AccountID>1461</AccountID>
+		<AccountID>1460</AccountID>
 		<Description ISOLanguageCode="NOB">Innkjøpte varer for videresalg</Description>
 		<Description ISOLanguageCode="ENG">Goods purchased for resale</Description>
 	</Account>
@@ -429,6 +514,56 @@
 		<AccountID>1469</AccountID>
 		<Description ISOLanguageCode="NOB">Beholdningsendring innkjøpte varer for videresalg</Description>
 		<Description ISOLanguageCode="ENG">Change in stocks of goods purchased for resale</Description>
+	</Account>
+	<Account>
+		<AccountID>1470</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1471</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1472</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1473</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1474</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med null sats</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1475</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med  null sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1476</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag utgående MVA kjøp tjenester fra utlandet</Description>
+		<Description ISOLanguageCode="ENG">Basis outgoing VAT purchase of services from abroad</Description>
+	</Account>
+	<Account>
+		<AccountID>1477</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag utgående MVA kjøp tjenester fra utlandet, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis outgoing VAT purchase of services from abroad, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>1478</AccountID>
+		<Description ISOLanguageCode="NOB">Innenlands kjøp av varer og tjenester, omvendt avgiftsplikt</Description>
+		<Description ISOLanguageCode="ENG">Domestic purchase of goods and services, reversed VAT liability</Description>
+	</Account>
+	<Account>
+		<AccountID>1479</AccountID>
+		<Description ISOLanguageCode="NOB">Innenlands kjøp av varer og tjenester, omvendt avgiftsplikt, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Domestic purchase of goods and services, reversed VAT liability, contra account</Description>
 	</Account>
 	<Account>
 		<AccountID>1480</AccountID>
@@ -461,7 +596,7 @@
 		<Description ISOLanguageCode="ENG">Other debtors in group companies (other receivables from companies in the same group)</Description>
 	</Account>
 	<Account>
-		<AccountID>1571</AccountID>
+		<AccountID>1570</AccountID>
 		<Description ISOLanguageCode="NOB">Reiseforskudd</Description>
 		<Description ISOLanguageCode="ENG">Cash advances for travel</Description>
 	</Account>
@@ -496,7 +631,7 @@
 		<Description ISOLanguageCode="ENG">Other short-term receivables</Description>
 	</Account>
 	<Account>
-		<AccountID>1581</AccountID>
+		<AccountID>1580</AccountID>
 		<Description ISOLanguageCode="NOB">Avsetning tap på kundefordringer</Description>
 		<Description ISOLanguageCode="ENG">Provisions for losses on trade debtors</Description>
 	</Account>
@@ -506,59 +641,89 @@
 		<Description ISOLanguageCode="ENG">Provisions for losses on other debtors</Description>
 	</Account>
 	<Account>
-		<AccountID>1601</AccountID>
+		<AccountID>1590</AccountID>
+		<Description ISOLanguageCode="NOB">Andre omløpsmidler</Description>
+		<Description ISOLanguageCode="ENG">Other current assets</Description>
+	</Account>
+	<Account>
+		<AccountID>1600</AccountID>
 		<Description ISOLanguageCode="NOB">Utgående merverdiavgift, høy sats</Description>
 		<Description ISOLanguageCode="ENG">Output VAT, high rate</Description>
 	</Account>
 	<Account>
-		<AccountID>1602</AccountID>
-		<Description ISOLanguageCode="NOB">Utgående merverdiavgift kjøp tjenester fra utlandet</Description>
-		<Description ISOLanguageCode="ENG">Output VAT, purchases of services from abroad</Description>
-	</Account>
-	<Account>
-		<AccountID>1603</AccountID>
+		<AccountID>1601</AccountID>
 		<Description ISOLanguageCode="NOB">Utgående merverdiavgift, middels sats</Description>
 		<Description ISOLanguageCode="ENG">Output VAT, middle rate</Description>
 	</Account>
 	<Account>
-		<AccountID>1604</AccountID>
+		<AccountID>1602</AccountID>
+		<Description ISOLanguageCode="NOB">Utgående merverdiavgift, middels sats, 11,11 %</Description>
+		<Description ISOLanguageCode="ENG">Output VAT, middle rate, 11,11%</Description>
+	</Account>
+	<Account>
+		<AccountID>1603</AccountID>
 		<Description ISOLanguageCode="NOB">Utgående merverdiavgift, lav sats</Description>
 		<Description ISOLanguageCode="ENG">Output VAT, low rate</Description>
 	</Account>
 	<Account>
-		<AccountID>1611</AccountID>
+		<AccountID>1604</AccountID>
+		<Description ISOLanguageCode="NOB">Utgående merverdiavgift kjøp tjenester fra utlandet</Description>
+		<Description ISOLanguageCode="ENG">Output VAT, purchases of services from abroad</Description>
+	</Account>
+	<Account>
+		<AccountID>1605</AccountID>
+		<Description ISOLanguageCode="NOB">Utgående merverdiavgift - innførsel av varer, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Output VAT - import of goods, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1606</AccountID>
+		<Description ISOLanguageCode="NOB">Utgående merverdiavgift - innførsel av varer, middels sats</Description>
+		<Description ISOLanguageCode="ENG">Output VAT - import of goods, medium rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1607</AccountID>
+		<Description ISOLanguageCode="NOB">Utgående merverdiavgift - innenlands kjøp av varer og tjenester med omvendt avgiftsplikt, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Output VAT - domestic purchase of goods and services with reversed VAT liability, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1610</AccountID>
 		<Description ISOLanguageCode="NOB">Inngående merverdiavgift, høy sats</Description>
 		<Description ISOLanguageCode="ENG">Input VAT, high rate</Description>
 	</Account>
 	<Account>
-		<AccountID>1612</AccountID>
-		<Description ISOLanguageCode="NOB">Inngående merverdiavgift kjøp tjenester fra utlandet</Description>
-		<Description ISOLanguageCode="ENG">Input VAT, purchases of services from abroad</Description>
-	</Account>
-	<Account>
-		<AccountID>1613</AccountID>
+		<AccountID>1611</AccountID>
 		<Description ISOLanguageCode="NOB">Inngående merverdiavgift, middels sats</Description>
 		<Description ISOLanguageCode="ENG">Input VAT, middle rate</Description>
 	</Account>
 	<Account>
-		<AccountID>1614</AccountID>
+		<AccountID>1612</AccountID>
+		<Description ISOLanguageCode="NOB">Inngående merverdiavgift, middels sats 11,11%</Description>
+		<Description ISOLanguageCode="ENG">Input VAT, middle rate, 11,11%</Description>
+	</Account>
+	<Account>
+		<AccountID>1613</AccountID>
 		<Description ISOLanguageCode="NOB">Inngående merverdiavgift, lav sats</Description>
 		<Description ISOLanguageCode="ENG">Input VAT, low rate</Description>
 	</Account>
 	<Account>
-		<AccountID>1631</AccountID>
-		<Description ISOLanguageCode="NOB">Merverdiavgiftskompensasjon, høy sats</Description>
-		<Description ISOLanguageCode="ENG">VAT compensation, high rate</Description>
+		<AccountID>1614</AccountID>
+		<Description ISOLanguageCode="NOB">Inngående merverdiavgift kjøp tjenester fra utlandet</Description>
+		<Description ISOLanguageCode="ENG">Input VAT, purchases of services from abroad</Description>
 	</Account>
 	<Account>
-		<AccountID>1633</AccountID>
-		<Description ISOLanguageCode="NOB">Merverdiavgiftskompensasjon, middels sats</Description>
-		<Description ISOLanguageCode="ENG">VAT compensation, middle rate</Description>
+		<AccountID>1615</AccountID>
+		<Description ISOLanguageCode="NOB">Inngående merverdiavgift - innførsel av varer, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Input VAT - import of goods, high rate</Description>
 	</Account>
 	<Account>
-		<AccountID>1634</AccountID>
-		<Description ISOLanguageCode="NOB">Merverdiavgiftskompensasjon, lav sats</Description>
-		<Description ISOLanguageCode="ENG">VAT compensation, low rate</Description>
+		<AccountID>1616</AccountID>
+		<Description ISOLanguageCode="NOB">Inngående merverdiavgift - innførsel av varer, middels sats</Description>
+		<Description ISOLanguageCode="ENG">Input VAT -  import of goods, medium rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1617</AccountID>
+		<Description ISOLanguageCode="NOB">Inngående merverdiavgift - innenlands kjøp av varer og tjenester med omvendt avgiftsplikt, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Input VAT - domestic purchase of goods and services with reversed VAT liability, high rate</Description>
 	</Account>
 	<Account>
 		<AccountID>1640</AccountID>
@@ -566,69 +731,54 @@
 		<Description ISOLanguageCode="ENG">Settlement account for VAT</Description>
 	</Account>
 	<Account>
+		<AccountID>1650</AccountID>
+		<Description ISOLanguageCode="NOB">Merverdiavgiftskompensasjon, høy sats</Description>
+		<Description ISOLanguageCode="ENG">VAT compensation, high rate</Description>
+	</Account>
+	<Account>
 		<AccountID>1651</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag utgående merverdiavgift, høy sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, output VAT, high rate</Description>
+		<Description ISOLanguageCode="NOB">Merverdiavgiftskompensasjon, middels sats</Description>
+		<Description ISOLanguageCode="ENG">VAT compensation, middle rate</Description>
 	</Account>
 	<Account>
 		<AccountID>1652</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag utgående merverdiavgift kjøp tjenester fra utlandet</Description>
-		<Description ISOLanguageCode="ENG">Tax value, output VAT, purchases of services from abroad</Description>
-	</Account>
-	<Account>
-		<AccountID>1653</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag utgående merverdiavgift, middels sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, output VAT, middle rate</Description>
+		<Description ISOLanguageCode="NOB">Merverdiavgiftskompensasjon, lav sats</Description>
+		<Description ISOLanguageCode="ENG">VAT compensation, low rate</Description>
 	</Account>
 	<Account>
 		<AccountID>1654</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag utgående merverdiavgift, lav sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, output VAT, low rate</Description>
+		<Description ISOLanguageCode="NOB">Oppgjørskonto kompensert merverdiavgift</Description>
+		<Description ISOLanguageCode="ENG">Settlement account for VAT compensation</Description>
 	</Account>
 	<Account>
-		<AccountID>1659</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag utgående merverdiavgift, 0-sats (avgiftsfri)</Description>
-		<Description ISOLanguageCode="ENG">Tax value, output VAT, 0-rate (VAT-exempt)</Description>
-	</Account>
-	<Account>
-		<AccountID>1661</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag inngående merverdiavgift, høy sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, input VAT, high rate</Description>
-	</Account>
-	<Account>
-		<AccountID>1662</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag inngående merverdiavgift kjøp tjenester fra utlandet</Description>
-		<Description ISOLanguageCode="ENG">Tax value, input VAT, purchases of services from abroad</Description>
-	</Account>
-	<Account>
-		<AccountID>1663</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag inngående merverdiavgift, middels sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, input VAT, middle rate</Description>
-	</Account>
-	<Account>
-		<AccountID>1664</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag inngående merverdiavgift, lav sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, input VAT, low rate</Description>
-	</Account>
-	<Account>
-		<AccountID>1666</AccountID>
+		<AccountID>1655</AccountID>
 		<Description ISOLanguageCode="NOB">Grunnlag merverdiavgiftskompensasjon, høy sats</Description>
 		<Description ISOLanguageCode="ENG">Tax value, VAT compensation, high rate</Description>
 	</Account>
 	<Account>
-		<AccountID>1668</AccountID>
+		<AccountID>1656</AccountID>
 		<Description ISOLanguageCode="NOB">Grunnlag merverdiavgiftskompensasjon, middels sats</Description>
 		<Description ISOLanguageCode="ENG">Tax value, VAT compensation, middle rate</Description>
 	</Account>
 	<Account>
-		<AccountID>1669</AccountID>
+		<AccountID>1657</AccountID>
 		<Description ISOLanguageCode="NOB">Grunnlag merverdiavgiftskompensasjon, lav sats</Description>
 		<Description ISOLanguageCode="ENG">Tax value, VAT compensation, low rate</Description>
+	</Account>
+	<Account>
+		<AccountID>1659</AccountID>
+		<Description ISOLanguageCode="NOB">Motkonto grunnlag merverdiavgiftskompensasjon</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT compensation contra account</Description>
 	</Account>
 	<Account>
 		<AccountID>1670</AccountID>
 		<Description ISOLanguageCode="NOB">Krav på offentlige tilskudd</Description>
 		<Description ISOLanguageCode="ENG">Entitlements to public grants</Description>
+	</Account>
+	<Account>
+		<AccountID>1675</AccountID>
+		<Description ISOLanguageCode="NOB">Skattefunn til gode, ikke utlignet</Description>
+		<Description ISOLanguageCode="ENG">SkatteFUNN Tax Incentive Scheme credit, not offset</Description>
 	</Account>
 	<Account>
 		<AccountID>1700</AccountID>
@@ -641,7 +791,7 @@
 		<Description ISOLanguageCode="ENG">Prepaid interest expenses</Description>
 	</Account>
 	<Account>
-		<AccountID>1741</AccountID>
+		<AccountID>1740</AccountID>
 		<Description ISOLanguageCode="NOB">Forskuddsbetalt, ikke påløpt lønn</Description>
 		<Description ISOLanguageCode="ENG">Prepaid, not accrued wages and salaries</Description>
 	</Account>
@@ -681,7 +831,7 @@
 		<Description ISOLanguageCode="ENG">Unpaid subscribed capital</Description>
 	</Account>
 	<Account>
-		<AccountID>1801</AccountID>
+		<AccountID>1800</AccountID>
 		<Description ISOLanguageCode="NOB">Aksjer i foretak i samme konsern, norske</Description>
 		<Description ISOLanguageCode="ENG">Shares in group companies, Norwegian</Description>
 	</Account>
@@ -701,7 +851,7 @@
 		<Description ISOLanguageCode="ENG">Shares/units in group companies, foreign, not included in the exemption model</Description>
 	</Account>
 	<Account>
-		<AccountID>1811</AccountID>
+		<AccountID>1810</AccountID>
 		<Description ISOLanguageCode="NOB">Børsnoterte aksjer, norske</Description>
 		<Description ISOLanguageCode="ENG">Listed share investments, Norwegian</Description>
 	</Account>
@@ -716,7 +866,7 @@
 		<Description ISOLanguageCode="ENG">Listed share investments, foreign, not included in the exemption model</Description>
 	</Account>
 	<Account>
-		<AccountID>1821</AccountID>
+		<AccountID>1820</AccountID>
 		<Description ISOLanguageCode="NOB">Andre ikke børsnoterte aksjer, norske</Description>
 		<Description ISOLanguageCode="ENG">Other unlisted share investments, Norwegian</Description>
 	</Account>
@@ -726,7 +876,7 @@
 		<Description ISOLanguageCode="ENG">Other unlisted share investments, foreign, included in the exemption model</Description>
 	</Account>
 	<Account>
-		<AccountID>1831</AccountID>
+		<AccountID>1830</AccountID>
 		<Description ISOLanguageCode="NOB">Markedsbaserte obligasjoner, norske</Description>
 		<Description ISOLanguageCode="ENG">Quoted bonds, Norwegian</Description>
 	</Account>
@@ -736,7 +886,7 @@
 		<Description ISOLanguageCode="ENG">Quoted bonds, foreign</Description>
 	</Account>
 	<Account>
-		<AccountID>1841</AccountID>
+		<AccountID>1840</AccountID>
 		<Description ISOLanguageCode="NOB">Ikke markedsbaserte obligasjoner, norske</Description>
 		<Description ISOLanguageCode="ENG">Non-quoted bonds, Norwegian</Description>
 	</Account>
@@ -746,7 +896,7 @@
 		<Description ISOLanguageCode="ENG">Non-quoted bonds, foreign</Description>
 	</Account>
 	<Account>
-		<AccountID>1851</AccountID>
+		<AccountID>1850</AccountID>
 		<Description ISOLanguageCode="NOB">Markedsbaserte obligasjoner med kort løpetid (sertifikater), norske</Description>
 		<Description ISOLanguageCode="ENG">Quoted bonds with a short maturity (certificates), Norwegian</Description>
 	</Account>
@@ -756,7 +906,7 @@
 		<Description ISOLanguageCode="ENG">Quoted bonds with a short maturity (certificates), foreign</Description>
 	</Account>
 	<Account>
-		<AccountID>1861</AccountID>
+		<AccountID>1860</AccountID>
 		<Description ISOLanguageCode="NOB">Ikke markedsbaserte obligasjoner med kort løpetid (sertifikater), norske</Description>
 		<Description ISOLanguageCode="ENG">Non-quoted bonds with a short maturity (certificates), Norwegian</Description>
 	</Account>
@@ -766,7 +916,7 @@
 		<Description ISOLanguageCode="ENG">Non-quoted bonds with a short maturity (certificates), foreign</Description>
 	</Account>
 	<Account>
-		<AccountID>1871</AccountID>
+		<AccountID>1870</AccountID>
 		<Description ISOLanguageCode="NOB">Markedsbaserte opsjoner, norske</Description>
 		<Description ISOLanguageCode="ENG">Quoted options, Norwegian</Description>
 	</Account>
@@ -776,7 +926,7 @@
 		<Description ISOLanguageCode="ENG">Quoted options, foreign</Description>
 	</Account>
 	<Account>
-		<AccountID>1881</AccountID>
+		<AccountID>1880</AccountID>
 		<Description ISOLanguageCode="NOB">Ikke markedsbaserte opsjoner, norske</Description>
 		<Description ISOLanguageCode="ENG">Non-quoted options, Norwegian</Description>
 	</Account>
@@ -791,7 +941,7 @@
 		<Description ISOLanguageCode="ENG">Other financial instruments</Description>
 	</Account>
 	<Account>
-		<AccountID>1891</AccountID>
+		<AccountID>1890</AccountID>
 		<Description ISOLanguageCode="NOB">Andeler utenfor konsern, norske</Description>
 		<Description ISOLanguageCode="ENG">Units outside group companies, Norwegian</Description>
 	</Account>
@@ -806,7 +956,7 @@
 		<Description ISOLanguageCode="ENG">Units outside group companies, foreign, not included in the exemption model</Description>
 	</Account>
 	<Account>
-		<AccountID>1901</AccountID>
+		<AccountID>1900</AccountID>
 		<Description ISOLanguageCode="NOB">Kontanter, NOK</Description>
 		<Description ISOLanguageCode="ENG">Cash in hand, NOK</Description>
 	</Account>
@@ -842,13 +992,13 @@
 	</Account>
 	<Account>
 		<AccountID>2000</AccountID>
-		<Description ISOLanguageCode="NOB">Aksjekapital/Egenkapital, bundet</Description>
-		<Description ISOLanguageCode="ENG">Subscribed share capital/Equity, undistributable</Description>
+		<Description ISOLanguageCode="NOB">Aksjekapital / Egenkapital, bundet</Description>
+		<Description ISOLanguageCode="ENG">Subscribed share capital / Equity, undistributable</Description>
 	</Account>
 	<Account>
 		<AccountID>2010</AccountID>
-		<Description ISOLanguageCode="NOB">Egne aksjer/Felleseid andelskapital</Description>
-		<Description ISOLanguageCode="ENG">Own shares (treasury stock)/Jointly-owned cooperative share capital</Description>
+		<Description ISOLanguageCode="NOB">Egne aksjer / Felleseid andelskapital</Description>
+		<Description ISOLanguageCode="ENG">Own shares (treasury stock) / Jointly-owned cooperative share capital</Description>
 	</Account>
 	<Account>
 		<AccountID>2020</AccountID>
@@ -857,13 +1007,8 @@
 	</Account>
 	<Account>
 		<AccountID>2030</AccountID>
-		<Description ISOLanguageCode="NOB">Annen innskutt egenkapital</Description>
-		<Description ISOLanguageCode="ENG">Other paid-in capital</Description>
-	</Account>
-	<Account>
-		<AccountID>2031</AccountID>
-		<Description ISOLanguageCode="NOB">Ikke registrert kapitalforhøyelse</Description>
-		<Description ISOLanguageCode="ENG">Non-authorised increase in capital</Description>
+		<Description ISOLanguageCode="NOB">Annen innskutt egenkapital / Ikke registrert kapitalforhøyelse</Description>
+		<Description ISOLanguageCode="ENG">Other paid-in capital / Non-authorised increase in capital</Description>
 	</Account>
 	<Account>
 		<AccountID>2032</AccountID>
@@ -886,9 +1031,9 @@
 		<Description ISOLanguageCode="ENG">Incorporation expenses</Description>
 	</Account>
 	<Account>
-		<AccountID>2041</AccountID>
-		<Description ISOLanguageCode="NOB">Fond for vurderingsforskjeller i DLS[1]</Description>
-		<Description ISOLanguageCode="ENG">Reserve for valuation variances, general partnership-companies and likewise</Description>
+		<AccountID>2040</AccountID>
+		<Description ISOLanguageCode="NOB">Fond for vurderingsforskjeller (DLS)</Description>
+		<Description ISOLanguageCode="ENG">Reserve for valuation variances (general partnership-companies and likewise)</Description>
 	</Account>
 	<Account>
 		<AccountID>2042</AccountID>
@@ -911,12 +1056,7 @@
 		<Description ISOLanguageCode="ENG">Provisions for dividends</Description>
 	</Account>
 	<Account>
-		<AccountID>2059</AccountID>
-		<Description ISOLanguageCode="NOB">Annen egenkapital</Description>
-		<Description ISOLanguageCode="ENG">Other equity</Description>
-	</Account>
-	<Account>
-		<AccountID>2061</AccountID>
+		<AccountID>2060</AccountID>
 		<Description ISOLanguageCode="NOB">Uttak kontanter</Description>
 		<Description ISOLanguageCode="ENG">Cash withdrawal</Description>
 	</Account>
@@ -961,7 +1101,7 @@
 		<Description ISOLanguageCode="ENG">Miscellaneous other private expenses</Description>
 	</Account>
 	<Account>
-		<AccountID>2071</AccountID>
+		<AccountID>2070</AccountID>
 		<Description ISOLanguageCode="NOB">Forskuddsskatt</Description>
 		<Description ISOLanguageCode="ENG">Advance tax</Description>
 	</Account>
@@ -1001,7 +1141,7 @@
 		<Description ISOLanguageCode="ENG">Pension liabilities</Description>
 	</Account>
 	<Account>
-		<AccountID>2121</AccountID>
+		<AccountID>2120</AccountID>
 		<Description ISOLanguageCode="NOB">Utsatt skatt, brutto</Description>
 		<Description ISOLanguageCode="ENG">Deferred tax, gross</Description>
 	</Account>
@@ -1041,7 +1181,7 @@
 		<Description ISOLanguageCode="ENG">Liabilities to financial institutions</Description>
 	</Account>
 	<Account>
-		<AccountID>2251</AccountID>
+		<AccountID>2250</AccountID>
 		<Description ISOLanguageCode="NOB">Gjeld til ansatte</Description>
 		<Description ISOLanguageCode="ENG">Liabilities to employees</Description>
 	</Account>
@@ -1056,7 +1196,7 @@
 		<Description ISOLanguageCode="ENG">Liabilities to companies in the same group</Description>
 	</Account>
 	<Account>
-		<AccountID>2281</AccountID>
+		<AccountID>2280</AccountID>
 		<Description ISOLanguageCode="NOB">Stille interessentinnskudd</Description>
 		<Description ISOLanguageCode="ENG">Subscription by sleeping partner</Description>
 	</Account>
@@ -1066,7 +1206,7 @@
 		<Description ISOLanguageCode="ENG">Subordinated loan capital</Description>
 	</Account>
 	<Account>
-		<AccountID>2291</AccountID>
+		<AccountID>2290</AccountID>
 		<Description ISOLanguageCode="NOB">Gjeld til andre personer enn ansatte og eiere</Description>
 		<Description ISOLanguageCode="ENG">Liabilities to persons other than employees and owners</Description>
 	</Account>
@@ -1161,44 +1301,84 @@
 		<Description ISOLanguageCode="ENG">Other deductions</Description>
 	</Account>
 	<Account>
-		<AccountID>2701</AccountID>
+		<AccountID>2700</AccountID>
 		<Description ISOLanguageCode="NOB">Utgående merverdiavgift, høy sats</Description>
 		<Description ISOLanguageCode="ENG">Output VAT, high rate</Description>
 	</Account>
 	<Account>
-		<AccountID>2702</AccountID>
-		<Description ISOLanguageCode="NOB">Utgående merverdiavgift kjøp tjenester fra utlandet</Description>
-		<Description ISOLanguageCode="ENG">Output VAT, purchases of services from abroad</Description>
-	</Account>
-	<Account>
-		<AccountID>2703</AccountID>
+		<AccountID>2701</AccountID>
 		<Description ISOLanguageCode="NOB">Utgående merverdiavgift, middels sats</Description>
 		<Description ISOLanguageCode="ENG">Output VAT, middle rate</Description>
 	</Account>
 	<Account>
-		<AccountID>2704</AccountID>
+		<AccountID>2702</AccountID>
+		<Description ISOLanguageCode="NOB">Utgående merverdiavgift, middels sats, 11,11 %</Description>
+		<Description ISOLanguageCode="ENG">Output VAT, middle rate, 11,11%</Description>
+	</Account>
+	<Account>
+		<AccountID>2703</AccountID>
 		<Description ISOLanguageCode="NOB">Utgående merverdiavgift, lav sats</Description>
 		<Description ISOLanguageCode="ENG">Output VAT, low rate</Description>
 	</Account>
 	<Account>
-		<AccountID>2711</AccountID>
+		<AccountID>2704</AccountID>
+		<Description ISOLanguageCode="NOB">Utgående merverdiavgift ved kjøp av tjenester fra utlandet</Description>
+		<Description ISOLanguageCode="ENG">Output VAT, purchases of services from abroad</Description>
+	</Account>
+	<Account>
+		<AccountID>2705</AccountID>
+		<Description ISOLanguageCode="NOB">Utgående merverdiavgift - innførsel av varer, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Output VAT - import of goods, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>2706</AccountID>
+		<Description ISOLanguageCode="NOB">Utgående merverdiavgift - innførsel av varer, middels sats</Description>
+		<Description ISOLanguageCode="ENG">Output VAT - import of goods, medium rate</Description>
+	</Account>
+	<Account>
+		<AccountID>2707</AccountID>
+		<Description ISOLanguageCode="NOB">Utgående merverdiavgift - innenlands kjøp av varer og tjenester med omvendt avgiftsplikt, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Output VAT - domestic purchase of goods and services with reversed VAT liability, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>2710</AccountID>
 		<Description ISOLanguageCode="NOB">Inngående merverdiavgift, høy sats</Description>
 		<Description ISOLanguageCode="ENG">Input VAT, high rate</Description>
 	</Account>
 	<Account>
-		<AccountID>2712</AccountID>
-		<Description ISOLanguageCode="NOB">Inngående merverdiavgift kjøp tjenester fra utlandet</Description>
-		<Description ISOLanguageCode="ENG">Input VAT, purchases of services from abroad</Description>
-	</Account>
-	<Account>
-		<AccountID>2713</AccountID>
+		<AccountID>2711</AccountID>
 		<Description ISOLanguageCode="NOB">Inngående merverdiavgift, middels sats</Description>
 		<Description ISOLanguageCode="ENG">Input VAT, middle rate</Description>
 	</Account>
 	<Account>
-		<AccountID>2714</AccountID>
+		<AccountID>2712</AccountID>
+		<Description ISOLanguageCode="NOB">Inngående merverdiavgift, middels sats 11,11%</Description>
+		<Description ISOLanguageCode="ENG">Input VAT, middle rate, 11,11%</Description>
+	</Account>
+	<Account>
+		<AccountID>2713</AccountID>
 		<Description ISOLanguageCode="NOB">Inngående merverdiavgift, lav sats</Description>
 		<Description ISOLanguageCode="ENG">Input VAT, low rate</Description>
+	</Account>
+	<Account>
+		<AccountID>2714</AccountID>
+		<Description ISOLanguageCode="NOB">Inngående merverdiavgift ved kjøp tjenester fra utlandet</Description>
+		<Description ISOLanguageCode="ENG">Input VAT, purchases of services from abroad</Description>
+	</Account>
+	<Account>
+		<AccountID>2715</AccountID>
+		<Description ISOLanguageCode="NOB">Inngående merverdiavgift - innførsel av varer, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Input VAT - import of goods, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>2716</AccountID>
+		<Description ISOLanguageCode="NOB">Inngående merverdiavgift - innførsel av varer, middels sats</Description>
+		<Description ISOLanguageCode="ENG">Input VAT -  import of goods, medium rate</Description>
+	</Account>
+	<Account>
+		<AccountID>2717</AccountID>
+		<Description ISOLanguageCode="NOB">Inngående merverdiavgift - innenlands kjøp av varer og tjenester med omvendt avgiftsplikt, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Input VAT - domestic purchase of goods and services with reversed VAT liability, high rate</Description>
 	</Account>
 	<Account>
 		<AccountID>2740</AccountID>
@@ -1206,52 +1386,7 @@
 		<Description ISOLanguageCode="ENG">Settlement account for VAT</Description>
 	</Account>
 	<Account>
-		<AccountID>2751</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag utgående merverdiavgift, høy sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, output VAT, high rate</Description>
-	</Account>
-	<Account>
-		<AccountID>2752</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag utgående merverdiavgift kjøp tjenester fra utlandet</Description>
-		<Description ISOLanguageCode="ENG">Tax value, output VAT, purchases of services from abroad</Description>
-	</Account>
-	<Account>
-		<AccountID>2753</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag utgående merverdiavgift, middels sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, output VAT, middle rate</Description>
-	</Account>
-	<Account>
-		<AccountID>2754</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag utgående merverdiavgift, lav sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, output VAT, low rate</Description>
-	</Account>
-	<Account>
-		<AccountID>2759</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag utgående merverdiavgift, 0-sats (avgiftsfri)</Description>
-		<Description ISOLanguageCode="ENG">Tax value, output VAT, 0-rate (VAT-exempt)</Description>
-	</Account>
-	<Account>
-		<AccountID>2761</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag inngående merverdiavgift, høy sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, input VAT, high rate</Description>
-	</Account>
-	<Account>
-		<AccountID>2762</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag inngående merverdiavgift kjøp tjenester fra utlandet</Description>
-		<Description ISOLanguageCode="ENG">Tax value, input VAT, purchases of services from abroad</Description>
-	</Account>
-	<Account>
-		<AccountID>2763</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag inngående merverdiavgift, middels sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, input VAT, middle rate</Description>
-	</Account>
-	<Account>
-		<AccountID>2764</AccountID>
-		<Description ISOLanguageCode="NOB">Grunnlag inngående merverdiavgift, lav sats</Description>
-		<Description ISOLanguageCode="ENG">Tax value, input VAT, low rate</Description>
-	</Account>
-	<Account>
-		<AccountID>2771</AccountID>
+		<AccountID>2770</AccountID>
 		<Description ISOLanguageCode="NOB">Skyldig arbeidsgiveravgift</Description>
 		<Description ISOLanguageCode="ENG">Unpaid employers national insurance contributions</Description>
 	</Account>
@@ -1261,7 +1396,7 @@
 		<Description ISOLanguageCode="ENG">Paid employers national insurance contributions</Description>
 	</Account>
 	<Account>
-		<AccountID>2781</AccountID>
+		<AccountID>2780</AccountID>
 		<Description ISOLanguageCode="NOB">Påløpt arbeidsgiveravgift påløpt lønn</Description>
 		<Description ISOLanguageCode="ENG">Accrued employers national insurance contributions on accrued wages and salaries</Description>
 	</Account>
@@ -1291,7 +1426,7 @@
 		<Description ISOLanguageCode="ENG">Prepayments from customers</Description>
 	</Account>
 	<Account>
-		<AccountID>2911</AccountID>
+		<AccountID>2910</AccountID>
 		<Description ISOLanguageCode="NOB">Gjeld til ansatte</Description>
 		<Description ISOLanguageCode="ENG">Liabilities to employees</Description>
 	</Account>
@@ -1311,7 +1446,7 @@
 		<Description ISOLanguageCode="ENG">Unpaid wages and salaries</Description>
 	</Account>
 	<Account>
-		<AccountID>2941</AccountID>
+		<AccountID>2940</AccountID>
 		<Description ISOLanguageCode="NOB">Skyldige feriepenger</Description>
 		<Description ISOLanguageCode="ENG">Unpaid holiday pay</Description>
 	</Account>
@@ -1326,7 +1461,7 @@
 		<Description ISOLanguageCode="ENG">Accrued interest</Description>
 	</Account>
 	<Account>
-		<AccountID>2961</AccountID>
+		<AccountID>2960</AccountID>
 		<Description ISOLanguageCode="NOB">Annen påløpt kostnad</Description>
 		<Description ISOLanguageCode="ENG">Other accrued expenses</Description>
 	</Account>
@@ -1336,7 +1471,7 @@
 		<Description ISOLanguageCode="ENG">Prepaid income</Description>
 	</Account>
 	<Account>
-		<AccountID>2971</AccountID>
+		<AccountID>2970</AccountID>
 		<Description ISOLanguageCode="NOB">Fremtidig garantiytelse</Description>
 		<Description ISOLanguageCode="ENG">Future guarantee provision</Description>
 	</Account>
@@ -1346,7 +1481,7 @@
 		<Description ISOLanguageCode="ENG">Future service provision</Description>
 	</Account>
 	<Account>
-		<AccountID>2981</AccountID>
+		<AccountID>2980</AccountID>
 		<Description ISOLanguageCode="NOB">Avsetning styrehonorar</Description>
 		<Description ISOLanguageCode="ENG">Provisions for board members fees</Description>
 	</Account>
@@ -1366,7 +1501,7 @@
 		<Description ISOLanguageCode="ENG">Other provisions for liabilities</Description>
 	</Account>
 	<Account>
-		<AccountID>2991</AccountID>
+		<AccountID>2990</AccountID>
 		<Description ISOLanguageCode="NOB">Gjeld til andre personer enn ansatte og eiere</Description>
 		<Description ISOLanguageCode="ENG">Liabilities to persons other than employees and owners</Description>
 	</Account>
@@ -1381,6 +1516,11 @@
 		<Description ISOLanguageCode="ENG">Sales revenue, merchandise, subject to VAT, high rate</Description>
 	</Account>
 	<Account>
+		<AccountID>3005</AccountID>
+		<Description ISOLanguageCode="NOB">Salgsinntekt handelsvarer, omvendt avgiftsplikt</Description>
+		<Description ISOLanguageCode="ENG">Revenue trade goods, reversed VAT liability</Description>
+	</Account>
+	<Account>
 		<AccountID>3009</AccountID>
 		<Description ISOLanguageCode="NOB">Opptjent, ikke fakturert inntekt</Description>
 		<Description ISOLanguageCode="ENG">Earned income that has not been invoiced</Description>
@@ -1391,6 +1531,11 @@
 		<Description ISOLanguageCode="ENG">Sales revenue, goods of own production, subject to VAT, high rate</Description>
 	</Account>
 	<Account>
+		<AccountID>3015</AccountID>
+		<Description ISOLanguageCode="NOB">Salgsinntekt egentilvirkede varer, omvendt avgiftsplikt</Description>
+		<Description ISOLanguageCode="ENG">Revenue self-produced goods, reversed VAT liability</Description>
+	</Account>
+	<Account>
 		<AccountID>3019</AccountID>
 		<Description ISOLanguageCode="NOB">Opptjent, ikke fakturert inntekt</Description>
 		<Description ISOLanguageCode="ENG">Earned income that has not been invoiced</Description>
@@ -1399,6 +1544,11 @@
 		<AccountID>3020</AccountID>
 		<Description ISOLanguageCode="NOB">Salgsinntekt tjenester, avgiftspliktig, høy sats</Description>
 		<Description ISOLanguageCode="ENG">Sales revenue, services, subject to VAT, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>3025</AccountID>
+		<Description ISOLanguageCode="NOB">Salgsinntekt tjenester, omvendt avgiftsplikt</Description>
+		<Description ISOLanguageCode="ENG">Revenue services, reversed VAT liability</Description>
 	</Account>
 	<Account>
 		<AccountID>3029</AccountID>
@@ -1436,7 +1586,7 @@
 		<Description ISOLanguageCode="ENG">Earned income that has not been invoiced</Description>
 	</Account>
 	<Account>
-		<AccountID>3061</AccountID>
+		<AccountID>3060</AccountID>
 		<Description ISOLanguageCode="NOB">Uttak av varer, avgiftspliktig, høy sats</Description>
 		<Description ISOLanguageCode="ENG">Withdrawal of goods, subject to VAT, high rate</Description>
 	</Account>
@@ -1482,8 +1632,13 @@
 	</Account>
 	<Account>
 		<AccountID>3100</AccountID>
-		<Description ISOLanguageCode="NOB">Salgsinntekt handelsvarer, avgiftsfri</Description>
-		<Description ISOLanguageCode="ENG">Sales revenue, merchandise, not subject to VAT</Description>
+		<Description ISOLanguageCode="NOB">Salgsinntekt handelsvarer, innenlands, avgiftsfri</Description>
+		<Description ISOLanguageCode="ENG">Revenue trade goods, domestic, duty free</Description>
+	</Account>
+	<Account>
+		<AccountID>3105</AccountID>
+		<Description ISOLanguageCode="NOB">Salgsinntekt handelsvarer, utførsel, avgiftsfri</Description>
+		<Description ISOLanguageCode="ENG">Revenue trade goods, import, duty free</Description>
 	</Account>
 	<Account>
 		<AccountID>3109</AccountID>
@@ -1492,8 +1647,13 @@
 	</Account>
 	<Account>
 		<AccountID>3110</AccountID>
-		<Description ISOLanguageCode="NOB">Salgsinntekt egentilvirkede varer, avgiftsfri</Description>
-		<Description ISOLanguageCode="ENG">Sales revenue, goods of own production, not subject to VAT</Description>
+		<Description ISOLanguageCode="NOB">Salgsinntekt egentilvirkede varer, innenlands, avgiftsfri</Description>
+		<Description ISOLanguageCode="ENG">Revenue self-produced goods, domestic, duty free</Description>
+	</Account>
+	<Account>
+		<AccountID>3115</AccountID>
+		<Description ISOLanguageCode="NOB">Salgsinntekt egentilvirkede varer, utførsel, avgiftsfri</Description>
+		<Description ISOLanguageCode="ENG">Revenue self-produced goods, import, duty free</Description>
 	</Account>
 	<Account>
 		<AccountID>3119</AccountID>
@@ -1502,8 +1662,13 @@
 	</Account>
 	<Account>
 		<AccountID>3120</AccountID>
-		<Description ISOLanguageCode="NOB">Salgsinntekt tjenester, avgiftsfri</Description>
-		<Description ISOLanguageCode="ENG">Sales revenue, services, not subject to VAT</Description>
+		<Description ISOLanguageCode="NOB">Salgsinntekt tjenester, innenlands, avgiftsfri</Description>
+		<Description ISOLanguageCode="ENG">Revenue services, domestic, duty free</Description>
+	</Account>
+	<Account>
+		<AccountID>3125</AccountID>
+		<Description ISOLanguageCode="NOB">Salgsinntekt tjenester, utførsel, avgiftsfri</Description>
+		<Description ISOLanguageCode="ENG">Revenue services, import, duty free</Description>
 	</Account>
 	<Account>
 		<AccountID>3129</AccountID>
@@ -1542,7 +1707,7 @@
 	</Account>
 	<Account>
 		<AccountID>3200</AccountID>
-		<Description ISOLanguageCode="NOB">Salgsinntekt handelsvarer, utenfor avgiftsområdet</Description>
+		<Description ISOLanguageCode="NOB">Salgsinntekt handelsvarer, unntatt avgiftsplikt</Description>
 		<Description ISOLanguageCode="ENG">Sales revenue, merchandise, outside of VAT area</Description>
 	</Account>
 	<Account>
@@ -1552,7 +1717,7 @@
 	</Account>
 	<Account>
 		<AccountID>3210</AccountID>
-		<Description ISOLanguageCode="NOB">Salgsinntekt egentilvirkede varer, utenfor avgiftsområdet</Description>
+		<Description ISOLanguageCode="NOB">Salgsinntekt egentilvirkede varer, unntatt avgiftsplikt</Description>
 		<Description ISOLanguageCode="ENG">Sales revenue, goods of own production, outside of VAT area</Description>
 	</Account>
 	<Account>
@@ -1562,7 +1727,7 @@
 	</Account>
 	<Account>
 		<AccountID>3220</AccountID>
-		<Description ISOLanguageCode="NOB">Salgsinntekt tjenester, utenfor avgiftsområdet</Description>
+		<Description ISOLanguageCode="NOB">Salgsinntekt tjenester, unntatt avgiftsplikt</Description>
 		<Description ISOLanguageCode="ENG">Sales revenue, services, outside of VAT area</Description>
 	</Account>
 	<Account>
@@ -1572,22 +1737,22 @@
 	</Account>
 	<Account>
 		<AccountID>3260</AccountID>
-		<Description ISOLanguageCode="NOB">Uttak av varer, utenfor avgiftsområdet</Description>
+		<Description ISOLanguageCode="NOB">Uttak av varer, unntatt avgiftsplikt</Description>
 		<Description ISOLanguageCode="ENG">Withdrawal of goods, outside of VAT area</Description>
 	</Account>
 	<Account>
 		<AccountID>3281</AccountID>
-		<Description ISOLanguageCode="NOB">Kontantrabatt, utenfor avgiftsområdet</Description>
+		<Description ISOLanguageCode="NOB">Kontantrabatt, unntatt avgiftsplikt</Description>
 		<Description ISOLanguageCode="ENG">Cash discounts, outside of VAT area</Description>
 	</Account>
 	<Account>
 		<AccountID>3285</AccountID>
-		<Description ISOLanguageCode="NOB">Kvantumsrabatt, utenfor avgiftsområdet</Description>
+		<Description ISOLanguageCode="NOB">Kvantumsrabatt, unntatt avgiftsplikt</Description>
 		<Description ISOLanguageCode="ENG">Quantity discounts, outside of VAT area</Description>
 	</Account>
 	<Account>
 		<AccountID>3289</AccountID>
-		<Description ISOLanguageCode="NOB">Annen salgsinntektsreduksjon, utenfor avgiftsområdet</Description>
+		<Description ISOLanguageCode="NOB">Annen salgsinntektsreduksjon, unntatt avgiftsplikt</Description>
 		<Description ISOLanguageCode="ENG">Other reductions in sales revenue, outside of VAT area</Description>
 	</Account>
 	<Account>
@@ -1621,8 +1786,8 @@
 		<Description ISOLanguageCode="ENG">Service</Description>
 	</Account>
 	<Account>
-		<AccountID>3601</AccountID>
-		<Description ISOLanguageCode="NOB">Leieinntekt fast eiendom, utenfor avgiftsområdet</Description>
+		<AccountID>3600</AccountID>
+		<Description ISOLanguageCode="NOB">Leieinntekt fast eiendom, unntatt avgiftsplikt</Description>
 		<Description ISOLanguageCode="ENG">Rental income from real property, outside of VAT area</Description>
 	</Account>
 	<Account>
@@ -1636,7 +1801,7 @@
 		<Description ISOLanguageCode="ENG">Earned rental income that has not been invoiced</Description>
 	</Account>
 	<Account>
-		<AccountID>3611</AccountID>
+		<AccountID>3610</AccountID>
 		<Description ISOLanguageCode="NOB">Leieinntekt andre varige driftsmidler, avgiftspliktig</Description>
 		<Description ISOLanguageCode="ENG">Rental income from other tangible fixed assets, subject to VAT</Description>
 	</Account>
@@ -1656,7 +1821,7 @@
 		<Description ISOLanguageCode="ENG">Other rental income</Description>
 	</Account>
 	<Account>
-		<AccountID>3701</AccountID>
+		<AccountID>3700</AccountID>
 		<Description ISOLanguageCode="NOB">Provisjonsinntekt, avgiftspliktig</Description>
 		<Description ISOLanguageCode="ENG">Commission income, subject to VAT</Description>
 	</Account>
@@ -1739,6 +1904,46 @@
 		<AccountID>4079</AccountID>
 		<Description ISOLanguageCode="NOB">Annen innkjøpsprisreduksjon</Description>
 		<Description ISOLanguageCode="ENG">Other purchase price reduction</Description>
+	</Account>
+	<Account>
+		<AccountID>4080</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>4081</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>4082</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate</Description>
+	</Account>
+	<Account>
+		<AccountID>4083</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>4084</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med null sats</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate</Description>
+	</Account>
+	<Account>
+		<AccountID>4085</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med  null sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>4086</AccountID>
+		<Description ISOLanguageCode="NOB">Innenlands kjøp av varer, omvendt avgiftsplikt</Description>
+		<Description ISOLanguageCode="ENG">Domestic purchase of goods, reversed VAT liability</Description>
+	</Account>
+	<Account>
+		<AccountID>4087</AccountID>
+		<Description ISOLanguageCode="NOB">Innenlands kjøp av varer, omvendt avgiftsplikt, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Domestic purchase of goods, reversed VAT liability, contra account</Description>
 	</Account>
 	<Account>
 		<AccountID>4090</AccountID>
@@ -1836,6 +2041,46 @@
 		<Description ISOLanguageCode="ENG">Other purchase price reduction</Description>
 	</Account>
 	<Account>
+		<AccountID>4380</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>4381</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>4382</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate</Description>
+	</Account>
+	<Account>
+		<AccountID>4383</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>4384</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med nullsats</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate</Description>
+	</Account>
+	<Account>
+		<AccountID>4385</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med nullsats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>4386</AccountID>
+		<Description ISOLanguageCode="NOB">Innenlands kjøp av varer, omvendt avgiftsplikt</Description>
+		<Description ISOLanguageCode="ENG">Domestic purchase of goods, reversed VAT liability</Description>
+	</Account>
+	<Account>
+		<AccountID>4387</AccountID>
+		<Description ISOLanguageCode="NOB">Innenlands kjøp av varer, omvendt avgiftsplikt, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Domestic purchase of goods, reversed VAT liability, contra account</Description>
+	</Account>
+	<Account>
 		<AccountID>4390</AccountID>
 		<Description ISOLanguageCode="NOB">Beholdningsendring</Description>
 		<Description ISOLanguageCode="ENG">Change in stock</Description>
@@ -1876,7 +2121,7 @@
 		<Description ISOLanguageCode="ENG">Change in stock, fixed assets of own production</Description>
 	</Account>
 	<Account>
-		<AccountID>5001</AccountID>
+		<AccountID>5000</AccountID>
 		<Description ISOLanguageCode="NOB">Lønn til ansatte</Description>
 		<Description ISOLanguageCode="ENG">Wages and salaries to employees</Description>
 	</Account>
@@ -1886,7 +2131,7 @@
 		<Description ISOLanguageCode="ENG">Contractual remuneration</Description>
 	</Account>
 	<Account>
-		<AccountID>5091</AccountID>
+		<AccountID>5090</AccountID>
 		<Description ISOLanguageCode="NOB">Påløpt, ikke utbetalt lønn</Description>
 		<Description ISOLanguageCode="ENG">Accrued, unpaid wages and salaries</Description>
 	</Account>
@@ -1901,7 +2146,7 @@
 		<Description ISOLanguageCode="ENG">Other pay items</Description>
 	</Account>
 	<Account>
-		<AccountID>5101</AccountID>
+		<AccountID>5100</AccountID>
 		<Description ISOLanguageCode="NOB">Lønn til ansatte</Description>
 		<Description ISOLanguageCode="ENG">Wages and salaries to employees</Description>
 	</Account>
@@ -1911,7 +2156,7 @@
 		<Description ISOLanguageCode="ENG">Contractual remuneration</Description>
 	</Account>
 	<Account>
-		<AccountID>5191</AccountID>
+		<AccountID>5190</AccountID>
 		<Description ISOLanguageCode="NOB">Påløpt, ikke utbetalt lønn</Description>
 		<Description ISOLanguageCode="ENG">Accrued, unpaid wages and salaries</Description>
 	</Account>
@@ -1941,7 +2186,7 @@
 		<Description ISOLanguageCode="ENG">Company-paid newspaper</Description>
 	</Account>
 	<Account>
-		<AccountID>5231</AccountID>
+		<AccountID>5230</AccountID>
 		<Description ISOLanguageCode="NOB">Fri kost</Description>
 		<Description ISOLanguageCode="ENG">Free board</Description>
 	</Account>
@@ -1961,7 +2206,7 @@
 		<Description ISOLanguageCode="ENG">Interest rate benefit</Description>
 	</Account>
 	<Account>
-		<AccountID>5251</AccountID>
+		<AccountID>5250</AccountID>
 		<Description ISOLanguageCode="NOB">Gruppelivsforsikring</Description>
 		<Description ISOLanguageCode="ENG">Group life insurance</Description>
 	</Account>
@@ -1996,7 +2241,7 @@
 		<Description ISOLanguageCode="ENG">Bonuses</Description>
 	</Account>
 	<Account>
-		<AccountID>5331</AccountID>
+		<AccountID>5330</AccountID>
 		<Description ISOLanguageCode="NOB">Godtgjørelse til styremedlemmer</Description>
 		<Description ISOLanguageCode="ENG">Remuneration to members of the board</Description>
 	</Account>
@@ -2011,7 +2256,7 @@
 		<Description ISOLanguageCode="ENG">Other reportable remuneration</Description>
 	</Account>
 	<Account>
-		<AccountID>5401</AccountID>
+		<AccountID>5400</AccountID>
 		<Description ISOLanguageCode="NOB">Arbeidsgiveravgift</Description>
 		<Description ISOLanguageCode="ENG">Employers national insurance contributions</Description>
 	</Account>
@@ -2066,7 +2311,7 @@
 		<Description ISOLanguageCode="ENG">Other refunds</Description>
 	</Account>
 	<Account>
-		<AccountID>5901</AccountID>
+		<AccountID>5900</AccountID>
 		<Description ISOLanguageCode="NOB">Gaver til ansatte, fradragsberettiget</Description>
 		<Description ISOLanguageCode="ENG">Gifts to employees, deductible</Description>
 	</Account>
@@ -2076,7 +2321,7 @@
 		<Description ISOLanguageCode="ENG">Gifts to employees, non-deductible</Description>
 	</Account>
 	<Account>
-		<AccountID>5911</AccountID>
+		<AccountID>5910</AccountID>
 		<Description ISOLanguageCode="NOB">Kantinekostnad</Description>
 		<Description ISOLanguageCode="ENG">Canteen costs</Description>
 	</Account>
@@ -2126,7 +2371,7 @@
 		<Description ISOLanguageCode="ENG">Depreciation of buildings and other real property</Description>
 	</Account>
 	<Account>
-		<AccountID>6011</AccountID>
+		<AccountID>6010</AccountID>
 		<Description ISOLanguageCode="NOB">Avskrivning på transportmidler</Description>
 		<Description ISOLanguageCode="ENG">Depreciation of means of transport</Description>
 	</Account>
@@ -2141,7 +2386,7 @@
 		<Description ISOLanguageCode="ENG">Depreciation of fixtures and fittings</Description>
 	</Account>
 	<Account>
-		<AccountID>6021</AccountID>
+		<AccountID>6020</AccountID>
 		<Description ISOLanguageCode="NOB">Avskrivning på ervervet goodwill</Description>
 		<Description ISOLanguageCode="ENG">Depreciation of acquired goodwill</Description>
 	</Account>
@@ -2151,7 +2396,7 @@
 		<Description ISOLanguageCode="ENG">Depreciation of other intangible assets</Description>
 	</Account>
 	<Account>
-		<AccountID>6051</AccountID>
+		<AccountID>6050</AccountID>
 		<Description ISOLanguageCode="NOB">Nedskrivning av varige driftsmidler</Description>
 		<Description ISOLanguageCode="ENG">Write-down on tangible fixed assets</Description>
 	</Account>
@@ -2231,7 +2476,7 @@
 		<Description ISOLanguageCode="ENG">Waste disposal, water, sewage etc.</Description>
 	</Account>
 	<Account>
-		<AccountID>6341</AccountID>
+		<AccountID>6340</AccountID>
 		<Description ISOLanguageCode="NOB">Lys</Description>
 		<Description ISOLanguageCode="ENG">Lighting</Description>
 	</Account>
@@ -2336,12 +2581,12 @@
 		<Description ISOLanguageCode="ENG">Supplies</Description>
 	</Account>
 	<Account>
-		<AccountID>6571</AccountID>
+		<AccountID>6570</AccountID>
 		<Description ISOLanguageCode="NOB">Arbeidsklær, oppgavepliktig</Description>
 		<Description ISOLanguageCode="ENG">Work clothing, reportable</Description>
 	</Account>
 	<Account>
-		<AccountID>6572</AccountID>
+		<AccountID>6571</AccountID>
 		<Description ISOLanguageCode="NOB">Arbeidsklær, ikke oppgavepliktig</Description>
 		<Description ISOLanguageCode="ENG">Work clothing, non-reportable</Description>
 	</Account>
@@ -2371,7 +2616,7 @@
 		<Description ISOLanguageCode="ENG">Other repair and maintenance</Description>
 	</Account>
 	<Account>
-		<AccountID>6701</AccountID>
+		<AccountID>6700</AccountID>
 		<Description ISOLanguageCode="NOB">Revisjonshonorar</Description>
 		<Description ISOLanguageCode="ENG">Auditors remuneration</Description>
 	</Account>
@@ -2386,7 +2631,7 @@
 		<Description ISOLanguageCode="ENG">Accountants fees</Description>
 	</Account>
 	<Account>
-		<AccountID>6721</AccountID>
+		<AccountID>6720</AccountID>
 		<Description ISOLanguageCode="NOB">Honorar for økonomisk rådgivning</Description>
 		<Description ISOLanguageCode="ENG">Fees for financial advising</Description>
 	</Account>
@@ -2406,12 +2651,7 @@
 		<Description ISOLanguageCode="ENG">Fees for computer services</Description>
 	</Account>
 	<Account>
-		<AccountID>6780</AccountID>
-		<Description ISOLanguageCode="NOB">Kjøp tjenester fra utlandet[3]</Description>
-		<Description ISOLanguageCode="ENG">Purchases of services from abroad</Description>
-	</Account>
-	<Account>
-		<AccountID>6791</AccountID>
+		<AccountID>6790</AccountID>
 		<Description ISOLanguageCode="NOB">Annen fremmed tjeneste, oppgavepliktig</Description>
 		<Description ISOLanguageCode="ENG">Other external services, reportable</Description>
 	</Account>
@@ -2446,7 +2686,7 @@
 		<Description ISOLanguageCode="ENG">Other office costs</Description>
 	</Account>
 	<Account>
-		<AccountID>6901</AccountID>
+		<AccountID>6900</AccountID>
 		<Description ISOLanguageCode="NOB">Telefon</Description>
 		<Description ISOLanguageCode="ENG">Telephone</Description>
 	</Account>
@@ -2454,11 +2694,6 @@
 		<AccountID>6903</AccountID>
 		<Description ISOLanguageCode="NOB">Mobiltelefon</Description>
 		<Description ISOLanguageCode="ENG">Mobile telephone</Description>
-	</Account>
-	<Account>
-		<AccountID>6905</AccountID>
-		<Description ISOLanguageCode="NOB">Telefaks</Description>
-		<Description ISOLanguageCode="ENG">Fax</Description>
 	</Account>
 	<Account>
 		<AccountID>6907</AccountID>
@@ -2476,22 +2711,22 @@
 		<Description ISOLanguageCode="ENG">Postage</Description>
 	</Account>
 	<Account>
-		<AccountID>7001</AccountID>
+		<AccountID>7000</AccountID>
 		<Description ISOLanguageCode="NOB">Drivstoff transportmiddel 1</Description>
 		<Description ISOLanguageCode="ENG">Fuel, means of transport 1</Description>
 	</Account>
 	<Account>
-		<AccountID>7021</AccountID>
+		<AccountID>7020</AccountID>
 		<Description ISOLanguageCode="NOB">Vedlikehold transportmiddel 1</Description>
 		<Description ISOLanguageCode="ENG">Maintenance, means of transport 1</Description>
 	</Account>
 	<Account>
-		<AccountID>7041</AccountID>
+		<AccountID>7040</AccountID>
 		<Description ISOLanguageCode="NOB">Forsikring transportmiddel 1</Description>
 		<Description ISOLanguageCode="ENG">Insurance, means of transport 1</Description>
 	</Account>
 	<Account>
-		<AccountID>7051</AccountID>
+		<AccountID>7090</AccountID>
 		<Description ISOLanguageCode="NOB">Annen kostnad transportmiddel 1</Description>
 		<Description ISOLanguageCode="ENG">Other costs, means of transport 1</Description>
 	</Account>
@@ -2521,7 +2756,7 @@
 		<Description ISOLanguageCode="ENG">Subsistence expenses, non-reportable</Description>
 	</Account>
 	<Account>
-		<AccountID>7191</AccountID>
+		<AccountID>7190</AccountID>
 		<Description ISOLanguageCode="NOB">Verktøygodtgjørelse</Description>
 		<Description ISOLanguageCode="ENG">Tool allowance</Description>
 	</Account>
@@ -2551,7 +2786,7 @@
 		<Description ISOLanguageCode="ENG">Selling costs</Description>
 	</Account>
 	<Account>
-		<AccountID>7321</AccountID>
+		<AccountID>7320</AccountID>
 		<Description ISOLanguageCode="NOB">Reklameannonser</Description>
 		<Description ISOLanguageCode="ENG">Advertisements</Description>
 	</Account>
@@ -2581,7 +2816,7 @@
 		<Description ISOLanguageCode="ENG">Entertainment expenses, non-deductible</Description>
 	</Account>
 	<Account>
-		<AccountID>7391</AccountID>
+		<AccountID>7390</AccountID>
 		<Description ISOLanguageCode="NOB">Annen salgskostnad, fradragsberettiget</Description>
 		<Description ISOLanguageCode="ENG">Other selling costs, deductible</Description>
 	</Account>
@@ -2631,7 +2866,7 @@
 		<Description ISOLanguageCode="ENG">Service costs</Description>
 	</Account>
 	<Account>
-		<AccountID>7601</AccountID>
+		<AccountID>7600</AccountID>
 		<Description ISOLanguageCode="NOB">Lisensavgift</Description>
 		<Description ISOLanguageCode="ENG">Licence fees</Description>
 	</Account>
@@ -2656,7 +2891,7 @@
 		<Description ISOLanguageCode="ENG">Inspection-, testing- and stamp duty fees</Description>
 	</Account>
 	<Account>
-		<AccountID>7711</AccountID>
+		<AccountID>7710</AccountID>
 		<Description ISOLanguageCode="NOB">Styremøter</Description>
 		<Description ISOLanguageCode="ENG">Board meetings</Description>
 	</Account>
@@ -2686,9 +2921,59 @@
 		<Description ISOLanguageCode="ENG">Bank charges and card fees</Description>
 	</Account>
 	<Account>
-		<AccountID>7780</AccountID>
+		<AccountID>7775</AccountID>
 		<Description ISOLanguageCode="NOB">Kredittkortprovisjoner</Description>
 		<Description ISOLanguageCode="ENG">Credit card commissions</Description>
+	</Account>
+	<Account>
+		<AccountID>7780</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate</Description>
+	</Account>
+	<Account>
+		<AccountID>7781</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, høy sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, high rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>7782</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate</Description>
+	</Account>
+	<Account>
+		<AccountID>7783</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag MVA innførsel av varer, middels sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis VAT import of goods, medium rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>7784</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med null sats</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate</Description>
+	</Account>
+	<Account>
+		<AccountID>7785</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag innførsel av varer med  null sats, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis import of goods with zero rate, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>7786</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag utgående MVA kjøp tjenester fra utlandet</Description>
+		<Description ISOLanguageCode="ENG">Basis outgoing VAT purchase of services from abroad</Description>
+	</Account>
+	<Account>
+		<AccountID>7787</AccountID>
+		<Description ISOLanguageCode="NOB">Grunnlag utgående MVA kjøp tjenester fra utlandet, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Basis outgoing VAT purchase of services from abroad, contra account</Description>
+	</Account>
+	<Account>
+		<AccountID>7788</AccountID>
+		<Description ISOLanguageCode="NOB">Innenlands kjøp av varer og tjenester, omvendt avgiftsplikt</Description>
+		<Description ISOLanguageCode="ENG">Domestic purchase of goods and services, reversed VAT liability</Description>
+	</Account>
+	<Account>
+		<AccountID>7789</AccountID>
+		<Description ISOLanguageCode="NOB">Innenlands kjøp av varer og tjenester, omvendt avgiftsplikt, motkonto</Description>
+		<Description ISOLanguageCode="ENG">Domestic purchase of goods and services, reversed VAT liability, contra account</Description>
 	</Account>
 	<Account>
 		<AccountID>7798</AccountID>
@@ -2701,7 +2986,7 @@
 		<Description ISOLanguageCode="ENG">Other expenses, non-deductible</Description>
 	</Account>
 	<Account>
-		<AccountID>7821</AccountID>
+		<AccountID>7820</AccountID>
 		<Description ISOLanguageCode="NOB">Innkommet på tidligere nedskrevne fordringer, skattepliktig</Description>
 		<Description ISOLanguageCode="ENG">Income on bad debts previously written off, taxable</Description>
 	</Account>
@@ -2711,7 +2996,7 @@
 		<Description ISOLanguageCode="ENG">Income on bad debts previously written off, non-taxable</Description>
 	</Account>
 	<Account>
-		<AccountID>7831</AccountID>
+		<AccountID>7830</AccountID>
 		<Description ISOLanguageCode="NOB">Tap på fordringer, fradragsberettiget</Description>
 		<Description ISOLanguageCode="ENG">Bad debts, deductible</Description>
 	</Account>
@@ -2757,16 +3042,16 @@
 	</Account>
 	<Account>
 		<AccountID>7971</AccountID>
-		<Description ISOLanguageCode="NOB">Justering merverdiavgift fast eiendom</Description>
+		<Description ISOLanguageCode="NOB">Justering inngående merverdiavgift fast eiendom</Description>
 		<Description ISOLanguageCode="ENG">Ajustment VAT  property</Description>
 	</Account>
 	<Account>
 		<AccountID>7972</AccountID>
-		<Description ISOLanguageCode="NOB">Justering merverdiavgift maskiner, inventar mv.</Description>
+		<Description ISOLanguageCode="NOB">Justering inngående merverdiavgift maskiner, inventar mv.</Description>
 		<Description ISOLanguageCode="ENG">Ajustment VAT machinery, fixtures and fittings etc.</Description>
 	</Account>
 	<Account>
-		<AccountID>8001</AccountID>
+		<AccountID>8000</AccountID>
 		<Description ISOLanguageCode="NOB">Aksjeutbytte fra norsk datterselskap</Description>
 		<Description ISOLanguageCode="ENG">Dividends from Norwegian subsidiaries</Description>
 	</Account>
@@ -2796,7 +3081,7 @@
 		<Description ISOLanguageCode="ENG">Gain/loss on the disposal of shares/units in subsidiaries, not included in the exemption model</Description>
 	</Account>
 	<Account>
-		<AccountID>8011</AccountID>
+		<AccountID>8010</AccountID>
 		<Description ISOLanguageCode="NOB">Aksjeutbytte fra norsk foretak i samme konsern</Description>
 		<Description ISOLanguageCode="ENG">Dividends from Norwegian group companies</Description>
 	</Account>
@@ -2821,7 +3106,7 @@
 		<Description ISOLanguageCode="ENG">Gain/loss on disposal of shares/units in group companies, not included in the exemption model</Description>
 	</Account>
 	<Account>
-		<AccountID>8021</AccountID>
+		<AccountID>8020</AccountID>
 		<Description ISOLanguageCode="NOB">Aksjeutbytte fra norsk tilknyttet selskap</Description>
 		<Description ISOLanguageCode="ENG">Dividends from Norwegian associated companies</Description>
 	</Account>
@@ -2861,7 +3146,7 @@
 		<Description ISOLanguageCode="ENG">Interest income, tax-exempt</Description>
 	</Account>
 	<Account>
-		<AccountID>8051</AccountID>
+		<AccountID>8050</AccountID>
 		<Description ISOLanguageCode="NOB">Renteinntekt bankinnskudd</Description>
 		<Description ISOLanguageCode="ENG">Interest income from bank deposits</Description>
 	</Account>
@@ -2881,7 +3166,7 @@
 		<Description ISOLanguageCode="ENG">Foreign exchange gains (agio)</Description>
 	</Account>
 	<Account>
-		<AccountID>8071</AccountID>
+		<AccountID>8070</AccountID>
 		<Description ISOLanguageCode="NOB">Aksjeutbytte fra norsk foretak</Description>
 		<Description ISOLanguageCode="ENG">Dividends from Norwegian companies with tax credit</Description>
 	</Account>
@@ -2911,7 +3196,7 @@
 		<Description ISOLanguageCode="ENG">Other financial income</Description>
 	</Account>
 	<Account>
-		<AccountID>8081</AccountID>
+		<AccountID>8080</AccountID>
 		<Description ISOLanguageCode="NOB">Verdiøkning av finansielle instrumenter vurdert til virkelig verdi, urealisert</Description>
 		<Description ISOLanguageCode="ENG">Increase in value of financial instruments valued at fair value, unrealised</Description>
 	</Account>
@@ -2926,7 +3211,7 @@
 		<Description ISOLanguageCode="ENG">Income from other investments</Description>
 	</Account>
 	<Account>
-		<AccountID>8101</AccountID>
+		<AccountID>8100</AccountID>
 		<Description ISOLanguageCode="NOB">Verdireduksjon av finansielle instrumenter vurdert til virkelig verdi, urealisert</Description>
 		<Description ISOLanguageCode="ENG">Reduction in value of financial instruments valued at fair value, unrealised</Description>
 	</Account>
@@ -2941,7 +3226,7 @@
 		<Description ISOLanguageCode="ENG">Write-down on other financial current assets</Description>
 	</Account>
 	<Account>
-		<AccountID>8121</AccountID>
+		<AccountID>8120</AccountID>
 		<Description ISOLanguageCode="NOB">Nedskrivning av finansielle anleggsmidler</Description>
 		<Description ISOLanguageCode="ENG">Write-down on long-term financial assets</Description>
 	</Account>
@@ -2961,7 +3246,7 @@
 		<Description ISOLanguageCode="ENG">Interest expenses, non-deductible</Description>
 	</Account>
 	<Account>
-		<AccountID>8151</AccountID>
+		<AccountID>8150</AccountID>
 		<Description ISOLanguageCode="NOB">Rentekostnad banklån</Description>
 		<Description ISOLanguageCode="ENG">Interest paid on bank loans</Description>
 	</Account>
@@ -3001,7 +3286,7 @@
 		<Description ISOLanguageCode="ENG">Other financial expenses</Description>
 	</Account>
 	<Account>
-		<AccountID>8301</AccountID>
+		<AccountID>8300</AccountID>
 		<Description ISOLanguageCode="NOB">Betalbar skatt</Description>
 		<Description ISOLanguageCode="ENG">Tax payable</Description>
 	</Account>
@@ -3036,7 +3321,7 @@
 		<Description ISOLanguageCode="ENG">Correction of errors</Description>
 	</Account>
 	<Account>
-		<AccountID>8601</AccountID>
+		<AccountID>8600</AccountID>
 		<Description ISOLanguageCode="NOB">Betalbar skatt, virkning av prinsippendring</Description>
 		<Description ISOLanguageCode="ENG">Tax payable, effect of change in principle</Description>
 	</Account>
@@ -3051,7 +3336,7 @@
 		<Description ISOLanguageCode="ENG">Tax payable, too much/little allocated in previous year(s)</Description>
 	</Account>
 	<Account>
-		<AccountID>8621</AccountID>
+		<AccountID>8620</AccountID>
 		<Description ISOLanguageCode="NOB">Endring utsatt skatt/skattefordel, virkning av prinsippendring</Description>
 		<Description ISOLanguageCode="ENG">Change in deferred tax/tax assets, effect of change in principle</Description>
 	</Account>
@@ -3076,22 +3361,22 @@
 		<Description ISOLanguageCode="ENG">Transfers, jointly-owned cooperative share capital for cooperative society</Description>
 	</Account>
 	<Account>
-		<AccountID>8921</AccountID>
-		<Description ISOLanguageCode="NOB">Avsatt utbytte/ renter på egenkapitalbevis / etterbetaling for samvirkeforetak</Description>
+		<AccountID>8920</AccountID>
+		<Description ISOLanguageCode="NOB">Avsatt utbytte / renter på egenkapitalbevis / etterbetaling for samvirkeforetak</Description>
 		<Description ISOLanguageCode="ENG">Allocated dividend / interest on equity certificates / dividend for cooperative society</Description>
 	</Account>
 	<Account>
-		<AccountID>8922</AccountID>
+		<AccountID>8921</AccountID>
 		<Description ISOLanguageCode="NOB">Avsatt tilleggsutbytte</Description>
 		<Description ISOLanguageCode="ENG">Allocated additional dividend</Description>
 	</Account>
 	<Account>
-		<AccountID>8923</AccountID>
+		<AccountID>8922</AccountID>
 		<Description ISOLanguageCode="NOB">Avsatt ekstraordinær utbytte</Description>
 		<Description ISOLanguageCode="ENG">Allocated extraordinary dividend</Description>
 	</Account>
 	<Account>
-		<AccountID>8931</AccountID>
+		<AccountID>8930</AccountID>
 		<Description ISOLanguageCode="NOB">Mottatt konsernbidrag</Description>
 		<Description ISOLanguageCode="ENG">Received group contributions</Description>
 	</Account>
@@ -3106,7 +3391,7 @@
 		<Description ISOLanguageCode="ENG">Bonus issues</Description>
 	</Account>
 	<Account>
-		<AccountID>8961</AccountID>
+		<AccountID>8960</AccountID>
 		<Description ISOLanguageCode="NOB">Overføringer annen egenkapital</Description>
 		<Description ISOLanguageCode="ENG">Transfers to other equity</Description>
 	</Account>
@@ -3119,6 +3404,11 @@
 		<AccountID>8969</AccountID>
 		<Description ISOLanguageCode="NOB">Overføringer udisponert tap</Description>
 		<Description ISOLanguageCode="ENG">Transfers to unapplied loss</Description>
+	</Account>
+	<Account>
+		<AccountID>8980</AccountID>
+		<Description ISOLanguageCode="NOB">Privatuttak</Description>
+		<Description ISOLanguageCode="ENG">Private withdrawals</Description>
 	</Account>
 	<Account>
 		<AccountID>8990</AccountID>
