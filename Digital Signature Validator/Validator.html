@@ -1,0 +1,112 @@
+﻿
+<!DOCTYPE html>
+<!-- Developed by Widar Swensen, Skatteetaten, 23 JAN 2018 -->
+<html>
+  <HEAD>
+	<TITLE>Validator</TITLE>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252"/>
+    <script src="jsrsasign-all-min.js" type="text/javascript"></script>
+    <script src="jsSHA-2.3.1\src\sha1.js" type="text/javascript"></script>
+    <script src="asn1js\asn1.js" type="text/javascript"></script>
+    <script src="asn1js\base64.js" type="text/javascript"></script>
+	<script src="jquery-3.2.1.min.js" type="text/javascript"></script>
+	<script src="tipped-4.6.0-light/js/tipped/tipped.js" type="text/javascript"></script>
+	<script src="validator.js" type="text/javascript"></script>
+
+    <link href="TinyMCE.css" rel="stylesheet"/>
+	<link rel="stylesheet" type="text/css" href="tipped-4.6.0-light/css/tipped/tipped.css" />
+    <link href="validator.css" rel="stylesheet"/>
+  </HEAD>
+  
+  <body onLoad="init()" leftmargin="10" topmargin="0" marginheight="10" marginwidth="10">
+    <form name="form1" action="javascript:encrypt1()">
+    <table width="800" border="0" cellspacing="10" cellpadding="5">
+	<tr>
+	  <td>
+		<img src="Skatteetaten-logo.png" alt="Skatteetaten-logo">
+	  </td>
+	  <td width="20">
+	  </td>
+	  <td>
+		<h1 id="header">Validator for digital signatur i kassasystemer (v 1.0)</h1>
+	  </td>
+      <td valign="top"><select name="language" id="language"  onChange="makeNewLables();" style="width:100px"><option></option></select></td>
+	</tr>
+	</table>
+
+	<div class="flex-container">
+	  <div class="flex-row">
+	    <div class="total">
+	      <div id="ingress">legges inn fra validator.js</div>
+	    </div>
+	  </div>
+	</div>
+	
+	<div class="flex-guide">
+	  <div class="flex-row">
+		<div class="total"><button id="btn_hjelp" onclick="showHelp()">Bruksanvisning</button></div>
+	  </div>
+	  <div class="flex-row" id="hjelp" style="display:none">
+	    <div class="guide" id="guide">legges inn fra validator.js</div>
+	  </div>
+	</div>
+
+	<div class="flex-container">
+	  <div class="flex-row">
+		<div class="left-col">
+		  <div id="lbl_signeringsmetode" title = "" class="tooltip">Signeringsmetode </div>
+		</div>
+		<div class="right-col"><select name="metode" id="metode"  onChange="slettAlleFelt();makeNewLables();" style="width:100px"><option></option></select></div>
+	  </div>
+	  <div class="flex-row">
+		<div class="left-col">
+		  <div id="lbl_data" title = "" class="tooltip" style='cursor:help'>Data til signering <img src="formula-help.png" alt="Spørsmål"></div>
+		</div>
+		<div class="right-col"><textarea rows=5 name="text" id="text" onChange="slettSignatur();"></textarea></div>
+	  </div>
+	  <div class="flex-row">
+		<div class="left-col">
+		  <div id="lbl_privat" title = "" class="tooltip" style='cursor:help'>Privat nøkkel <img src="formula-help.png" alt="Spørsmål"></div>
+		</div>
+		<div class="right-col"><textarea rows=5 name="privateKey" id="privateKey" onChange="slettSignatur();"></textarea></div>
+	  </div>
+	  <div class="flex-row" id="row_rsaoffentlig" style="display:flex">
+		<div class="left-col">
+		  <div id="lbl_offentlig" title = "" class="tooltip" style='cursor:help'>Offentlig nøkkel <img src="formula-help.png" alt="Spørsmål"></div>
+		</div>
+		<div class="right-col"><textarea rows=5 name="publicKey" id="publicKey" onChange="slettSignatur();"></textarea></div>
+	  </div>
+	  <div class="flex-row">
+		<div class="left-col"></div>
+		<div class="right-col"><button id="signatur_button" onclick="slettSignatur();genererSignatur()">Generer signatur</button></div>
+	  </div>
+	  <div class="flex-row">
+		<div class="left-col">
+		  <div id="lbl_signatur" title = "" class="tooltip" style='cursor:help' readonly="true">Signatur <img src="formula-help.png" alt="Spørsmål"></div>
+		</div>
+		<div class="right-col"><textarea rows=5 name="signature" id="signature"></textarea></div>
+	  </div>
+	  <div class="flex-row" id="row_hmacsikkerhet" style="display:none">
+		<div class="left-col">
+		  <div id="lbl_sikkerhet" title = "" class="tooltip" style='cursor:help'>Sikkerhetsnøkkel <img src="formula-help.png" alt="Spørsmål"></div>
+		</div>
+		<div class="right-col"><textarea rows=5 name="secretKey" id="secretKey" value="" onChange="slettSignatur()"></textarea></div>
+	  </div>
+	  <div class="flex-row">
+		<div class="left-col">
+		  <div id="lbl_signatur_kassa" title = "" class="tooltip" style='cursor:help'>Signatur fra kassaapparat <img src="formula-help.png" alt="Spørsmål"></div>
+		</div>
+		<div class="right-col"><textarea rows=5 name="signatureCRS" id="signatureCRS" value=""></textarea></div>
+	  </div>
+	  <div class="flex-row">
+		<div class="left-col"></div>
+		<div class="right-col"><button id="verify_button" onclick="verifySignature()">Verifiser signatur</button></div>
+	  </div>
+	</div>
+    </form>
+	
+	</body>
+
+</HTML>

@@ -1,0 +1,109 @@
+﻿body {
+  background: #fff;
+  color: #222;
+  cursor: auto;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  position: relative; }
+
+
+h1 {
+  font-size: 1.875rem;
+  line-height: 1.25;
+  font-family: "Helvetica-Light", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+  font-weight: 300; }
+  @media (min-width: 40em) {
+    h1 {
+      font-size: 2.5rem; } }
+
+h2 {
+  font-size: 1.375rem;
+  line-height: 1.45;
+  font-family: "Helvetica-Light", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  margin-top: 1.75rem;
+  margin-bottom: 0; }
+  @media (min-width: 40em) {
+    h2 {
+      font-size: 1.625rem; } }
+  @media (min-width: 40em) {
+    h2 {
+      margin-top: 2rem; } }
+
+h3,
+h4 {
+  font-size: 1.125rem;
+  line-height: 1.25;
+  font-family: "Helvetica-Light", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  margin-top: 1.5rem;
+  margin-bottom: 0; }
+  @media (min-width: 40em) {
+    h3,
+    h4 {
+      font-size: 1.375rem; } }
+  @media (min-width: 40em) {
+    h3,
+    h4 {
+      margin-top: 1.875rem; } }
+
+h4 {
+  font-size: 1.25rem; }
+
+h5 {
+  font-family: "Helvetica-Light", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+  font-size: 1rem;
+  line-height: 1.25;
+  font-weight: 600;
+  margin: 15px 0 10px 0; }
+
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif; }
+
+.heading-accordion {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 17px;
+    border: 1px solid black;
+}
+
+.heading-accordion h2:first-child,
+.heading-accordion h3:first-child,
+.heading-accordion h4:first-child {
+    border: 2px solid cornflowerblue;
+}
+
+
+.heading-accordion[data-expanded="false"] > *:not(:first-child) {
+    opacity: 0.5;
+}
+
+.heading-accordion[data-expanded="false"] > :first-child:before {
+      position: absolute;
+      left: 0;
+      content: "";
+      background: url("/Resources/images/icons/icon-plus-circle.svg") no-repeat center center;
+      width: 24px;
+      height: 24px;
+    -webkit-transition: opacity 0.3s ease;
+              transition: opacity 0.3s ease;
+
+}
+
+.heading-accordion[data-expanded="true"] > :first-child:before {
+      position: absolute;
+      left: 0;
+      content: "";
+      background: url("/Resources/images/icons/icon-minus-circle.svg") no-repeat center center;
+      width: 24px;
+      height: 24px;
+      -webkit-transition: opacity 0.3s ease;
+              transition: opacity 0.3s ease;
+
+}

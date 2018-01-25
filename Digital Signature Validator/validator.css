@@ -1,0 +1,50 @@
+﻿.flex-container {
+	display: -webkit-flex;
+	display: flex; /* or inline-flex */
+	flex-wrap: wrap;
+	width: 800px;
+	-web-kit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	-web-kit-flex-flow: column wrap;
+	align-content: center;
+}
+
+.flex-row {
+	display: flex;
+	display: -webkit-flex;
+}
+
+.total {
+	width: 780px;
+	padding: 10px;
+}
+
+.flex-guide {
+	display: flex; /* or inline-flex */
+	display: -webkit-flex;
+	flex-wrap:wrap;
+	width: 780px;
+}
+.guide {
+	width: 780px;
+	padding: 10px;
+	background: #e6e6e6; // equal button background
+	flex-shrink: 0;
+}
+
+.left-col {
+	width: 170px;
+	padding: 10px;
+}
+
+.right-col {
+	width: 580px;
+	padding: 10px;
+	align-self: flex-end;
+}
+
+textarea {
+	width: 550px;
+}
+
