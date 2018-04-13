@@ -1,3 +1,3 @@
-The General Ledger Standard Accounts codelists are Copyright Regnskap Norge AS, 2016. 
+The General Ledger Standard Accounts codelists are Copyright Regnskap Norge AS, 2018. 
 
 The General Ledger Standard Accounts may only be used in connection with SAF-T mapping. Other commercial use must be agreed upon with Regnskap Norge AS. https://www.regnskapnorge.no 
