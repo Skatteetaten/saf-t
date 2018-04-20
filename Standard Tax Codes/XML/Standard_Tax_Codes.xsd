@@ -56,6 +56,8 @@
 		</xs:annotation>
 		<xs:restriction base="xs:string">
 			<xs:enumeration value="Regular rate"/>
+			<xs:enumeration value="Reduced rate, low"/>
+			<xs:enumeration value="Reduced rate, middle"/>
 			<xs:enumeration value="Reduced rate, foodstuffs"/>
 			<xs:enumeration value="Reduced rate, raw fish"/>
 			<xs:enumeration value="Reduced rate"/>
