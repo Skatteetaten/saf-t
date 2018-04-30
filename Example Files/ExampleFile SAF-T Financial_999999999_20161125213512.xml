@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<n1:AuditFile xmlns:n1="urn:StandardAuditFile-Taxation-Financial:NO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:StandardAuditFile-Taxation-Financial:NO Norwegian_SAF-T_Financial_Schema_v_1.00.xsd">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<n1:AuditFile xmlns:n1="urn:StandardAuditFile-Taxation-Financial:NO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:StandardAuditFile-Taxation-Financial:NO Norwegian_SAF-T_Financial_Schema_v_1.10.xsd">
 	<n1:Header>
 		<n1:AuditFileVersion>1.0</n1:AuditFileVersion>
 		<n1:AuditFileCountry>NO</n1:AuditFileCountry>
@@ -393,11 +393,6 @@
 					<n1:SystemEntryTime>2015-10-22T09:30:00</n1:SystemEntryTime>
 				</n1:Line>
 			</n1:Transaction>
-		</n1:Journal>
-		<n1:Journal>
-			<n1:JournalID>A</n1:JournalID>
-			<n1:Description>Lorem ipsum dolor sit amet...</n1:Description>
-			<n1:Type>A</n1:Type>
 			<n1:Transaction>
 				<n1:TransactionID>5678</n1:TransactionID>
 				<n1:Period>10</n1:Period>
