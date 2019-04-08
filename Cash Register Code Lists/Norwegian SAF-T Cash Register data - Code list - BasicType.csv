@@ -1,17 +1,17 @@
-BasicType;English name
-01;Cost codes
-02;Product codes
-03;Project codes
-04;Article Group codes
-05;Ticketline codes
-06;Logging codes
-07;Savings codes
-08;Discount codes
-09;Quantity codes / Quantity ID
-10;Raise codes
-11;Transaction codes 
-12;Payment codes
-13;Event codes
-14;Service code
-15;User codes / User ID
-16;Other
+BasicType;CodeDescriptionENG;CodeDescriptionNOB
+01;Cost codes;Kostnadssted
+02;Product codes;Produkt koder (PLU)
+03;Project codes;Prosjekt koder
+04;Article Group codes;Varegruppekoder 
+05;Ticketline codes;Varelinjekoder
+06;Logging codes;Logging i systemet, backup etc  (ikke bruker/hendelses-basert) 
+07;Savings codes;Rabatter per enhet (3 for 2 etc)
+08;Discount codes;Rabatt i pris (prosent avslag etc)
+09;Quantity codes / Quantity ID;Definisjon av antall
+10;Raise codes;Tips beløp, eller påslag i pris for definerte kundegrupper
+11;Transaction codes ;Transaksjonstyper
+12;Payment codes;Betalingsmåter
+13;Event codes;Hendelser som ikke er salg
+14;Service code;Systemleverandør service hendelser
+15;User codes / User ID;Brukeridenten på systemet (kan også tilsvare empID)
+16;Other;Øvrige

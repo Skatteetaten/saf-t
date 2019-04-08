@@ -1,23 +1,23 @@
-PredefinedBasicID-04;English name
-04001;Withdrawal of treatment services
-04002;Withdrawal of goods used for treatment services
-04003;Sale of goods
-04004;Sale of treatment services
-04005;Sale of haircut
-04006;Food 
-04007;Beer
-04008;Wine
-04009;Liquor
-04010;Alcopops/Cider
-04011;Soft drinks/Mineral water
-04012;Other drinks (tea, coffe etc)
-04013;Tobacco
-04014;Other goods
-04015;Entrance fee (cover charge)
-04016;Free entrance (members etc)
-04017;Cloakroom fee
-04018;Free cloakroom
-04019;Accomodation - full board
-04020;Accomodation - half board
-04021;Accomodation - with breakfast
-04999;Other
+PredefinedBasicID-04;CodeDescriptionENG;CodeDescriptionNOB
+04001;Withdrawal of treatment services;Uttak av behandlingstjenester
+04002;Withdrawal of goods used for treatment services;Uttak av behandlingsvarer
+04003;Sale of goods;Varesalg
+04004;Sale of treatment services;Salg av behandlingstjenester
+04005;Sale of haircut;Salg av hårklipp
+04006;Food ;Mat
+04007;Beer;Øl
+04008;Wine;Vin
+04009;Liquor;Brennevin
+04010;Alcopops/Cider;Rusbrus/Cider
+04011;Soft drinks/Mineral water;Mineralvann (brus)
+04012;Other drinks (tea, coffe etc);Annen drikke (te, kaffe etc)
+04013;Tobacco;Tobakk
+04014;Other goods;Andre varer
+04015;Entrance fee (cover charge);Inngangspenger
+04016;Free entrance (members etc);Inngangspenger fri adgang (uten vederlag)
+04017;Cloakroom fee;Garderobeavgift
+04018;Free cloakroom;Garderobeavgift fri garderobe (uten vederlag)
+04019;Accomodation - full board;Helpensjon: Overnatting med frokost, lunsj og middag.
+04020;Accomodation - half board;Halvpensjon: Overnatting med frokost og middag
+04021;Accomodation - with breakfast;Overnatting med frokost
+04999;Other;Øvrige

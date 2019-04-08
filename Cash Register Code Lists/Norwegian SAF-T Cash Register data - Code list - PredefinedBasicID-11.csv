@@ -1,16 +1,19 @@
-PredefinedBasicID-11;English name
-11001;Cash sale
-11002;Credit sale
-11003;Purchase
-11004;Payment
-11005;Receiving payment
-11006;Return payment
-11007;Cash declaration
-11008;Cash difference
-11009;Correction
-11010;Out Payment
-11011;In Payment
-11012;Trade-in, exchange
-11013;Return products
-11014;Inventory, stock
-11999;Other
+PredefinedBasicID-11;CodeDescriptionENG;CodeDescriptionNOB
+11001;Cash sale;Kontantsalg
+11002;Credit sale;Kredittsalg
+11003;Purchase;Kjøp av varer fra leverandører etc.
+11004;Payment;Betaling
+11005;Receiving payment;Innbetaling fra kunde
+11006;Return payment;Utbetaling til kunde ved vareretur
+11007;Cash declaration;Inngående vekselbeholdning
+11008;Cash difference;Kassedifferanse ved opptelling
+11009;Correction;Korrigere kvittering/bong
+11010;Out Payment;Ansatte/virksomheten selv tar ut penger
+11011;In Payment;Ansatte/virksomheten selv setter inn penger
+11012;Trade-in, exchange;Kjøp av vare fra kunde, og salg av ny vare
+11013;Return products;Tidligere solgt vare i retur og ny vare med seg
+11014;Inventory, stock;Inventar, lager
+11015;Cash and credit sale;Kontant- og kredittsalg
+11016;Cash sale and return;Kontantsalg og retur
+11017;Credit sale and return;Kredittsalg og retur
+11999;Other;Øvrige

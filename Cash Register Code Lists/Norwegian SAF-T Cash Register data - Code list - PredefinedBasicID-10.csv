@@ -1,3 +1,3 @@
-PredefinedBasicID-10;English name
-10001;Amount from gratuity/tip
-10999;Other
+PredefinedBasicID-10;CodeDescriptionENG;CodeDescriptionNOB
+10001;Amount from gratuity/tip;Beløp knyttet til drikkepenger eller tips
+10999;Other;Øvrige
