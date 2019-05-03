@@ -1,0 +1,180 @@
+GroupingCategory;CategoryDescriptionNOB;CategoryDescriptionENG;GroupingCode;CodeDescriptionNOB;CodeDescriptionENG
+RF-1501;Næringsoppgave 6;Income Statement 6;1.05.0.10;Forfalte premier, brutto;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.05.0.20;Avgitte gjenforsikringspremier (negativt fortegn hvis kostnad);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.07.0.00;Overføring av premiereserve, pensjonskapital mv. fra andre;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.10.0.00;Renteinntekter mv.;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.35.1.00;Utbytte og andel av over-/ under-skudd, samt renter på obligasjons- og pengemarkedsfond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.1.00;Netto verdiendringer (negativ hvis netto negative verdiendringer);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.1.00;Netto realisert gevinst/tap (negativ hvis netto realisert tap);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;2.45.0.00;Provisjoner og administrasjonsgebyrer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;2.55.0.00;Driftsinntekter faste eiendommer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;2.65.0.00;Øvrige forsikringsrelaterte inntekter;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.00.0.00;Øvrige inntekter i teknisk regnskap;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.05.0.10;Erstatninger, Utbetalte erstatninger brutto;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.05.0.20;Erstatninger, Gjenforsikringsandel;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.07.0.00;Overføring av premiereserve og pensjonskapital mv. til andre forsikr-ingsforetak/pensjonskasser;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.08.0.00;Resultatførte endringer i forsikringsforpliktelser (negativt fortegn hvis inntekt);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.09.0.00;Midler tilordnet forsikringskontraktene;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.10.0.00;Rentekostnader;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.00.0.00;Forsikringsrelaterte driftskostnader;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.00.0.00;Øvrige kostnader teknisk regnskap;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.10.1.21.00;Renteinntekter mv., Bankinnskudd;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.10.1.40.00;Renteinntekter mv., Rentebærende verdipapirer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.10.2.55.00;Renteinntekter mv., Utlån;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.10.0.88.00;Renteinntekter mv., Finansielle derivater;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.10.0.91.00;Renteinntekter mv., Andre finansielle eiendeler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.35.1.36.10;Utbytte og andel av over-/underskudd, Aksjer, andeler og egenkapitalbevis, Obligasjons- og pengemarkedsfond, renter av andeler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.35.1.36.20;Utbytte og andel av over-/underskudd, Aksjer, andeler og egenkapitalbevis, Eiendomsselskaper, utbytte og konsernbidrag;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.35.1.36.70;Utbytte og andel av over-/underskudd, Aksjer, andeler og egenkapitalbevis, resultatandel,Ek-.metoden (kan være negativ);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.35.1.36.90;Utbytte og andel av over-/underskudd, Aksjer, andeler og egenkapitalbevis, Andre aksjer, utbytte og konsernbidrag;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.35.1.89.00;Utbytte og andel av over-/underskudd, Andre verdipapirer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.1.36.10;Netto verdiendringer, Aksjer, andeler og egenkapitalbevis, Obligasjons-/pengemarkedsfond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.1.36.20;Netto verdiendringer, Aksjer, andeler og egenkapitalbevis, Eiendomsselskaper/-fond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.1.36.90;Netto verdiendringer, Aksjer, andeler og egenkapitalbevis, Andre aksjer og fond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.1.40.00;Netto verdiendringer, Rentebærende verdipapirer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.2.55.00;Netto verdiendringer, Utlån;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.4.85.10;Netto positive verdiendringer, Immaterielle eiendeler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.4.85.20;Netto negative verdiendringer, Immaterielle eiendeler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.5.86.00;Netto verdiendringer, Bygninger og annen fast eiendom;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.5.87.00;Netto verdiendringer, maskiner, inventar og transportmidler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.0.88.00;Netto verdiendringer, Finansielle derivater;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.60.0.91.00;Netto verdiendringer, Andre finansielle eiendeler/gjeld;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.1.36.10;Netto realisert gevinst/tap, Aksjer, andeler og egenkapitalbevis, Obligasjons/-pengemarkedsfond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.1.36.20;Netto realisert gevinst/tap, Aksjer, andeler og egenkapitalbevis, Eiendomsselskaper/-fond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.1.36.90;Netto realisert gevinst/tap, Aksjer, andeler og egenkapitalbevis, Andre aksjer og fond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.1.40.00;Netto realisert gevinst/tap, rentebærende verdipapirer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.4.85.10;Netto realisert gevinst/tap, Immaterielle eiendeler, realisert gevinst;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.4.85.20;Netto realisert gevinst/tap, Immaterielle eiendeler, realisert tap;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.5.86.00;Netto realisert gevinst/tap, Bygninger og annen fast eiendom;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.5.87.00;Netto verdiendringer, maskiner, inventar og transportmidler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.0.88.00;Netto realisert gevinst/tap, Finansielle derivater;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.70.0.91.00;Netto realisert gevinst/tap, Andre finansielle eiendeler/gjeld;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;2.45.0.88.00;Provisjoner og administrasjonsgebyrer, Provisjoner av finansielle tjenester (fulltegningsgarantiprovisjoner mv.);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;2.55.0.00.00;Driftsinntekter faste eiendommer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;2.65.0.00.00;Øvrige forsikringsrelaterte inntekter;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.65.0.00.00;Rente på skatt og andre inntekter i ikke-teknisk regnskap;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.10.8.00;Rentekostnader, Ansvarlig lånekapital;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.10.0.88;Rentekostnader, Finansielle derivater;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.10.0.91;Rentekostnader, Andre finansielle forpliktelser;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.45.0.10;Provisjoner, kurtasje mv., Provisjoner til agenter mv.;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.45.0.20;Provisjoner, kurtasje mv., Avgitt provisjoner for mottatt gjenforsikring (negativt fortegn hvis inntekt);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.45.0.30;Provisjoner, kurtasje mv., Mottatte provisjoner for avgitt gjenforsikring og gevinstandeler (negativt fortegn hvis inntekt);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.45.0.88;Provisjoner, kurtasje mv., Kurtasje mv.;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.50.0.05;Lønns- og personalkostnader, Lønn og feriepenger til ansatte;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.50.0.21;Lønns- og personalkostnader, Arbeidsgiveravgift;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.50.0.28;Lønns- og personalkostnader, Pensjonskostnader;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.50.0.50;Lønns- og personalkostnader, Andre personalkostnader;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.52.0.00;Honorarer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.55.0.00;Driftskostnader faste eiendommer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.65.0.10;Andre ordinære driftskostnader, Leie og driftskostnader vedr. lokaler og maskiner mv.;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.65.0.88;Andre forsikringsrelaterte driftskostnader og kostnader knyttet til finansielle eiendeler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.71.4.85;Avskrivninger, Immaterielle eiendeler mv.;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.71.5.86;Avskrivninger, Bygninger og annen fast eiendom;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.71.5.87;Avskrivninger, Maskiner, inventar og transportmidler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;6.65.0.00;Emisjonskostnader, rente på skatt og andre kostnader i ikke-teknisk regnskap;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.05.0.05;Skattekostnader, Periodeskatt;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.05.0.11;Skattekostnader, For lite/mye(-) avsatt skatt  tidligere år (kan være negativ);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.05.0.92;Skattekostnader, Øvrig endring i forpliktelse ved utsatt skatt;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.91.0.30;Estimatendinger knyttet til ytelsesbaserte pensjonsordninger;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.91.0.60;Fra finansielle eiendeler og forpliktelser;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.91.0.71;Verdireguleringer på eiendom, anlegg og utstyr;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.91.0.72;Fra andre ikke-finansielle eiendeler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.91.0.80;Justering av forsikringsforpliktelsene -  kun livsforsikring;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.91.7.89;Skatt på andre inntekter og kostnader som ikke blir omklassifisert;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.92.0.21;Gevinster og tap på finansielle eiendeler tilgjengelig for salg;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.92.0.40;Effektiv andel av nettogev. på sikrings-instrumenter i kontantstrømsikring;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.92.0.60;Fra andre finansielle eiendeler og forpliktelser;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.92.0.70;Fra ikke-finansielle eiendeler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.92.0.80;Justering av forsikringsforpliktelsene, kun livsforsikring;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.92.7.89;Skatt på andre inntekter og kostnader som kan bli omklassifisert;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.15.00;Sedler og skillemynt;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.21.00;Bankinnskudd;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.21;Aksjer, ekskl. aksjer i eiendomsselskaper;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.22;Aksjer i eiendomsselskaper;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.31;Andeler i KS og ansvarlige selskaper, ekskl. andeler i eiendomsselskaper;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.32;Andeler i eiendomsselskaper;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.33;Andeler i indre eiendomsselskaper;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.34;Andeler i andre indre selskaper (IS);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.82;Andeler i aksjefond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.84;Andeler i obligasjonsfond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.86;Andeler i pengemarkedsfond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.88;Andeler i kombinasjonsfond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.89;Andeler i andre fond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.36.90;Egenkapitalbevis;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.40.00;Rentebærende verdipapirer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.88.00;Finansielle derivater;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;1.89.90;Andre verdipapirer/finansielle eiendeler ekskl. utlån;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;2.55.37;Utlån - Med pant i bolig;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;2.55.42;Utlån - Andre pantelån;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;2.55.88;Utlån - Verdipapir-/ repolån;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;2.55.92;Utlån - Andre utlån;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.08.00;Gjenforsikringsandel av forsikrings-forpliktelser i livsforsikring;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.26.00;Gjenforsikringsandel av ikke opptjent bruttopremie;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.27.00;Gjenforsikringsandel av brutto erstatningsavsetning;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.62.70;Opptjente, ikke forfalte leieinntekter;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.62.90;Opptjente, ikke forfalte andre inntekter;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.63.50;Forskuddsbetalte direkte salgskostnader;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.63.90;Forskuddsbetalte andre kostnader;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.73.00;I regning med filial;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.75.10;Andre fordringer - Tegnet, ikke innbetalt kapital;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.75.31;Andre fordringer - Vedr. dir. forsikring, forsikringstakere;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.75.32;Andre fordringer - Vedr. direkte forsikring, mellommenn;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.75.40;Andre fordringer - Vedrørende gjenforsikring;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.75.90;Andre fordringer - Andre fordringer ellers;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.84.00;Eiendeler ved skatt (utsatt skattefordel);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.89.50;Andre eiendeler - Gjenforsikringsdepoter;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;3.89.90;Andre eiendeler - Øvrige;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.85.11;Immaterielle eiendeler - Goodwill;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;4.85.90;Immaterielle eiendeler - Andre immaterielle eiendeler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.86.10;Bygninger og annen fast eiendom, ekskl. aksjer i eiendomsselskaper- Investeringseiendommer;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.86.20;Bygninger og annen fast eiendom, ekskl. aksjer i eiendomsselskaper- Eierbenyttet eiendom;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;5.87.00;Maskiner, inventar og transportmidler;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.55.88;Lån - Verdipapir-/repolån;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.55.90;Lån - Likviditetslån;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.62.80;Påløpte, ikke forfalte kostnader - Lønn, ferielønn, honorarer o.l;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.62.90;Påløpte, ikke forfalte kostnader - Andre kostnader;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.63.70;Mottatte, ikke opptjente inntekter - Leieinntekter;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.63.90;Mottatte, ikke opptjente inntekter - Andre inntekter;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.71.10;Utbytte, konsernbidrag o.l - Utbytte/ egenkapitalbevisrenter siste år;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.71.50;Utbytte, konsernbidrag o.l - Konsernbidrag siste år;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.73.00;I regning med filial;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.75.30;Annen gjeld - Vedrørende direkte forsikring;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.75.40;Annen gjeld - Vedrørende gjenforsikring;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.75.50;Annen gjeld - Premiedepot fra gjenforsikr.foretak;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.75.90;Annen gjeld - Annen gjeld ellers;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.88.00;Finansielle derivater;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.90.11;Avsetninger o.l. - Periodeskatt (kan være negativ);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.90.13;Avsetninger o.l. - Forpliktelse ved utsatt skatt knyttet til forsikringsforpliktelser/forsikringstekniske avsetninger under egenkapital;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.90.15;Avsetninger o.l. - Andre forpliktelser ved utsatt skatt;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.90.70;Avsetninger o.l. - Pensjonsforpliktelser;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;7.75.90;Avsetninger o.l. - Andre avsetninger;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.01.00;Premiereserve og pensjonskapital mv.;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.02.00;Tilleggsavsetninger;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.03.00;Kursreguleringsfond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.06.00;Premiefond / innskuddsfond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.07.00;Fond for regulering av pensjoner mv.;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.09.00;Andre tekniske avsetninger for skadeforsikringsvirksomheten;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.19.00;Ufordelte overskuddsmidler til forsikringskontraktene;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.42.11;Ansvarlig lånekapital i form av rentebærende omsettelige verdipapirer, netto - Evigvarende;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.42.22;Ansvarlig lånekapital i form av rentebærende omsettelige verdipapirer, netto - Ordinære ikke-konvertible;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.42.24;Ansvarlig lånekapital i form av rentebærende omsettelige verdipapirer, netto - Konvertible;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.49.11;Fondsobligasjoner - Evigvarende;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.55.11;Andre ansvarlige lån - Evigvarende;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;8.55.20;Andre ansvarlige lån - Andre;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.92.10;Selskapskapital - Aksjekapital;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.92.12;Selskapskapital - Eierandelskapital;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.92.20;Selskapskapital - Garantifond;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.92.30;Selskapskapital - Egne aksjer (negativ);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.92.32;Selskapskapital - Egne eierandelskapital (negativ);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.93.10;Annen innskutt egenkapital - Overkurs;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.93.25;Annen innskutt egenkapital - Egenkapitalandel av sammensatte fin. Instrumenter o.a. egenkapitalinstrum;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.93.30;Annen innskutt egenkapital - Annen innskutt egenkapital;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.93.49;Annen innskutt egenkapital - Fondsobligasjonskapital;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.96.10;Fond mv. - Fond for vurderingsforskjeller;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.96.20;Fond mv. - Fond for urealiserte gevinster;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.96.30;Fond mv. - Risikoutjevningsfond (liv);NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.98.10;Annen opptjent egenkapital - Utbytte/grunnfondsbev.renter siste år;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.98.42;Annen opptjent egenkapital - Renter på fondsobligasjoner siste år;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.98.50;Annen opptjent egenkapital - Konsernbidrag siste år;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.98.90;Annen opptjent egenkapital - Øvrig;NA
+RF-1501;Næringsoppgave 6;Income Statement 6;9.98.99;Annen opptjent egenkapital - Ikke disponert resultat (netto) - kun kvartal;NA
