@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:skatt="http://www.skatteetaten.no/xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+    <xsd:annotation>
+        <xsd:documentation>
+            <xsd:attribute fixed="2016-11-22T10:11:22.935+0100" name="generertDato"/>
+            <xsd:attribute fixed="2016-05-12_11" name="versjon"/>
+            <xsd:attribute fixed="" name="beskrivelse"/>
+            <xsd:attribute fixed="Regnskap" name="modellnavn"/>
+            <xsd:attribute fixed="RF-1363" name="skjemanavn"/>
+            <xsd:attribute fixed="saf-t:regnskap" name="navnerom"/>
+            <xsd:attribute fixed="false" name="begrepsreferanse"/>
+            <xsd:attribute fixed="true" name="dokumentasjon"/>
+            <xsd:attribute fixed="true" name="nillable"/>
+            <xsd:attribute fixed="false" name="modellelement"/>
+        </xsd:documentation>
+    </xsd:annotation>
+    <xsd:element name="melding" type="EgenerklaeringRegnskap"/>
+    <xsd:complexType name="EgenerklaeringRegnskap">
+                <xsd:sequence>
+            <xsd:element minOccurs="0" name="oppgaveinformasjon" nillable="true" type="Oppgaveinformasjon"/>
+            <xsd:element minOccurs="0" name="informasjonOmInnsender" nillable="true" type="InformasjonOmInnsender">
+                <xsd:annotation>
+                    <xsd:documentation>Originalmultiplisitet='informasjonOmInnsenderInformasjonOmInnsender[1]'</xsd:documentation>
+                </xsd:annotation>
+            </xsd:element>
+        </xsd:sequence>
+		<xsd:attribute fixed="Skatt" name="dataFormatProvider" type="xsd:string" use="required"/>
+        <xsd:attribute fixed="RF-1363" name="dataFormatId" type="xsd:string" use="required"/>
+        <xsd:attribute fixed="16112210" name="dataFormatVersion" type="xsd:string" use="required"/>
+		<xsd:anyAttribute/>
+    </xsd:complexType>
+    <xsd:complexType name="InformasjonOmInnsender">
+        <xsd:sequence>
+            <xsd:element name="organisasjonsnummer" nillable="true" type="Organisasjonsnummer">
+                <xsd:annotation>
+                    <xsd:documentation>Originalmultiplisitet='organisasjonsnummerOrganisasjonsnummer'Restriksjon='xsd:pattern=[0-9]+, xsd:length=9'</xsd:documentation>
+                </xsd:annotation>
+            </xsd:element>
+            <xsd:element name="organisasjonsnavn" nillable="true" type="Organisasjonsnavn">
+                <xsd:annotation>
+                    <xsd:documentation>Originalmultiplisitet='organisasjonsnavnOrganisasjonsnavn'Restriksjon='xsd:maxLength=100'</xsd:documentation>
+                </xsd:annotation>
+            </xsd:element>
+            <xsd:element minOccurs="0" name="kontaktinformasjon" nillable="true" type="Kontaktinformasjon"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="Kontaktinformasjon">
+        <xsd:sequence>
+            <xsd:element name="navn" nillable="true" type="Navn">
+                <xsd:annotation>
+                    <xsd:documentation>Originalmultiplisitet='navnNavn'Restriksjon='xsd:minLength=1, xsd:maxLength=200'</xsd:documentation>
+                </xsd:annotation>
+            </xsd:element>
+            <xsd:element name="epostadresse" nillable="true" type="Epostadresse">
+                <xsd:annotation>
+                    <xsd:documentation>Originalmultiplisitet='epostadresseEpostadresse'Restriksjon='xsd:maxLength=254'</xsd:documentation>
+                </xsd:annotation>
+            </xsd:element>
+            <xsd:element name="mobiltelefonummer" nillable="true" type="Telefonnummer">
+                <xsd:annotation>
+                    <xsd:documentation>Originalmultiplisitet='mobiltelefonummerTelefonnummer'Restriksjon='xsd:maxLength=20'</xsd:documentation>
+                </xsd:annotation>
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:complexType name="Oppgaveinformasjon">
+        <xsd:sequence>
+            <xsd:element name="referanse" nillable="true" type="Tekst">
+                <xsd:annotation>
+                    <xsd:documentation>Originalmultiplisitet='referanseTekst'Restriksjon='xsd:maxLength=4000'</xsd:documentation>
+                </xsd:annotation>
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:simpleType name="Organisasjonsnummer">
+        <xsd:annotation>
+            <xsd:documentation>9 sifret nummer gitt de som er registrert i Enhetsregisteret. </xsd:documentation>
+        </xsd:annotation>
+        <xsd:restriction base="Tekst">
+            <!--<xsd:pattern value="[0-9]+"/>
+<xsd:length value="9"/>
+-->
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:simpleType name="Organisasjonsnavn">
+        <xsd:annotation>
+            <xsd:documentation>navn på organisasjon </xsd:documentation>
+        </xsd:annotation>
+        <xsd:restriction base="Tekst">
+            <!--<xsd:maxLength value="100"/>
+-->
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:simpleType name="Navn">
+        <xsd:annotation>
+            <xsd:documentation>et ord som noen el. noe kalles ved, og som henfører det nevnte til en bestemt klasse el. art (eks plantenavn, stoffnavn) el. skiller ut et bestemt individ, eksemplar e l fra en større gruppe (eks personnavn, stedsnavn). (Bokmålsordboka) </xsd:documentation>
+        </xsd:annotation>
+        <xsd:restriction base="Tekst">
+            <!--<xsd:minLength value="1"/>
+<xsd:maxLength value="200"/>
+-->
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:simpleType name="Epostadresse">
+        <xsd:annotation>
+            <xsd:documentation>navngitt elektronisk adresse for mottak av e-post </xsd:documentation>
+        </xsd:annotation>
+        <xsd:restriction base="Tekst">
+            <!--<xsd:maxLength value="254"/>
+-->
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:simpleType name="Telefonnummer">
+        <xsd:annotation>
+            <xsd:documentation>tallkode som telenettet bruker for å få fram teletrafikk til riktig adressat </xsd:documentation>
+        </xsd:annotation>
+        <xsd:restriction base="Tekst">
+            <!--<xsd:maxLength value="20"/>
+-->
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:simpleType name="Tekst">
+        <xsd:annotation>
+            <xsd:documentation>vilkårlig lang sekvens av tegn inkludert aksenter og spesielle tegn fra standardiserte tegnsett 
+</xsd:documentation>
+        </xsd:annotation>
+        <xsd:restriction base="xsd:string">
+            <!--<xsd:maxLength value="4000"/>
+-->
+        </xsd:restriction>
+    </xsd:simpleType>
+</xsd:schema>
