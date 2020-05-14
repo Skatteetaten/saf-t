@@ -91,6 +91,11 @@
     <Description ISOLanguageCode="ENG">Goodwill</Description>
   </Account>
   <Account>
+    <AccountID>1099</AccountID>
+    <Description ISOLanguageCode="NOB">Andre immaterielle eiendeler</Description>
+    <Description ISOLanguageCode="ENG">Other intangible assets</Description>
+  </Account>
+  <Account>
     <AccountID>1100</AccountID>
     <Description ISOLanguageCode="NOB">Bygninger</Description>
     <Description ISOLanguageCode="ENG">Buildings</Description>
@@ -134,6 +139,11 @@
     <AccountID>1160</AccountID>
     <Description ISOLanguageCode="NOB">Boliger inklusive tomter</Description>
     <Description ISOLanguageCode="ENG">Dwellings including land</Description>
+  </Account>
+  <Account>
+    <AccountID>1179</AccountID>
+    <Description ISOLanguageCode="NOB">Annen fast eiendom</Description>
+    <Description ISOLanguageCode="ENG">Other properties</Description>
   </Account>
   <Account>
     <AccountID>1180</AccountID>
@@ -264,6 +274,21 @@
     <AccountID>1265</AccountID>
     <Description ISOLanguageCode="NOB">Fast bygningsinventar, leide lokaler</Description>
     <Description ISOLanguageCode="ENG">Permanent building fixtures and fittings, leased premises</Description>
+  </Account>
+  <Account>
+    <AccountID>1270</AccountID>
+    <Description ISOLanguageCode="NOB">Verktøy o.l.</Description>
+    <Description ISOLanguageCode="ENG">Tools etc.</Description>
+  </Account>
+  <Account>
+    <AccountID>1280</AccountID>
+    <Description ISOLanguageCode="NOB">Kontormaskiner</Description>
+    <Description ISOLanguageCode="ENG">Office machines</Description>
+  </Account>
+  <Account>
+    <AccountID>1289</AccountID>
+    <Description ISOLanguageCode="NOB">Andre varige driftsmidler</Description>
+    <Description ISOLanguageCode="ENG">Other fixed assets</Description>
   </Account>
   <Account>
     <AccountID>1290</AccountID>
@@ -399,6 +424,11 @@
     <AccountID>1360</AccountID>
     <Description ISOLanguageCode="NOB">Obligasjoner</Description>
     <Description ISOLanguageCode="ENG">Bonds</Description>
+  </Account>
+  <Account>
+    <AccountID>1369</AccountID>
+    <Description ISOLanguageCode="NOB">Andre finansielle anleggsmidler</Description>
+    <Description ISOLanguageCode="ENG">Other financial fixed assets</Description>
   </Account>
   <Account>
     <AccountID>1370</AccountID>
@@ -574,6 +604,11 @@
     <AccountID>1490</AccountID>
     <Description ISOLanguageCode="NOB">Biologiske eiendeler</Description>
     <Description ISOLanguageCode="ENG">Biological assets</Description>
+  </Account>
+  <Account>
+    <AccountID>1499</AccountID>
+    <Description ISOLanguageCode="NOB">Andre beholdninger</Description>
+    <Description ISOLanguageCode="ENG">Other inventories</Description>
   </Account>
   <Account>
     <AccountID>1500</AccountID>
@@ -1266,6 +1301,11 @@
     <Description ISOLanguageCode="ENG">Corporate advance tax</Description>
   </Account>
   <Account>
+    <AccountID>2599</AccountID>
+    <Description ISOLanguageCode="NOB">Annen skyldig skatt</Description>
+    <Description ISOLanguageCode="ENG">Other payable taxes</Description>
+  </Account>
+  <Account>
     <AccountID>2600</AccountID>
     <Description ISOLanguageCode="NOB">Forskuddstrekk</Description>
     <Description ISOLanguageCode="ENG">Advance tax withholding</Description>
@@ -1926,6 +1966,11 @@
     <Description ISOLanguageCode="ENG">Change in value of biological assets</Description>
   </Account>
   <Account>
+    <AccountID>3880</AccountID>
+    <Description ISOLanguageCode="NOB">Gevinst ved avgang av immaterielle eiendeler og varige driftsmidler</Description>
+    <Description ISOLanguageCode="ENG">Gains from selling intangible assets and fixed assets</Description>
+  </Account>
+  <Account>
     <AccountID>3881</AccountID>
     <Description ISOLanguageCode="NOB">Salgssum immatr. eiendeler og varige driftsmidler, avgiftspliktig salg</Description>
     <Description ISOLanguageCode="ENG">Selling price of intangible assets and tangible fixed assets, sale subject to VAT</Description>
@@ -1964,6 +2009,11 @@
     <AccountID>4030</AccountID>
     <Description ISOLanguageCode="NOB">Innkjøp av råvarer og halvfabrikata, middels sats</Description>
     <Description ISOLanguageCode="ENG">Purchase of raw materials and semi-manufactures, middle rate</Description>
+  </Account>
+  <Account>
+    <AccountID>4035</AccountID>
+    <Description ISOLanguageCode="NOB">Innkjøp av råvarer og halvfabrikata, uten MVA</Description>
+    <Description ISOLanguageCode="ENG">Purchase of raw materials and semi-manufactures, without VAT</Description>
   </Account>
   <Account>
     <AccountID>4040</AccountID>
@@ -2071,6 +2121,11 @@
     <Description ISOLanguageCode="ENG">Purchases of work in progress, middle rate</Description>
   </Account>
   <Account>
+    <AccountID>4140</AccountID>
+    <Description ISOLanguageCode="NOB">Innkjøp av råvarer under tilvirkning, uten MVA</Description>
+    <Description ISOLanguageCode="ENG">Purchases of work in progress, without VAT</Description>
+  </Account>
+  <Account>
     <AccountID>4160</AccountID>
     <Description ISOLanguageCode="NOB">Frakt, toll og spedisjon</Description>
     <Description ISOLanguageCode="ENG">Freight, customs duty and forwarding</Description>
@@ -2121,6 +2176,11 @@
     <Description ISOLanguageCode="ENG">Purchase of self-produced finished goods, middle rate</Description>
   </Account>
   <Account>
+    <AccountID>4240</AccountID>
+    <Description ISOLanguageCode="NOB">Innkjøp ferdig egentilvirkede varer, uten MVA</Description>
+    <Description ISOLanguageCode="ENG">Purchase of self-produced finished goods, without VAT</Description>
+  </Account>
+  <Account>
     <AccountID>4260</AccountID>
     <Description ISOLanguageCode="NOB">Frakt, toll og spedisjon</Description>
     <Description ISOLanguageCode="ENG">Freight, customs duty and forwarding</Description>
@@ -2149,6 +2209,11 @@
     <AccountID>4330</AccountID>
     <Description ISOLanguageCode="NOB">Innkjøp av varer for videresalg, middels sats</Description>
     <Description ISOLanguageCode="ENG">Purchase of goods for resale, middle rate</Description>
+  </Account>
+  <Account>
+    <AccountID>4335</AccountID>
+    <Description ISOLanguageCode="NOB">Innkjøp av varer for videresalg, uten MVA</Description>
+    <Description ISOLanguageCode="ENG">Purchase of goods for resale, without VAT</Description>
   </Account>
   <Account>
     <AccountID>4340</AccountID>
@@ -2531,6 +2596,16 @@
     <Description ISOLanguageCode="ENG">LO/NHO scheme (AFP)</Description>
   </Account>
   <Account>
+    <AccountID>5943</AccountID>
+    <Description ISOLanguageCode="NOB">Pensjonsforsikring, arbeidsgiveravgiftspliktig</Description>
+    <Description ISOLanguageCode="ENG">Insured pensions, with social security taxes</Description>
+  </Account>
+  <Account>
+    <AccountID>5944</AccountID>
+    <Description ISOLanguageCode="NOB">Pensjonsforsikring, ikke arbeidsgiveravgiftspliktig</Description>
+    <Description ISOLanguageCode="ENG">Insured pensions, without social security taxes</Description>
+  </Account>
+  <Account>
     <AccountID>5950</AccountID>
     <Description ISOLanguageCode="NOB">Obligatorisk tjenestepensjon (OTP)</Description>
     <Description ISOLanguageCode="ENG">Mandatory Occupational Pension (OTP)</Description>
@@ -2576,6 +2651,11 @@
     <Description ISOLanguageCode="ENG">Depreciation of other intangible assets</Description>
   </Account>
   <Account>
+    <AccountID>6030</AccountID>
+    <Description ISOLanguageCode="NOB">Avskrivning annet</Description>
+    <Description ISOLanguageCode="ENG">Depreciation other</Description>
+  </Account> 
+  <Account>
     <AccountID>6050</AccountID>
     <Description ISOLanguageCode="NOB">Nedskrivning av varige driftsmidler</Description>
     <Description ISOLanguageCode="ENG">Write-down on tangible fixed assets</Description>
@@ -2589,6 +2669,16 @@
     <AccountID>6059</AccountID>
     <Description ISOLanguageCode="NOB">Reversering av nedskrivning varige driftsmidler og immaterielle eiendeler</Description>
     <Description ISOLanguageCode="ENG">Reversal of write-down on tangible fixed assets and intangible assets</Description>
+  </Account>
+  <Account>
+    <AccountID>6060</AccountID>
+    <Description ISOLanguageCode="NOB">Nedskrivning annet</Description>
+    <Description ISOLanguageCode="ENG">Write-down other</Description>
+  </Account>
+  <Account>
+    <AccountID>6061</AccountID>
+    <Description ISOLanguageCode="NOB">Reversering nedskrivning annet</Description>
+    <Description ISOLanguageCode="ENG">Reversal of write-down other</Description>
   </Account>
   <Account>
     <AccountID>6100</AccountID>
@@ -3194,6 +3284,11 @@
     <AccountID>7860</AccountID>
     <Description ISOLanguageCode="NOB">Tap på kontrakter</Description>
     <Description ISOLanguageCode="ENG">Losses on contracts</Description>
+  </Account>
+  <Account>
+    <AccountID>7880</AccountID>
+    <Description ISOLanguageCode="NOB">Tap ved avgang anleggsmidler</Description>
+    <Description ISOLanguageCode="ENG">Losses on sale fixed assets</Description>
   </Account>
   <Account>
     <AccountID>7881</AccountID>
