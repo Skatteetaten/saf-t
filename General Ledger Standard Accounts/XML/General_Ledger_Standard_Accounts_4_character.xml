@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <StandardAccounts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="General_Ledger_Standard_Accounts.xsd">
   <Account>
     <AccountID>1000</AccountID>
@@ -1954,6 +1954,11 @@
     <AccountID>3709</AccountID>
     <Description ISOLanguageCode="NOB">Opptjent, ikke fakturert provisjonsinntekt</Description>
     <Description ISOLanguageCode="ENG">Earned commission income that has not been invoiced</Description>
+  </Account>
+   <Account>
+    <AccountID>3710</AccountID>
+    <Description ISOLanguageCode="NOB">Provisjonsinntekt, unntatt avgiftsplikt</Description>
+    <Description ISOLanguageCode="ENG">Commission income, exempt from VAT</Description>
   </Account>
   <Account>
     <AccountID>3850</AccountID>
