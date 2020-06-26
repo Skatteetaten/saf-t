@@ -390,6 +390,7 @@ AccountID;DescriptionNOR;DescriptionENG
 3700;Provisjonsinntekt, avgiftspliktig;Commission income, subject to VAT
 3705;Provisjonsinntekt, avgiftsfri;Commission income, not subject to VAT
 3709;Opptjent, ikke fakturert provisjonsinntekt;Earned commission income that has not been invoiced
+3710;Provisjonsinntekt, unntatt avgiftsplikt;Commission income, exempt from VAT
 3850;Verdiendringer investeringseiendommer;Change in value of investment properties
 3870;Verdiendringer biologiske eiendeler;Change in value of biological assets
 3880;Gevinst ved avgang av immaterielle eiendeler og varige driftsmidler;Gains from selling intangible assets and fixed assets
