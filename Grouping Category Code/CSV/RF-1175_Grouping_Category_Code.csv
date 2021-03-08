@@ -37,8 +37,8 @@ RF-1175;Næringsoppgave 1;Income Statement 1;1900;Kontanter;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;1920;Bankinnskudd;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;1950;Bankinnskudd for skattetrekk;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;2015;Felleseid andelskapital i samvirkeforetak;NA
-RF-1175;Næringsoppgave 1;Income Statement 1;2050;Annen egenkapital;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;2045;Avsatt utbytte;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;2050;Annen egenkapital;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;2080;Udekket tap;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;2095;Negativ saldo;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;2096;Positiv gevinst- og tapskonto;NA
@@ -64,6 +64,7 @@ RF-1175;Næringsoppgave 1;Income Statement 1;3100;Salgsinntekt og uttak,avg.fritt
 RF-1175;Næringsoppgave 1;Income Statement 1;3200;Salgsinntekt og uttak,utenfor merverdiavgiftsloven;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;3300;Offentlige avgifter vedrørende salg;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;3400;Offentlige tilskudd/refusjon;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;3410;Tilskudd kompensasjonsordning;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;3600;Leieinntekt fast eiendom;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;3605;Leieinntekt fast eiendom, avgiftspliktig;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;3650;Leieinntekt av rettigheter - jakt, fiske mv.;NA
@@ -81,7 +82,6 @@ RF-1175;Næringsoppgave 1;Income Statement 1;5000;Lønn, feriepenger mv.;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;5300;Annen opplysningspliktig godtgjørelse;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;5400;Arbeidsgiveravgift;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;5420;Opplysningspliktig pensjonskostnad;NA
-RF-1175;Næringsoppgave 1;Income Statement 1;5600;Arbeidsgodtgjørelse til eiere i ANS/DA  mv.;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;5900;Annen personalkostnad;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;5950;Egen pensjonsordning;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;6000;Avskrivninger;NA
@@ -97,6 +97,27 @@ RF-1175;Næringsoppgave 1;Income Statement 1;6600;Reparasjon og vedlikehold av by
 RF-1175;Næringsoppgave 1;Income Statement 1;6695;Reparasjon og vedlikehold - annet;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;6700;Fremmed tjeneste (regnskap/ revisjon/rådgivning o.l.);NA
 RF-1175;Næringsoppgave 1;Income Statement 1;6995; Kontorkostnader - bl.a. til el. kommunikasjon som inkluderer kostnader til privat bruk;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7000;Drivstoff transportmidler;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7020;Vedlikehold mv. transportmidler;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7040;Forsikringer og avgifter på transportmidler;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7080;Bilkostnader, bruk av privat bil i næring;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7098;Privat bruk av el. kommunikasjon;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7099;Privat bruk av næringsbil;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7155;Reise-/diett- og bilgodtgjørelse, opplysningspliktig;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7165;Reise- og diettkostnader, ikke oppgavepliktig;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7295;Provisjonskostnad;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7330;Salgs- og reklamekostnad;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7350;Representasjonskostnader (med fradragsrett);NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7495;Kontingenter (med fradragsrett);NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7500;Forsikringspremie;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7565;Garanti- og servicekostnad;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7600;Lisens, patentkostnad royalty o.l.;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7700;Annen kostnad, fradragsberettiget;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7890;Fradragsføring av negativ gevinst-/tapskonto (RF-1219);NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7895;Konstaterte tap på fordringer;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7896;Andre konstaterte tap - tap på kontrakter mv.;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7897;Endring i skattemessig nedskrivning kundefordringer;NA
+RF-1175;Næringsoppgave 1;Income Statement 1;7910;Overført til tømmerkonto av årets overskudd/underskudd;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;8060;Valutagevinst (agio);NA
 RF-1175;Næringsoppgave 1;Income Statement 1;8099;Annen kapitalinntekt som ikke er spesifisert i RF-1084 og/ eller RF-1219;NA
 RF-1175;Næringsoppgave 1;Income Statement 1;8160;Valutatap (disagio);NA
