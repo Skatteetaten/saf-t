@@ -1044,6 +1044,14 @@
 		<GroupingCategory>RF-1501</GroupingCategory>
 		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 6</CategoryDescription>
 		<CategoryDescription ISOLanguageCode="ENG">Income Statement 6</CategoryDescription>
+		<GroupingCode>5.96.00</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Leierettigheter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1501</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 6</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 6</CategoryDescription>
 		<GroupingCode>7.55.88</GroupingCode>
 		<CodeDescription ISOLanguageCode="NOB">Lån - Verdipapir-/repolån</CodeDescription>
 		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
@@ -1150,6 +1158,14 @@
 		<CategoryDescription ISOLanguageCode="ENG">Income Statement 6</CategoryDescription>
 		<GroupingCode>7.88.00</GroupingCode>
 		<CodeDescription ISOLanguageCode="NOB">Finansielle derivater</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1501</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 6</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 6</CategoryDescription>
+		<GroupingCode>7.89.00</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forpliktelser knyttet til leierettigheter</CodeDescription>
 		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
 	</Account>
 	<Account>

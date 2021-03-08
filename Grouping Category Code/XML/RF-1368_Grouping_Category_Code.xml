@@ -1,0 +1,1003 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GroupingCategoryCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Grouping_Category_Code.xsd">
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forskning og utvikling</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1020</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Konsesjoner, patenter, lisenser, varemerker o.l. rettigheter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1080</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Goodwill (saldogruppe b)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1105</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forretningsbygg (saldogruppe i)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1115</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Bygg og anlegg, hotell o.l. (saldogruppe h)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1117</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Elektroteknisk utrustning i kraftforetak mv. (saldogr. g)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1120</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fast teknisk installasjon i bygninger (saldogruppe j)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1130</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Anlegg, maskiner under utførelse</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1150</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tomter og andre grunnarealer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1160</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Bolig inkl. boligtomter, hytter mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1205</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Personbiler, maskiner, inventar mv. (saldogruppe d)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1221</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skip, rigger mv. (saldogruppe e)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1225</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fly, helikopter mv. (saldogruppe f)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1238</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Vare- og lastebiler, busser mv. (saldogruppe c)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1239</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Varebiler med nullutslipp (saldogruppe c)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1280</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kontormaskiner o.l. (saldogruppe a)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1290</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre driftsmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1296</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Negativ gevinst- og tapskonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1298</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Negativ tømmerkonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1350</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Investeringer i aksjer, andeler og verdipapirfondsandeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1360</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Obligasjoner og sertifikater</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1370</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fordringer på eiere, styremedl. o.l.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1380</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fordringer på ansatte</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1390</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre langsiktige fordringer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Varelager</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1500</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kundefordringer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1530</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skattepliktig inntekt som ikke er fakturert</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1565</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kortsiktige fordringer mot personlig eier/styremedl. o.l.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1570</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre kortsiktige fordringer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1780</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Krav på innbetaling av selskapskapital</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1800</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Aksjer og verdipapirfondsandeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1830</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Obligasjoner og sertifikater</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1880</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre finansielle instrumenter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1895</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andel i selskap med deltakerfastsetting</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1900</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kontanter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1920</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Bankinnskudd</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>1950</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Bankinnskudd for skattetrekk</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Selskapskapital i ANS</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2050</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen egenkapital</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2095</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Negativ saldo</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2096</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Positiv gevinst og tapskonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2097</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Betinget avsatt gevinst (sktl. §§ 14-70 til 14-73)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2098</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Positiv tømmerkonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2220</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gjeld til kredittinstitusjoner</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2250</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gjeld til ansatte og eiere</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2280</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Stille interessentinnskudd og ansvarlig lånekapital</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2290</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen langsiktig gjeld</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2380</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gjeld til kredittinstitusjoner</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Leverandørgjeld</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2600</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skattetrekk og andre trekk</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2740</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skyldig merverdiavgift</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2770</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skyldig arbeidsgiveravgift</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2790</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre offentlige avgifter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2900</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forskudd fra kunder</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2910</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gjeld til ansatte og eiere</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2949</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Lønn, feriepenger o.l.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>2990</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen kortsiktig gjeld</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgsinntekt og uttak, avgiftspliktig</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3100</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgsinntekt og uttak, avgiftsfri</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3200</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgsinntekt og uttak utenfor merverdiavgiftsloven</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3300</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Spesielle offentlige avgifter vedrørende salg</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Offentlig tilskudd/refusjon</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3410</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tilskudd kompensasjonsordning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3600</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Leieinntekt fast eiendom</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3695</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen leieinntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3700</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Provisjonsinntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3890</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Inntektsføring fra positiv gevinst-/tapskonto (RF-1219)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3895</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Inntektsføring fra saldo</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3900</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen driftsrelatert inntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>3910</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Årets inntekts-/kostnadsføring fra tømmerkonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>4005</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Varekostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>4295</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Beholdn.endring av varer under tilvirkning og ferdig tilv. varer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>4500</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fremmedytelse og underentreprise</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>4995</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Beholdn.endring av egentilvirkede anleggsmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>5000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Lønn, feriepenger mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>5300</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen opplysningspliktig godtgjørelse</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>5400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Arbeidsgiveravgift</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>5420</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Opplysningspliktig pensjonskostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>5600</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Arbeidsgodtgjørelse til eiere i ANS</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>5900</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen personalkostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>5950</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Egen pensjonsordning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Avskrivning på varige dr.m. og immaterielle eiendeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6100</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Frakt og transportkostnad vedrørende salg</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6200</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Energi, brensel mv. vedrørende produksjon</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6300</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Leie lokale</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6340</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Lys, varme</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6395</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Renovasjon, vann, avløp, renhold mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Leie maskiner, inventar, transportmidler o.l.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6500</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Verktøy, inventar mv. som ikke skal aktiveres</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6600</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Reparasjon og vedlikehold bygning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6695</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Reparasjon og annet vedlikehold</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6700</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fremmed tjeneste (regnskap rev.hon., rådgivning o.l.)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>6995</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Elektronisk kommunikasjon, porto mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Drivstoff transportmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7020</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Vedlikehold mv. transportmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7040</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forsikring og avgifter på transportmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7080</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Bilkostnader, bruk av privat bil i næring</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7098</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Privat bruk av elektronisk kommunikasjon</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7099</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Privat bruk av næringsbil</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7155</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Reise-, diett- og bilgodtgjørelse (opplysningspliktig)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7165</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Reise- og diettkostnader (ikke opplysningspliktig)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7295</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Provisjonskostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7330</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgs- og reklamekostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7370</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Representasjonskostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7490</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kontingenter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7500</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forsikringspremie</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7565</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Garanti- og servicekostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7600</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Lisens, patentkostnad og royalty</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7700</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen kostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7830</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tap på fordringer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7890</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fradragsføring av negativ gevinst-/tapskonto (RF-1219)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7897</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Endring i skattemessig nedskrivning kundefordringer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>7910</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Overført til tømmerkonto av årets overskudd/underskudd</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8060</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Valutagevinst (agio)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8079</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen finansinntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8160</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Valutatap (disagio)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8179</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen finanskostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8005</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skattepliktig overskudd på andel i selskap med deltakerfastsetting</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8006</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fradragsberettiget underskudd på andel i selskap med deltakerfastsetting</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8050</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen renteinntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8074</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skattepliktig gevinst ved realisasjon av aksjer, egenkapitalbevis, fondsandeler og selskapsandeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8090</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skattepliktig inntekt av andre investeringer/utbytte</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8091</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">3 % av netto skattefrie inntekter etter fritaksmetoden og 3 % av utdeling fra selskap med deltakerfastsetting til selskapsdeltaker</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8150</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen rentekostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>RF-1368</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsoppgave 5</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement 5</CategoryDescription>
+		<GroupingCode>8174</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fradragsberettiget tap ved realisasjon av aksjer, egenkapitalbevis, fondsandeler og selskapsandeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">NA</CodeDescription>
+	</Account>
+</GroupingCategoryCode>
