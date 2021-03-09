@@ -1,0 +1,773 @@
+GroupingCategory;CategoryDescriptionNOB;GroupingCode;CodeDescriptionNOB
+KS;Kontoplan_stat;100;Reservert
+KS;Kontoplan_stat;101;Reservert
+KS;Kontoplan_stat;102;Konsesjoner
+KS;Kontoplan_stat;103;Patenter
+KS;Kontoplan_stat;104;Programvarelisenser og egenutviklet programvare
+KS;Kontoplan_stat;105;Varemerker
+KS;Kontoplan_stat;106;Andre rettigheter
+KS;Kontoplan_stat;107;Immaterielle eiendeler under utførelse
+KS;Kontoplan_stat;108;Reservert
+KS;Kontoplan_stat;109;Reservert
+KS;Kontoplan_stat;110;Bygninger
+KS;Kontoplan_stat;111;Reservert
+KS;Kontoplan_stat;112;Bygningsmessige anlegg
+KS;Kontoplan_stat;113;Anlegg under utførelse
+KS;Kontoplan_stat;114;Jord- og skogbrukseiendommer
+KS;Kontoplan_stat;115;Tomter og andre grunnarealer
+KS;Kontoplan_stat;116;Boliger inkl. tomter
+KS;Kontoplan_stat;117;Infrastruktureiendeler
+KS;Kontoplan_stat;118;Nasjonaleiendom og kulturminner
+KS;Kontoplan_stat;119;Andre anleggsmidler
+KS;Kontoplan_stat;120;Maskiner og anlegg
+KS;Kontoplan_stat;121;Maskiner og anlegg under utførelse
+KS;Kontoplan_stat;122;Skip, rigger, fly
+KS;Kontoplan_stat;123;Biler
+KS;Kontoplan_stat;124;Andre transportmidler
+KS;Kontoplan_stat;125;Inventar
+KS;Kontoplan_stat;126;Fast bygningsinventar med annen avskrivningstid enn bygningen
+KS;Kontoplan_stat;127;Verktøy og lignende
+KS;Kontoplan_stat;128;Datamaskiner (PCer, servere m.m.)
+KS;Kontoplan_stat;129;Andre driftsmidler
+KS;Kontoplan_stat;130;Investeringer i datterselskap
+KS;Kontoplan_stat;131;Kapitalinnskudd
+KS;Kontoplan_stat;132;Spesielle beholdninger (kapitalregnskapet)
+KS;Kontoplan_stat;133;Investeringer i tilknyttede selskap
+KS;Kontoplan_stat;134;Obligasjoner (omsettelige verdipapirer)
+KS;Kontoplan_stat;135;Investeringer i aksjer og andeler - kostpris
+KS;Kontoplan_stat;136;Verdiendring av aksjer og andeler
+KS;Kontoplan_stat;137;Utlån (statsbanker)
+KS;Kontoplan_stat;138;Reservert
+KS;Kontoplan_stat;139;Andre langsiktige fordringer
+KS;Kontoplan_stat;140;Råvarer og innkjøpte halvfabrikata
+KS;Kontoplan_stat;141;Reservert
+KS;Kontoplan_stat;142;Varer og driftsmateriell under tilvirkning
+KS;Kontoplan_stat;143;Reservert
+KS;Kontoplan_stat;144;Ferdige egentilvirkede varer og driftsmateriell
+KS;Kontoplan_stat;145;Reservert
+KS;Kontoplan_stat;146;Innkjøpte varer (ferdigvarer) og driftsmateriell
+KS;Kontoplan_stat;147;Innkjøpte varer (ferdigvarer) og driftsmateriell, fortsettelse
+KS;Kontoplan_stat;148;Reservert
+KS;Kontoplan_stat;149;Reservert
+KS;Kontoplan_stat;150;Kundefordringer
+KS;Kontoplan_stat;151;Fordringer vedrørende innkrevingsvirksomhet
+KS;Kontoplan_stat;152;Motpost konto 151
+KS;Kontoplan_stat;153;Opptjent, ikke fakturert driftsinntekt
+KS;Kontoplan_stat;154;Fordring på ansatte
+KS;Kontoplan_stat;155;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;156;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;157;Andre kortsiktige fordringer
+KS;Kontoplan_stat;158;Avsetning tap på fordringer
+KS;Kontoplan_stat;159;Reservert
+KS;Kontoplan_stat;160;Utgående merverdiavgift
+KS;Kontoplan_stat;161;Inngående merverdiavgift
+KS;Kontoplan_stat;162;Reservert
+KS;Kontoplan_stat;163;Reservert
+KS;Kontoplan_stat;164;Oppgjørskonto merverdiavgift
+KS;Kontoplan_stat;165;Reservert
+KS;Kontoplan_stat;166;Reservert
+KS;Kontoplan_stat;167;Reservert
+KS;Kontoplan_stat;168;Reservert
+KS;Kontoplan_stat;169;Reservert
+KS;Kontoplan_stat;170;Forskuddsbetalt leie
+KS;Kontoplan_stat;171;Forskuddsbetalt rente
+KS;Kontoplan_stat;172;Reservert
+KS;Kontoplan_stat;173;Reservert
+KS;Kontoplan_stat;174;Reservert
+KS;Kontoplan_stat;175;Opptjent leieinntekt
+KS;Kontoplan_stat;176;Opptjent renteinntekt
+KS;Kontoplan_stat;177;Reservert
+KS;Kontoplan_stat;178;Reservert
+KS;Kontoplan_stat;179;Andre forskuddsbetalte kostnader
+KS;Kontoplan_stat;180;Kortsiktige finansinvesteringer
+KS;Kontoplan_stat;181;Reservert
+KS;Kontoplan_stat;182;Reservert
+KS;Kontoplan_stat;183;Reservert
+KS;Kontoplan_stat;184;Reservert
+KS;Kontoplan_stat;185;Reservert
+KS;Kontoplan_stat;186;Reservert
+KS;Kontoplan_stat;187;Reservert
+KS;Kontoplan_stat;188;Reservert
+KS;Kontoplan_stat;189;Reservert
+KS;Kontoplan_stat;190;Kontanter
+KS;Kontoplan_stat;191;Andre bankinnskudd (utenfor statens konsernkonto)
+KS;Kontoplan_stat;192;Bankinnskudd utenlandsk valuta (utenfor statens konsernkonto)
+KS;Kontoplan_stat;193;Bankinnskudd - for oppgjørskonto og arbeidskonto - inn (bruttobudsjetterte virksomheter)
+KS;Kontoplan_stat;194;Bankinnskudd - for oppgjørskonto og arbeidskonto - ut (bruttobudsjetterte virksomheter)
+KS;Kontoplan_stat;195;Bankinnskudd - for oppgjørskonto og arbeidskonto - inn og ut (bruttobudsjetterte virksomheter)
+KS;Kontoplan_stat;196;Bankinnskudd - for oppgjørskonto og arbeidskonto (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;197;Forvaltningsbedrifter
+KS;Kontoplan_stat;1970;Mellomværende med statskassen - kontant kap 24xx (forvaltningsbedrifter)(IB)
+KS;Kontoplan_stat;1975;Årets endring i statens rentebærende kapital (forvaltningsbedrifter)
+KS;Kontoplan_stat;1976;Renter av statens faste kapital (forvaltningsbedrifter)
+KS;Kontoplan_stat;1977;Renter av mellomværende med statskassen (forvaltningsbedrifter)
+KS;Kontoplan_stat;1978;Driftsresultat post 24 - Kontant til statskassen
+KS;Kontoplan_stat;198;Avregning rapporterte transaksjoner til statsregnskapet - kontantrelatert
+KS;Kontoplan_stat;1980;Mellomværende med statskassen - kontant (motpost IB)
+KS;Kontoplan_stat;1981;Spesielle ordninger i staten
+KS;Kontoplan_stat;1982;Reservert
+KS;Kontoplan_stat;1983;Reservert
+KS;Kontoplan_stat;1984;Spesielle statskontoer i kapitalregnskapet
+KS;Kontoplan_stat;1985;Gruppelivsforsikring
+KS;Kontoplan_stat;1986;Arbeidsgiveravgift
+KS;Kontoplan_stat;1987;Nettoføringsordning for mva.
+KS;Kontoplan_stat;1988;Finansskatt på lønn
+KS;Kontoplan_stat;1989;Reservert
+KS;Kontoplan_stat;199;Avregnet med statskassen - andre tidsavgrensningsposter
+KS;Kontoplan_stat;1990;Avregnet med statskassen - andre tidsavgrensningsposter (IB)
+KS;Kontoplan_stat;1991;Inntektsført bevilgning
+KS;Kontoplan_stat;1992;Reservert
+KS;Kontoplan_stat;1996;Reservert
+KS;Kontoplan_stat;1997;Innkrevingsvirksomhet (motpost konto 829, 839 og 849)
+KS;Kontoplan_stat;1998;Tilskuddsforvaltning (motpost konto 859 og 879)
+KS;Kontoplan_stat;1999;Avregning - resultat av periodens aktiviteter (bruttobudsjetterte virksomheter)
+KS;Kontoplan_stat;200;Innskutt virksomhetskapital
+KS;Kontoplan_stat;201;Reservert
+KS;Kontoplan_stat;202;Innskutt fondskapital
+KS;Kontoplan_stat;203;Reservert
+KS;Kontoplan_stat;204;Reservert
+KS;Kontoplan_stat;205;Opptjent virksomhetskapital
+KS;Kontoplan_stat;206;Egenfinansiering av investeringer (forvaltningsbedrifter)
+KS;Kontoplan_stat;207;Reguleringsfond (forvaltningsbedrifter)
+KS;Kontoplan_stat;208;Opptjent fondskapital
+KS;Kontoplan_stat;209;Egenkapital (kapitalregnskapet)
+KS;Kontoplan_stat;210;Reservert
+KS;Kontoplan_stat;211;Miljøforpliktelser
+KS;Kontoplan_stat;212;Reservert
+KS;Kontoplan_stat;213;Reservert
+KS;Kontoplan_stat;214;Statens rentebærende kapital (forvaltningsbedrifter)
+KS;Kontoplan_stat;215;Statens finansiering av immaterielle eiendeler og varige driftsmidler (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;216;Avregning bevilgningsfinansiert virksomhet (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;217;Ikke inntektsført bevilgning (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;218;Ikke inntektsført tilskudd og overføringer (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;219;Andre avsetninger for forpliktelser
+KS;Kontoplan_stat;220;Reservert
+KS;Kontoplan_stat;221;Obligasjonslån (omsettelige verdipapirer)
+KS;Kontoplan_stat;222;Gjeld til finansinstitusjoner
+KS;Kontoplan_stat;223;Reservert
+KS;Kontoplan_stat;224;Reservert
+KS;Kontoplan_stat;225;Reservert
+KS;Kontoplan_stat;226;Reservert
+KS;Kontoplan_stat;227;Lånemellomværende med staten (statsbanker)
+KS;Kontoplan_stat;228;Annen langsiktig gjeld
+KS;Kontoplan_stat;229;Annen langsiktig gjeld, fortsettelse
+KS;Kontoplan_stat;230;Reservert
+KS;Kontoplan_stat;231;Reservert
+KS;Kontoplan_stat;232;Obligasjonslån (omsettelige verdipapirer)
+KS;Kontoplan_stat;233;Reservert
+KS;Kontoplan_stat;234;Reservert
+KS;Kontoplan_stat;235;Reservert
+KS;Kontoplan_stat;236;Byggelån
+KS;Kontoplan_stat;237;Reservert
+KS;Kontoplan_stat;238;Andre forpliktelser (kapitalregnskapet)
+KS;Kontoplan_stat;239;Annen gjeld til finansinstitusjoner
+KS;Kontoplan_stat;240;Leverandørgjeld
+KS;Kontoplan_stat;241;Reservert
+KS;Kontoplan_stat;242;Reservert
+KS;Kontoplan_stat;243;Reservert
+KS;Kontoplan_stat;244;Reservert
+KS;Kontoplan_stat;245;Reservert
+KS;Kontoplan_stat;246;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;247;Reservert
+KS;Kontoplan_stat;248;Reservert
+KS;Kontoplan_stat;249;Reservert
+KS;Kontoplan_stat;250;Gjeld vedrørende tilskuddsforvaltning og andre overføringer fra staten
+KS;Kontoplan_stat;251;Gjeld vedrørende tilskuddsforvaltning og andre overføringer fra staten, fortsettelse
+KS;Kontoplan_stat;252;Reservert
+KS;Kontoplan_stat;253;Reservert
+KS;Kontoplan_stat;254;Reservert
+KS;Kontoplan_stat;255;Motpost konto 250-251
+KS;Kontoplan_stat;256;Reservert
+KS;Kontoplan_stat;257;Reservert
+KS;Kontoplan_stat;258;Reservert
+KS;Kontoplan_stat;259;Reservert
+KS;Kontoplan_stat;260;Forskuddstrekk
+KS;Kontoplan_stat;261;Påleggstrekk
+KS;Kontoplan_stat;262;Bidragstrekk
+KS;Kontoplan_stat;263;Trygdetrekk/pensjonstrekk(2%)
+KS;Kontoplan_stat;264;Forsikringstrekk
+KS;Kontoplan_stat;265;Trukket fagforeningskontingent
+KS;Kontoplan_stat;266;Reservert
+KS;Kontoplan_stat;267;Reservert
+KS;Kontoplan_stat;268;Reservert
+KS;Kontoplan_stat;269;Andre trekk
+KS;Kontoplan_stat;270;Utgående merverdiavgift
+KS;Kontoplan_stat;271;Inngående merverdiavgift
+KS;Kontoplan_stat;272;Grunnlag mva. ved innførsel av varer
+KS;Kontoplan_stat;273;Grunnlag mva. ved innførsel av varer, fortsettelse
+KS;Kontoplan_stat;274;Oppgjørskonto merverdiavgift
+KS;Kontoplan_stat;275;Reservert
+KS;Kontoplan_stat;276;Reservert
+KS;Kontoplan_stat;277;Skyldig arbeidsgiveravgift
+KS;Kontoplan_stat;278;Påløpt arbeidsgiveravgift
+KS;Kontoplan_stat;279;Andre offentlige avgifter
+KS;Kontoplan_stat;280;Avstemmingsdifferanser
+KS;Kontoplan_stat;281;Avsatt pensjonspremie til SPK (arbeidsgiverandel)
+KS;Kontoplan_stat;282;Avstemmingskonto, pensjonspremie til SPK
+KS;Kontoplan_stat;283;Reservert
+KS;Kontoplan_stat;284;Reservert
+KS;Kontoplan_stat;285;Reservert
+KS;Kontoplan_stat;286;Reservert
+KS;Kontoplan_stat;287;Reservert
+KS;Kontoplan_stat;288;Reservert
+KS;Kontoplan_stat;289;Reservert
+KS;Kontoplan_stat;290;Mottatt forskuddsbetaling
+KS;Kontoplan_stat;291;Gjeld til ansatte
+KS;Kontoplan_stat;292;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;293;Lønn
+KS;Kontoplan_stat;294;Feriepenger
+KS;Kontoplan_stat;295;Påløpte renter
+KS;Kontoplan_stat;296;Påløpte kostnader
+KS;Kontoplan_stat;297;Uopptjent inntekt (motpost kontogruppe 35)
+KS;Kontoplan_stat;298;Avsetning for forpliktelser
+KS;Kontoplan_stat;299;Annen kortsiktig gjeld
+KS;Kontoplan_stat;300;Salgsinntekt varer, avgiftspliktig
+KS;Kontoplan_stat;301;Salgsinntekt varer, avgiftspliktig, fortsettelse
+KS;Kontoplan_stat;302;Reservert
+KS;Kontoplan_stat;303;Salgsinntekt tjenester, avgiftspliktig
+KS;Kontoplan_stat;304;Salgsinntekt tjenester, avgiftspliktig, fortsettelse
+KS;Kontoplan_stat;305;Reservert
+KS;Kontoplan_stat;306;Reservert
+KS;Kontoplan_stat;307;Reservert
+KS;Kontoplan_stat;308;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;309;Reservert
+KS;Kontoplan_stat;310;Salgsinntekt varer, avgiftsfri
+KS;Kontoplan_stat;311;Salgsinntekt varer, avgiftsfri, fortsettelse
+KS;Kontoplan_stat;312;Reservert
+KS;Kontoplan_stat;313;Salgsinntekt tjenester, avgiftsfri
+KS;Kontoplan_stat;314;Salgsinntekt tjenester, avgiftsfri, fortsettelse
+KS;Kontoplan_stat;315;Reservert
+KS;Kontoplan_stat;316;Reservert
+KS;Kontoplan_stat;317;Reservert
+KS;Kontoplan_stat;318;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;319;Reservert
+KS;Kontoplan_stat;320;Salgsinntekt varer, unntatt avgiftsplikt
+KS;Kontoplan_stat;321;Salgsinntekt varer, unntatt avgiftsplikt, fortsettelse
+KS;Kontoplan_stat;322;Reservert
+KS;Kontoplan_stat;323;Salgsinntekt tjenester, unntatt avgiftsplikt
+KS;Kontoplan_stat;324;Salgsinntekt tjenester, unntatt avgiftsplikt, fortsettelse
+KS;Kontoplan_stat;325;Reservert
+KS;Kontoplan_stat;326;Reservert
+KS;Kontoplan_stat;327;Reservert
+KS;Kontoplan_stat;328;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;329;Reservert
+KS;Kontoplan_stat;330;Spesielle offentlige avgifter for tilvirkede/solgte varer
+KS;Kontoplan_stat;331;Reservert
+KS;Kontoplan_stat;332;Reservert
+KS;Kontoplan_stat;333;Reservert
+KS;Kontoplan_stat;334;Reservert
+KS;Kontoplan_stat;335;Reservert
+KS;Kontoplan_stat;336;Reservert
+KS;Kontoplan_stat;337;Reservert
+KS;Kontoplan_stat;338;Reservert
+KS;Kontoplan_stat;339;Reservert
+KS;Kontoplan_stat;340;Tilskudd fra Norges forskningsråd
+KS;Kontoplan_stat;341;Tilskudd fra andre statlige virksomheter
+KS;Kontoplan_stat;342;Tilskudd fra EU
+KS;Kontoplan_stat;343;Tilskudd fra kommunale og fylkeskommunale etater
+KS;Kontoplan_stat;344;Tilskudd fra organisasjoner og stiftelser
+KS;Kontoplan_stat;345;Tilskudd fra næringsliv og private
+KS;Kontoplan_stat;346;Gaver og gaveforsterkninger
+KS;Kontoplan_stat;347;Reservert
+KS;Kontoplan_stat;348;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;349;Andre tilskudd og overføringer
+KS;Kontoplan_stat;350;Garanti
+KS;Kontoplan_stat;351;Service
+KS;Kontoplan_stat;352;Reservert
+KS;Kontoplan_stat;353;Reservert
+KS;Kontoplan_stat;354;Reservert
+KS;Kontoplan_stat;355;Reservert
+KS;Kontoplan_stat;356;Reservert
+KS;Kontoplan_stat;357;Reservert
+KS;Kontoplan_stat;358;Reservert
+KS;Kontoplan_stat;359;Reservert
+KS;Kontoplan_stat;360;Leieinntekt fast eiendom
+KS;Kontoplan_stat;361;Leieinntekt fast eiendom, fortsettelse
+KS;Kontoplan_stat;362;Leieinntekt fast eiendom, fortsettelse
+KS;Kontoplan_stat;363;Leieinntekt andre varige driftsmidler
+KS;Kontoplan_stat;364;Annen leieinntekt
+KS;Kontoplan_stat;365;Reservert
+KS;Kontoplan_stat;366;Reservert
+KS;Kontoplan_stat;367;Annen driftsrelatert inntekt
+KS;Kontoplan_stat;368;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;369;Reservert
+KS;Kontoplan_stat;370;Gebyrer med videre - driftsinntekt
+KS;Kontoplan_stat;371;Gebyrer med videre - driftsinntekt, fortsettelse
+KS;Kontoplan_stat;372;Gebyrer med videre - driftsinntekt, fortsettelse
+KS;Kontoplan_stat;373;Gebyrer med videre - driftsinntekt, fortsettelse
+KS;Kontoplan_stat;374;Gebyrer med videre - driftsinntekt, fortsettelse
+KS;Kontoplan_stat;375;Reservert
+KS;Kontoplan_stat;376;Reservert
+KS;Kontoplan_stat;377;Reservert
+KS;Kontoplan_stat;378;Reservert
+KS;Kontoplan_stat;379;Reservert
+KS;Kontoplan_stat;380;Salgssum ved avgang anleggsmidler
+KS;Kontoplan_stat;381;Gevinst ved avgang av anleggsmidler
+KS;Kontoplan_stat;382;Reservert
+KS;Kontoplan_stat;383;Reservert
+KS;Kontoplan_stat;384;Reservert
+KS;Kontoplan_stat;385;Bokført verdi avhendede anleggsmidler
+KS;Kontoplan_stat;386;Reservert
+KS;Kontoplan_stat;387;Overført til tap ved avgang av anleggsmidler (konto 780)
+KS;Kontoplan_stat;388;Reservert
+KS;Kontoplan_stat;389;Reservert
+KS;Kontoplan_stat;390;Inntekt fra bevilgninger
+KS;Kontoplan_stat;391;Inntektsført bevilgning benyttet til investering (debitering) (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;392;Reservert
+KS;Kontoplan_stat;393;Reservert
+KS;Kontoplan_stat;394;Reservert
+KS;Kontoplan_stat;395;Inntektsføring av avsetning knyttet til anleggsmidler (avskrivninger) (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;396;Inntektsføring av resterende avsetning ved avgang anleggsmidler (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;397;Reservert
+KS;Kontoplan_stat;398;Andre inntekter fra bevilgninger
+KS;Kontoplan_stat;399;Reservert
+KS;Kontoplan_stat;400;Innkjøp av råvarer og halvfabrikater
+KS;Kontoplan_stat;401;Innkjøp av råvarer og halvfabrikater, fortsettelse
+KS;Kontoplan_stat;402;Innkjøp av råvarer og halvfabrikater, fortsettelse
+KS;Kontoplan_stat;403;Innkjøp av råvarer og halvfabrikater, fortsettelse
+KS;Kontoplan_stat;404;Reservert
+KS;Kontoplan_stat;405;Reservert
+KS;Kontoplan_stat;406;Frakt, toll og spedisjon
+KS;Kontoplan_stat;407;Reservert
+KS;Kontoplan_stat;408;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;409;Beholdningsendring
+KS;Kontoplan_stat;410;Varer under tilvirkning
+KS;Kontoplan_stat;411;Varer under tilvirkning, fortsettelse
+KS;Kontoplan_stat;412;Varer under tilvirkning, fortsettelse
+KS;Kontoplan_stat;413;Varer under tilvirkning, fortsettelse
+KS;Kontoplan_stat;414;Reservert
+KS;Kontoplan_stat;415;Reservert
+KS;Kontoplan_stat;416;Frakt, toll og spedisjon
+KS;Kontoplan_stat;417;Reservert
+KS;Kontoplan_stat;418;Reservert
+KS;Kontoplan_stat;419;Beholdningsendring
+KS;Kontoplan_stat;420;Ferdig egentilvirkede varer
+KS;Kontoplan_stat;421;Ferdig egentilvirkede varer, fortsettelse
+KS;Kontoplan_stat;422;Ferdig egentilvirkede varer, fortsettelse
+KS;Kontoplan_stat;423;Ferdig egentilvirkede varer, fortsettelse
+KS;Kontoplan_stat;424;Reservert
+KS;Kontoplan_stat;425;Reservert
+KS;Kontoplan_stat;426;Frakt, toll og spedisjon
+KS;Kontoplan_stat;427;Reservert
+KS;Kontoplan_stat;428;Reservert
+KS;Kontoplan_stat;429;Beholdningsendring
+KS;Kontoplan_stat;430;Forbruk av innkjøpte varer og tjenester
+KS;Kontoplan_stat;431;Forbruk av innkjøpte varer og tjenester, fortsettelse
+KS;Kontoplan_stat;432;Forbruk av innkjøpte varer og tjenester, fortsettelse
+KS;Kontoplan_stat;433;Forbruk av innkjøpte varer og tjenester, fortsettelse
+KS;Kontoplan_stat;434;Forbruk av innkjøpte varer og tjenester, fortsettelse
+KS;Kontoplan_stat;435;Forbruk av innkjøpte varer og tjenester, fortsettelse
+KS;Kontoplan_stat;436;Forbruk av innkjøpte varer og tjenester, fortsettelse
+KS;Kontoplan_stat;437;Forbruk av innkjøpte varer og tjenester, fortsettelse
+KS;Kontoplan_stat;438;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;439;Beholdningsendring
+KS;Kontoplan_stat;450;Fremmedytelse og underentreprise
+KS;Kontoplan_stat;451;Fremmedytelse og underentreprise, fortsettelse
+KS;Kontoplan_stat;452;Fremmedytelse og underentreprise, fortsettelse
+KS;Kontoplan_stat;453;Fremmedytelse og underentreprise, fortsettelse
+KS;Kontoplan_stat;454;Fremmedytelse og underentreprise, fortsettelse
+KS;Kontoplan_stat;455;Reservert
+KS;Kontoplan_stat;456;Reservert
+KS;Kontoplan_stat;457;Reservert
+KS;Kontoplan_stat;458;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;459;Beholdningsendring
+KS;Kontoplan_stat;460;Annen periodisering
+KS;Kontoplan_stat;461;Reservert
+KS;Kontoplan_stat;462;Reservert
+KS;Kontoplan_stat;463;Reservert
+KS;Kontoplan_stat;464;Reservert
+KS;Kontoplan_stat;465;Reservert
+KS;Kontoplan_stat;466;Reservert
+KS;Kontoplan_stat;467;Reservert
+KS;Kontoplan_stat;468;Reservert
+KS;Kontoplan_stat;469;Beholdningsendring, egentilvirkede anleggsmidler
+KS;Kontoplan_stat;470;Reservert
+KS;Kontoplan_stat;471;Reservert
+KS;Kontoplan_stat;472;Konsesjoner
+KS;Kontoplan_stat;473;Patenter
+KS;Kontoplan_stat;474;Programvarelisenser
+KS;Kontoplan_stat;475;Varemerker
+KS;Kontoplan_stat;476;Andre rettigheter
+KS;Kontoplan_stat;477;Reservert
+KS;Kontoplan_stat;478;Reservert
+KS;Kontoplan_stat;479;Reservert
+KS;Kontoplan_stat;480;Bygninger
+KS;Kontoplan_stat;481;Reservert
+KS;Kontoplan_stat;482;Bygningsmessige anlegg
+KS;Kontoplan_stat;483;Reservert
+KS;Kontoplan_stat;484;Jord- og skogbrukseiendommer
+KS;Kontoplan_stat;485;Tomter og andre grunnarealer
+KS;Kontoplan_stat;486;Boliger inkl. tomter
+KS;Kontoplan_stat;487;Infrastruktureiendeler
+KS;Kontoplan_stat;488;Nasjonaleiendom og kulturminner
+KS;Kontoplan_stat;489;Andre anleggsmidler
+KS;Kontoplan_stat;490;Maskiner og anlegg
+KS;Kontoplan_stat;491;Reservert
+KS;Kontoplan_stat;492;Skip, rigger, fly
+KS;Kontoplan_stat;493;Biler
+KS;Kontoplan_stat;494;Andre transportmidler
+KS;Kontoplan_stat;495;Inventar
+KS;Kontoplan_stat;496;Fast bygningsinventar med annen levetid enn bygningen
+KS;Kontoplan_stat;497;Verktøy og lignende
+KS;Kontoplan_stat;498;Datamaskiner (PCer, servere m.m.)
+KS;Kontoplan_stat;499;Andre driftsmidler
+KS;Kontoplan_stat;500;Lønn fast ansatte
+KS;Kontoplan_stat;501;Lønn fast ansatte, fortsettelse
+KS;Kontoplan_stat;502;Lønn fast ansatte, fortsettelse
+KS;Kontoplan_stat;503;Lønn fast ansatte, fortsettelse
+KS;Kontoplan_stat;504;Lønn balanseført ved egenutvikling av anleggsmidler
+KS;Kontoplan_stat;505;Overtid fast ansatte
+KS;Kontoplan_stat;506;Overtid fast ansatte, fortsettelse
+KS;Kontoplan_stat;507;Reservert
+KS;Kontoplan_stat;508;Feriepenger
+KS;Kontoplan_stat;509;Periodiseringskonto lønn
+KS;Kontoplan_stat;510;Lønn midlertidig ansatte
+KS;Kontoplan_stat;511;Lønn midlertidig ansatte, fortsettelse
+KS;Kontoplan_stat;512;Lønn midlertidig ansatte, fortsettelse
+KS;Kontoplan_stat;513;Lønn midlertidig ansatte, fortsettelse
+KS;Kontoplan_stat;514;Reservert
+KS;Kontoplan_stat;515;Overtid midlertidig ansatte
+KS;Kontoplan_stat;516;Overtid midlertidig ansatte, fortsettelse
+KS;Kontoplan_stat;517;Reservert
+KS;Kontoplan_stat;518;Feriepenger
+KS;Kontoplan_stat;519;Periodiseringskonto lønn
+KS;Kontoplan_stat;520;Fri bil
+KS;Kontoplan_stat;521;Fri elektronisk kommunikasjon (telefon, mobiltelefon mv.)
+KS;Kontoplan_stat;522;Fri avis
+KS;Kontoplan_stat;523;Fri losji og bolig
+KS;Kontoplan_stat;524;Rentefordel
+KS;Kontoplan_stat;525;Gruppelivsforsikring
+KS;Kontoplan_stat;526;Reservert
+KS;Kontoplan_stat;527;Reservert
+KS;Kontoplan_stat;528;Annen fordel i arbeidsforhold
+KS;Kontoplan_stat;529;Motkonto for gruppe 52
+KS;Kontoplan_stat;530;Styrer, råd og utvalg
+KS;Kontoplan_stat;531;Styrer, råd og utvalg, fortsettelse
+KS;Kontoplan_stat;532;Reservert
+KS;Kontoplan_stat;533;Honorarer
+KS;Kontoplan_stat;534;Honorarer, fortsettelse
+KS;Kontoplan_stat;535;Reservert
+KS;Kontoplan_stat;536;Virkemidler ved omstilling i staten (lønnsinnberettet av virksomheten)
+KS;Kontoplan_stat;537;Reservert
+KS;Kontoplan_stat;538;Reservert
+KS;Kontoplan_stat;539;Annen oppgavepliktig godtgjørelse
+KS;Kontoplan_stat;540;Arbeidsgiveravgift innberettede ytelser
+KS;Kontoplan_stat;541;Arbeidsgiveravgift påløpte ytelser
+KS;Kontoplan_stat;542;Pensjonspremie til SPK (virksomheter som betaler pensjonspremie)
+KS;Kontoplan_stat;543;Reservert
+KS;Kontoplan_stat;544;Pensjonspremie for pensjonsordninger utenfor SPK
+KS;Kontoplan_stat;545;Reservert
+KS;Kontoplan_stat;546;Inntekter til pensjonsordninger i staten (kun til bruk for SPK)
+KS;Kontoplan_stat;547;Utgifter til pensjonsordninger i staten (kun til bruk for SPK)
+KS;Kontoplan_stat;548;Utgifter til pensjonsordninger i staten (kun til bruk for SPK), fortsettelse
+KS;Kontoplan_stat;549;Finansskatt på lønn
+KS;Kontoplan_stat;550;Annen kostnadsgodtgjørelse
+KS;Kontoplan_stat;551;Reservert
+KS;Kontoplan_stat;552;Reservert
+KS;Kontoplan_stat;553;Godtgjørelse til innkalte, klienter og innsatte m.m.
+KS;Kontoplan_stat;554;Godtgjørelse til innkalte, klienter og innsatte m.m., fortsettelse
+KS;Kontoplan_stat;555;Godtgjørelse til innkalte, klienter og innsatte m.m., fortsettelse
+KS;Kontoplan_stat;556;Reservert
+KS;Kontoplan_stat;557;Ventelønn (lønnsinnberettet av andre enn virksomheten)
+KS;Kontoplan_stat;558;Reservert
+KS;Kontoplan_stat;559;Reservert
+KS;Kontoplan_stat;570;Lærlingtilskudd
+KS;Kontoplan_stat;571;Arbeidsmarkedstiltak
+KS;Kontoplan_stat;572;Tilretteleggingstilskudd
+KS;Kontoplan_stat;573;Reservert
+KS;Kontoplan_stat;574;Reservert
+KS;Kontoplan_stat;575;Reservert
+KS;Kontoplan_stat;576;Reservert
+KS;Kontoplan_stat;577;Reservert
+KS;Kontoplan_stat;578;Reservert
+KS;Kontoplan_stat;579;Andre offentlige tilskudd
+KS;Kontoplan_stat;580;Refusjon av sykepenger
+KS;Kontoplan_stat;581;Refusjon av foreldrepenger
+KS;Kontoplan_stat;582;Reservert
+KS;Kontoplan_stat;583;Reservert
+KS;Kontoplan_stat;584;Reservert
+KS;Kontoplan_stat;585;Reservert
+KS;Kontoplan_stat;586;Reservert
+KS;Kontoplan_stat;587;Reservert
+KS;Kontoplan_stat;588;Reservert
+KS;Kontoplan_stat;589;Annen refusjon vedrørende arbeidskraft
+KS;Kontoplan_stat;590;Gaver til ansatte
+KS;Kontoplan_stat;591;Kantinekostnad
+KS;Kontoplan_stat;592;Gruppelivsforsikring
+KS;Kontoplan_stat;593;Yrkesskadepremie
+KS;Kontoplan_stat;594;Reservert
+KS;Kontoplan_stat;595;Reservert
+KS;Kontoplan_stat;596;Velferdstiltak
+KS;Kontoplan_stat;597;Reservert
+KS;Kontoplan_stat;598;Reservert
+KS;Kontoplan_stat;599;Annen personalkostnad
+KS;Kontoplan_stat;600;Avskrivning på immaterielle eiendeler
+KS;Kontoplan_stat;601;Avskrivning på bygninger og annen fast eiendom
+KS;Kontoplan_stat;602;Avskrivning på bygninger og annen fast eiendom, fortsettelse
+KS;Kontoplan_stat;603;Avskrivning på infrastruktureiendeler
+KS;Kontoplan_stat;604;Avskrivning på maskiner og transportmidler
+KS;Kontoplan_stat;605;Avskrivning på driftsløsøre, inventar, verktøy o.l.
+KS;Kontoplan_stat;606;Reservert
+KS;Kontoplan_stat;607;Nedskrivning av varige driftsmidler og immaterielle eiendeler
+KS;Kontoplan_stat;608;Reservert
+KS;Kontoplan_stat;609;Reservert
+KS;Kontoplan_stat;610;Frakt, transport og forsikring ved vareforsendelse
+KS;Kontoplan_stat;611;Toll og spedisjon ved vareforsendelse
+KS;Kontoplan_stat;612;Reservert
+KS;Kontoplan_stat;613;Reservert
+KS;Kontoplan_stat;614;Frakt, transport m.m. ved utdeling av driftsmateriell
+KS;Kontoplan_stat;615;Reservert
+KS;Kontoplan_stat;616;Reservert
+KS;Kontoplan_stat;617;Reservert
+KS;Kontoplan_stat;618;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;619;Annen frakt- og transportkostnad ved salg
+KS;Kontoplan_stat;620;Elektrisitet
+KS;Kontoplan_stat;621;Gass
+KS;Kontoplan_stat;622;Fyringsolje
+KS;Kontoplan_stat;623;Kull, koks
+KS;Kontoplan_stat;624;Ved
+KS;Kontoplan_stat;625;Bensin, diesel
+KS;Kontoplan_stat;626;Vann
+KS;Kontoplan_stat;627;Reservert
+KS;Kontoplan_stat;628;Reservert
+KS;Kontoplan_stat;629;Annet brensel
+KS;Kontoplan_stat;630;Leie lokaler
+KS;Kontoplan_stat;631;Leie lokaler fra Statsbygg
+KS;Kontoplan_stat;632;Renovasjon, vann, avløp o.l.
+KS;Kontoplan_stat;633;Reservert
+KS;Kontoplan_stat;634;Lys, varme
+KS;Kontoplan_stat;635;Reservert
+KS;Kontoplan_stat;636;Renhold, vakthold, vaktmestertjenester
+KS;Kontoplan_stat;637;Reservert
+KS;Kontoplan_stat;638;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;639;Annen kostnad lokaler
+KS;Kontoplan_stat;640;Leie maskiner
+KS;Kontoplan_stat;641;Leie inventar
+KS;Kontoplan_stat;642;Leie av datasystemer (årlige lisenser m.m.)
+KS;Kontoplan_stat;643;Leie av datamaskiner
+KS;Kontoplan_stat;644;Leie av andre kontormaskiner
+KS;Kontoplan_stat;645;Leie av biler
+KS;Kontoplan_stat;646;Leie av andre transportmidler
+KS;Kontoplan_stat;647;Reservert
+KS;Kontoplan_stat;648;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;649;Annen leiekostnad
+KS;Kontoplan_stat;650;Maskiner
+KS;Kontoplan_stat;651;Verktøy og lignende
+KS;Kontoplan_stat;652;Programvare (anskaffelse)
+KS;Kontoplan_stat;653;Reservert
+KS;Kontoplan_stat;654;Inventar
+KS;Kontoplan_stat;655;Datamaskiner (PCer, servere m.m.)
+KS;Kontoplan_stat;656;Andre kontormaskiner
+KS;Kontoplan_stat;657;Arbeidsklær og verneutstyr
+KS;Kontoplan_stat;658;Annet driftsmateriale
+KS;Kontoplan_stat;659;Annet driftsmateriale, fortsettelse
+KS;Kontoplan_stat;660;Reparasjon og vedlikehold egne bygninger
+KS;Kontoplan_stat;661;Reparasjon og vedlikehold egne bygninger, fortsettelse
+KS;Kontoplan_stat;662;Reparasjon og vedlikehold egne bygninger, fortsettelse
+KS;Kontoplan_stat;663;Reparasjon og vedlikehold leide lokaler
+KS;Kontoplan_stat;664;Reparasjon og vedlikehold infrastruktureiendeler
+KS;Kontoplan_stat;665;Reparasjon og vedlikehold infrastruktureiendeler, fortsettelse
+KS;Kontoplan_stat;666;Reparasjon og vedlikehold maskiner og anlegg
+KS;Kontoplan_stat;667;Reparasjon og vedlikehold maskiner og anlegg, fortsettelse
+KS;Kontoplan_stat;668;Reparasjon og vedlikehold skip, rigger, fly
+KS;Kontoplan_stat;669;Reparasjon og vedlikehold annet
+KS;Kontoplan_stat;670;Konsulenttjenester innen økonomi, revisjon og juss
+KS;Kontoplan_stat;671;Konsulenttjenester til utvikling av programvare, IKT-løsninger mv.
+KS;Kontoplan_stat;672;Konsulenttjenester til organisasjonsutvikling,kommunikasjonsrådgivning mv.
+KS;Kontoplan_stat;673;Andre konsulenttjenester
+KS;Kontoplan_stat;674;Innleie av vikarer
+KS;Kontoplan_stat;675;Kjøp av tjenester til løpende driftsoppgaver, IKT
+KS;Kontoplan_stat;676;Kjøp av lønns- og regnskapstjenester
+KS;Kontoplan_stat;677;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;678;Kjøp av andre fremmede tjenester
+KS;Kontoplan_stat;679;Kjøp av andre fremmede tjenester, fortsettelse
+KS;Kontoplan_stat;680;Kontorrekvisita
+KS;Kontoplan_stat;681;Reservert
+KS;Kontoplan_stat;682;Trykksak
+KS;Kontoplan_stat;683;Annonser, kunngjøringer
+KS;Kontoplan_stat;684;Aviser, tidsskrifter, bøker o.l.
+KS;Kontoplan_stat;685;Aviser, tidsskrifter, bøker o.l. i bibliotek
+KS;Kontoplan_stat;686;Møter
+KS;Kontoplan_stat;687;Kurs og seminarer for egne ansatte
+KS;Kontoplan_stat;688;Kurs og seminarer for eksterne deltakere
+KS;Kontoplan_stat;689;Annen kontorkostnad
+KS;Kontoplan_stat;690;Telefoni og datakommunikasjon, samband, internett
+KS;Kontoplan_stat;691;Reservert
+KS;Kontoplan_stat;692;Reservert
+KS;Kontoplan_stat;693;Reservert
+KS;Kontoplan_stat;694;Porto
+KS;Kontoplan_stat;695;Reservert
+KS;Kontoplan_stat;696;Reservert
+KS;Kontoplan_stat;697;Reservert
+KS;Kontoplan_stat;698;Reservert
+KS;Kontoplan_stat;699;Reservert
+KS;Kontoplan_stat;700;Drivstoff
+KS;Kontoplan_stat;701;Reservert
+KS;Kontoplan_stat;702;Vedlikehold
+KS;Kontoplan_stat;703;Reservert
+KS;Kontoplan_stat;704;Forsikring
+KS;Kontoplan_stat;705;Reservert
+KS;Kontoplan_stat;706;Reservert
+KS;Kontoplan_stat;707;Reservert
+KS;Kontoplan_stat;708;Reservert
+KS;Kontoplan_stat;709;Annen kostnad transportmidler
+KS;Kontoplan_stat;710;Bilgodtgjørelse
+KS;Kontoplan_stat;711;Reservert
+KS;Kontoplan_stat;712;Reservert
+KS;Kontoplan_stat;713;Reisekostnad
+KS;Kontoplan_stat;714;Reisekostnad, fortsettelse
+KS;Kontoplan_stat;715;Diettkostnad
+KS;Kontoplan_stat;716;Diettkostnad, fortsettelse
+KS;Kontoplan_stat;717;Reservert
+KS;Kontoplan_stat;718;Reservert
+KS;Kontoplan_stat;719;Annen kostnadsgodtgjørelse
+KS;Kontoplan_stat;730;Salgskostnad
+KS;Kontoplan_stat;731;Reservert
+KS;Kontoplan_stat;732;Reklamekostnad
+KS;Kontoplan_stat;733;Reservert
+KS;Kontoplan_stat;734;Reservert
+KS;Kontoplan_stat;735;Representasjon
+KS;Kontoplan_stat;736;Reservert
+KS;Kontoplan_stat;737;Reservert
+KS;Kontoplan_stat;738;Reservert
+KS;Kontoplan_stat;739;Reservert
+KS;Kontoplan_stat;740;Kontingent
+KS;Kontoplan_stat;741;Gave
+KS;Kontoplan_stat;742;Reservert
+KS;Kontoplan_stat;743;Reservert
+KS;Kontoplan_stat;744;Reservert
+KS;Kontoplan_stat;745;Reservert
+KS;Kontoplan_stat;746;Reservert
+KS;Kontoplan_stat;747;Reservert
+KS;Kontoplan_stat;748;Reservert
+KS;Kontoplan_stat;749;Reservert
+KS;Kontoplan_stat;750;Forsikringspremie
+KS;Kontoplan_stat;751;Reservert
+KS;Kontoplan_stat;752;Reservert
+KS;Kontoplan_stat;753;Reservert
+KS;Kontoplan_stat;754;Reservert
+KS;Kontoplan_stat;755;Garantikostnad
+KS;Kontoplan_stat;756;Servicekostnad
+KS;Kontoplan_stat;757;Reservert
+KS;Kontoplan_stat;758;Reservert
+KS;Kontoplan_stat;759;Reservert
+KS;Kontoplan_stat;760;Lisensavgift og royalties (ikke programvarelisenser, jf. 642)
+KS;Kontoplan_stat;761;Patentkostnad ved egen patent
+KS;Kontoplan_stat;762;Kostnad ved varemerke og lignende
+KS;Kontoplan_stat;763;Kontroll-, prøve- og stempelavgift
+KS;Kontoplan_stat;764;Reservert
+KS;Kontoplan_stat;765;Reservert
+KS;Kontoplan_stat;766;Reservert
+KS;Kontoplan_stat;767;Reservert
+KS;Kontoplan_stat;768;Reservert
+KS;Kontoplan_stat;769;Reservert
+KS;Kontoplan_stat;770;Spesielle driftskostnader etter avtale med Finansdepartementet
+KS;Kontoplan_stat;771;Styremøter
+KS;Kontoplan_stat;772;Generalforsamling
+KS;Kontoplan_stat;773;Reservert
+KS;Kontoplan_stat;774;Reservert
+KS;Kontoplan_stat;775;Eiendoms- og festeavgift
+KS;Kontoplan_stat;776;Reservert
+KS;Kontoplan_stat;777;Bank- og kortgebyr
+KS;Kontoplan_stat;778;Reservert (fremtidig eliminering)
+KS;Kontoplan_stat;779;Annen kostnad
+KS;Kontoplan_stat;780;Tap ved avgang av anleggsmidler
+KS;Kontoplan_stat;781;Reservert
+KS;Kontoplan_stat;782;Innkommet på tidligere nedskrevne fordringer
+KS;Kontoplan_stat;783;Konstaterte tap på fordringer
+KS;Kontoplan_stat;784;Avsetning tap på fordringer
+KS;Kontoplan_stat;785;Reservert
+KS;Kontoplan_stat;786;Tap på kontrakter
+KS;Kontoplan_stat;787;Erstatninger
+KS;Kontoplan_stat;788;Reservert
+KS;Kontoplan_stat;789;Reservert
+KS;Kontoplan_stat;800;Inntekter fra eierandeler i selskap m.m.
+KS;Kontoplan_stat;801;Reservert
+KS;Kontoplan_stat;802;Salgssum ved realisasjon av verdipapirer (bruttobudsjetterte virksomheter)
+KS;Kontoplan_stat;803;Reservert
+KS;Kontoplan_stat;804;Reservert
+KS;Kontoplan_stat;805;Renteinntekt
+KS;Kontoplan_stat;806;Valutagevinst (agio)
+KS;Kontoplan_stat;807;Renteinntekt av mellomværende med statskassen (motpost 1977) (forvaltningsbedrifter)
+KS;Kontoplan_stat;808;Reservert
+KS;Kontoplan_stat;809;Annen finansinntekt
+KS;Kontoplan_stat;810;Reservert
+KS;Kontoplan_stat;811;Reservert
+KS;Kontoplan_stat;812;Nedskrivning av finansielle anleggsmidler
+KS;Kontoplan_stat;813;Reservert
+KS;Kontoplan_stat;814;Reservert
+KS;Kontoplan_stat;815;Rentekostnad
+KS;Kontoplan_stat;816;Valutatap (disagio)
+KS;Kontoplan_stat;817;Rentekostnad av mellomværende med statskassen (motpost 1977) (forvaltningsbedrifter)
+KS;Kontoplan_stat;818;Rentekostnad av statens faste kapital (motpost 1976) (forvaltningsbedrifter)
+KS;Kontoplan_stat;819;Annen finanskostnad
+KS;Kontoplan_stat;820;Reservert
+KS;Kontoplan_stat;821;Tilbakeføring fra statlige fond
+KS;Kontoplan_stat;822;Overføringer fra departementer (kun til bruk for fond)
+KS;Kontoplan_stat;823;Overføringer fra forvaltningsorganer med særskilte fullmakter
+KS;Kontoplan_stat;824;Reservert
+KS;Kontoplan_stat;825;Overføringer fra andre statlige regnskaper
+KS;Kontoplan_stat;826;Reservert
+KS;Kontoplan_stat;827;Andre overføringer etter avtale med DFØ
+KS;Kontoplan_stat;828;Reservert
+KS;Kontoplan_stat;829;Avregning kontogruppe 82, føres mot 1997
+KS;Kontoplan_stat;830;Overføringer fra kommuner
+KS;Kontoplan_stat;831;Overføringer fra fylkeskommuner
+KS;Kontoplan_stat;832;Reservert
+KS;Kontoplan_stat;833;Reservert
+KS;Kontoplan_stat;834;Reservert
+KS;Kontoplan_stat;835;Reservert
+KS;Kontoplan_stat;836;Reservert
+KS;Kontoplan_stat;837;Reservert
+KS;Kontoplan_stat;838;Reservert
+KS;Kontoplan_stat;839;Avregning kontogruppe 83, føres mot 1997
+KS;Kontoplan_stat;840;Skatter
+KS;Kontoplan_stat;841;Trygder og pensjonspremier
+KS;Kontoplan_stat;842;Avgifter
+KS;Kontoplan_stat;843;Reservert
+KS;Kontoplan_stat;844;Gebyrer som ikke inngår som driftsinntekt
+KS;Kontoplan_stat;845;Renteinntekt til statskassen
+KS;Kontoplan_stat;846;Utbytte
+KS;Kontoplan_stat;847;Bøter og inndragninger
+KS;Kontoplan_stat;848;Tilfeldige og andre inntekter
+KS;Kontoplan_stat;849;Avregning kontogruppe 84, føres mot 1997
+KS;Kontoplan_stat;850;Reservert
+KS;Kontoplan_stat;851;Overføringer til statlige fond
+KS;Kontoplan_stat;852;Reservert
+KS;Kontoplan_stat;853;Overføringer til forvaltningsorganer med særskilte fullmakter
+KS;Kontoplan_stat;854;Reservert
+KS;Kontoplan_stat;855;Overføringer til andre statlige regnskaper
+KS;Kontoplan_stat;856;Reservert
+KS;Kontoplan_stat;857;Rentekostnad for statskassen
+KS;Kontoplan_stat;858;Reservert
+KS;Kontoplan_stat;859;Avregning kontogruppe 85, føres mot 1998
+KS;Kontoplan_stat;870;Tilskudd til kommuner
+KS;Kontoplan_stat;871;Tilskudd til fylkeskommuner
+KS;Kontoplan_stat;872;Tilskudd til ikke-finansielle foretak
+KS;Kontoplan_stat;873;Tilskudd til finansielle foretak
+KS;Kontoplan_stat;874;Tilskudd til husholdninger
+KS;Kontoplan_stat;875;Reservert
+KS;Kontoplan_stat;876;Tilskudd til ideelle organisasjoner
+KS;Kontoplan_stat;877;Tilskudd til statsforvaltningen
+KS;Kontoplan_stat;878;Tilskudd til utlandet
+KS;Kontoplan_stat;879;Avregning kontogruppe 87, føres mot 1998
+KS;Kontoplan_stat;880;Disponering (periodens resultat)
+KS;Kontoplan_stat;881;Reservert
+KS;Kontoplan_stat;882;Disponering fond - til/fra opptjent fondskapital
+KS;Kontoplan_stat;883;Reservert
+KS;Kontoplan_stat;884;Reservert
+KS;Kontoplan_stat;885;Avsetning til investeringsformål (forvaltningsbedrifter)
+KS;Kontoplan_stat;886;Til/fra reguleringsfond (forvaltningsbedrifter)
+KS;Kontoplan_stat;887;Disponering øvrig resultat forvaltningsbedrift
+KS;Kontoplan_stat;888;Reservert
+KS;Kontoplan_stat;889;Reservert
+KS;Kontoplan_stat;890;Avregning bevilgningsfinansiert virksomhet (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;891;Reservert (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;892;Reservert (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;893;Reservert (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;894;Reservert (nettobudsjetterte virksomheter)
+KS;Kontoplan_stat;895;Avregning med statskassen (bruttobudsjetterte virksomheter)
+KS;Kontoplan_stat;896;Reservert (bruttobudsjetterte virksomheter)
+KS;Kontoplan_stat;897;Driftsresultat post 24 - Kontant til statskassen
+KS;Kontoplan_stat;898;Reservert (bruttobudsjetterte virksomheter)
+KS;Kontoplan_stat;899;Reservert (bruttobudsjetterte virksomheter)
