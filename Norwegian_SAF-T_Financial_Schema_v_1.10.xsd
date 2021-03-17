@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <!-- edited with XMLSpy v2017 rel. 3 sp1 (x64) (http://www.altova.com) by ﻿Skatteetaten (Skatteetaten) -->
-<xs:schema xmlns="urn:StandardAuditFile-Taxation-Financial:NO" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:doc="urn:schemas-OECD:schema-extensions:documentation" targetNamespace="urn:StandardAuditFile-Taxation-Financial:NO" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.10" id="SAF-T">
+<xs:schema xmlns="urn:StandardAuditFile-Taxation-Financial:NO" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:doc="urn:schemas-OECD:schema-extensions:documentation" targetNamespace="urn:StandardAuditFile-Taxation-Financial:NO" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.20" id="SAF-T">
 	<xs:annotation>
 		<xs:documentation>
 			<doc:Title>Norwegian SAF-T Financial data</doc:Title>
 			<doc:Copyright>Skatteetaten</doc:Copyright>
 			<doc:Version>
-				<doc:Number>1.10</doc:Number>
+				<doc:Number>1.20</doc:Number>
 				<doc:Status>Final version, with minor revision</doc:Status>
 			</doc:Version>
 			<doc:Author>SAF-T Working group</doc:Author>
 			<doc:BasedOn>OECD Standard Audit File - Taxation 2.00</doc:BasedOn>
-			<doc:ModificationDate>02-02-2018</doc:ModificationDate>
+			<doc:ModificationDate>25-11-2020</doc:ModificationDate>
 		</xs:documentation>
 	</xs:annotation>
 	<xs:element name="AuditFile">
@@ -358,7 +358,7 @@
 														</xs:annotation>
 														<xs:complexType>
 															<xs:sequence>
-																<xs:element name="TaxCode" type="SAFcodeType">
+																<xs:element name="TaxCode" type="SAFmiddle1textType">
 																	<xs:annotation>
 																		<xs:documentation>Tax Code for lookup in tables.</xs:documentation>
 																	</xs:annotation>
@@ -1161,7 +1161,7 @@
 																		<xs:documentation>The reference number, such as invoice or credit note number.</xs:documentation>
 																	</xs:annotation>
 																</xs:element>
-																<xs:element name="CID" type="xs:nonNegativeInteger" minOccurs="0">
+																<xs:element name="CID" type="SAFmiddle1textType" minOccurs="0">
 																	<xs:annotation>
 																		<xs:documentation>The CID number.</xs:documentation>
 																	</xs:annotation>
@@ -2556,12 +2556,12 @@
 					<xs:documentation>Not in use</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="City" type="SAFmiddle1textType">
+			<xs:element name="City" type="SAFmiddle1textType" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Name of the city/post district.</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="PostalCode" type="SAFshorttextType">
+			<xs:element name="PostalCode" type="SAFshorttextType" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Postal code for the relevant city/post district.</xs:documentation>
 				</xs:annotation>
@@ -3159,7 +3159,7 @@ Enumerated: Active, Observation, Passive.</xs:documentation>
 			<xs:element name="TaxRegistrationNumber" type="SAFmiddle1textType">
 				<xs:annotation>
 					<xs:documentation>The company’s VAT (MVA) number. 
-This is the unique number/organization number from The Brønnøysund Register Centre (Brønnøysundregistrene) followed by the letters “MVA”. This element is mandatory if the company is subject to VAT (MVA).</xs:documentation>
+This is the unique number/organization number from The Brønnøysund Register Centre (Brønnøysundregistrene). This element is mandatory if the company is subject to VAT (MVA).</xs:documentation>
 				</xs:annotation>
 			</xs:element>
 			<xs:element name="TaxType" type="SAFcodeType" minOccurs="0">
@@ -3206,7 +3206,7 @@ If used, then the only valid value is "MVA".</xs:documentation>
 					</xs:restriction>
 				</xs:simpleType>
 			</xs:element>
-			<xs:element name="TaxCode" type="SAFcodeType" minOccurs="0">
+			<xs:element name="TaxCode" type="SAFmiddle1textType" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Tax Code for lookup in tables.</xs:documentation>
 				</xs:annotation>
@@ -3214,6 +3214,11 @@ If used, then the only valid value is "MVA".</xs:documentation>
 			<xs:element name="TaxPercentage" type="xs:decimal" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Tax percentage.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="Country" type="ISOCountryCode" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>Two-letter country code according to ISO 3166-1 alpha 2 standard.</xs:documentation>
 				</xs:annotation>
 			</xs:element>
 			<xs:element name="TaxBase" type="xs:decimal" minOccurs="0">
