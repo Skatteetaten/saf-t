@@ -1,0 +1,32 @@
+PredefinedBasicID-13;CodeDescriptionENG;CodeDescriptionNOB
+13001;POS application start;Oppstart av POS applikasjon
+13002;POS application shut down;Avslutning av POS applikasjon
+13003;Employee log in;Pålogging bruker/ansatt
+13004;Employee log out;Avlogging bruker/ansatt
+13005;Open cash drawer;Kasseskuff åpning
+13006;Close cash drawer;Kasseskuff lukking
+13007;Update of POS application;Oppdatering av programvare
+13008;X report;Kjøring av X-rapport
+13009;Z report;Kjøring av Z-rapport
+13010;Suspend transaction;Parkering av kvittering/bong
+13011;Resume transaction;Tilbakehenting av parkert kvittering/bong
+13012;Sales receipt printed;Salgskvittering skrevet ut
+13013;Return receipt;Returkvittering
+13014;Copy receipt;Kopi av kvittering
+13015;Provisional receipt;Foreløpig kvittering
+13016;Delivery receipt;Utleveringskvittering ved kredittsalg
+13017;Training receipt ;Treningsmodus - alle typer kvitteringer
+13018;Other reports or receipts;Andre rapporter eller kvitteringer
+13019;Cash withdrawal;Uttak av kontanter fra kassa
+13020;Export of journal to external storage (cash register);Overføring av journal til annet lagringsmedie (ROM kasser)
+13021;Price change;Prisendringer
+13022;Price look-up ;Prisundersøkelse
+13023;Training mode on ;Trenings- modus/funksjon på
+13024;Training mode off;Trenings- modus/funksjon av
+13025;Memory full (cash register);Fullt minne (ROM kasser)
+13026;Emergency mode on;Nødmodus på
+13027;Emergency mode off;Nødmodus av
+13028;Void receipt;Annulleringskvittering
+13029;STEB receipt;STEB kvittering
+13030;Concluded sale without receipt printed;Fullført salg uten utskrift av kvittering
+13999;Other;Øvrige hendelser
