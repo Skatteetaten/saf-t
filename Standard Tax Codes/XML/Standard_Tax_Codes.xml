@@ -111,8 +111,8 @@
 	</TaxCode>
 	<TaxCode>
 		<ID>6</ID>
-		<Description ISOLanguageCode="NOB">Omsetning utenfor merverdiavgiftsloven</Description>
-		<Description ISOLanguageCode="ENG">Not liable to VAT treatment, turnover outside the scope of the VAT legislation</Description>
+		<Description ISOLanguageCode="NOB">Omsetning og uttak utenfor merverdiavgiftsloven</Description>
+		<Description ISOLanguageCode="ENG">Not liable to VAT treatment, turnover and withdrawals outside the scope of the VAT legislation</Description>
 	</TaxCode>
 	<TaxCode>
 		<ID>7</ID>
