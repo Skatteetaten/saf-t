@@ -1,31 +1,31 @@
 Code;DescriptionNOB;DescriptionENG;TaxRate;Compensation
 0;Ingen merverdiavgiftsbehandling (anskaffelser);No VAT treatment;;TRUE
-1;Fradragsberettiget innenlands inngående merverdiavgift;Input VAT deductible (domestic);Regular rate;TRUE
-11;Fradragsberettiget innenlands inngående merverdiavgift;Input VAT deductible (domestic);Reduced rate, middle;TRUE
-12;Fradragsberettiget innenlands inngående merverdiavgift;Input VAT deductible (domestic);Reduced rate, raw fish;
-13;Fradragsberettiget innenlands inngående merverdiavgift;Input VAT deductible (domestic);Reduced rate, low;TRUE
-14;Fradragsberettiget innførselsmerverdiavgift;Input VAT deductible (payed on import);Regular rate;TRUE
-15;Fradragsberettiget innførselsmerverdiavgift;Input VAT deductible (payed on import);Reduced rate, middle;TRUE
-20;Kostnad ved innførsel av varer, ingen merverdiavgiftsbehandling;No VAT treatment;;TRUE
-21;Kostnad ved innførsel av varer;Basis on import of goods;Regular rate;TRUE
-22;Kostnad ved innførsel av varer;Basis on import of goods;Reduced rate, middle;TRUE
-3;Utgående merverdiavgift;Output VAT;Regular rate;
-31;Utgående merverdiavgift;Output VAT;Reduced rate, middle;
-32;Utgående merverdiavgift;Output VAT;Reduced rate, raw fish;
-33;Utgående merverdiavgift;Output VAT;Reduced rate, low;
+1;Fradragsberettiget innenlands inngÃ¥ende merverdiavgift;Input VAT deductible (domestic);Regular rate;TRUE
+11;Fradragsberettiget innenlands inngÃ¥ende merverdiavgift;Input VAT deductible (domestic);Reduced rate, middle;TRUE
+12;Fradragsberettiget innenlands inngÃ¥ende merverdiavgift;Input VAT deductible (domestic);Reduced rate, raw fish;
+13;Fradragsberettiget innenlands inngÃ¥ende merverdiavgift;Input VAT deductible (domestic);Reduced rate, low;TRUE
+14;Fradragsberettiget innfÃ¸rselsmerverdiavgift;Input VAT deductible (payed on import);Regular rate;TRUE
+15;Fradragsberettiget innfÃ¸rselsmerverdiavgift;Input VAT deductible (payed on import);Reduced rate, middle;TRUE
+20;Kostnad ved innfÃ¸rsel av varer, ingen merverdiavgiftsbehandling;No VAT treatment;;TRUE
+21;Kostnad ved innfÃ¸rsel av varer;Basis on import of goods;Regular rate;TRUE
+22;Kostnad ved innfÃ¸rsel av varer;Basis on import of goods;Reduced rate, middle;TRUE
+3;UtgÃ¥ende merverdiavgift;Output VAT;Regular rate;
+31;UtgÃ¥ende merverdiavgift;Output VAT;Reduced rate, middle;
+32;UtgÃ¥ende merverdiavgift;Output VAT;Reduced rate, raw fish;
+33;UtgÃ¥ende merverdiavgift;Output VAT;Reduced rate, low;
 5;Innenlands omsetning og uttak fritatt for merverdiavgift;No output VAT;Zero rate;
 51;Innenlandsk omsetning med omvendt avgiftplikt;Domestic sales of reverce charge /VAT obligation;Zero rate;
-52;Utførsel av varer og tjenester;Export of goods and services;Zero rate;
-6;Omsetning utenfor merverdiavgiftsloven;Not liable to VAT treatment, turnover outside the scope of the VAT legislation;;
+52;UtfÃ¸rsel av varer og tjenester;Export of goods and services;Zero rate;
+6;Omsetning og uttak utenfor merverdiavgiftsloven;Not liable to VAT treatment, turnover and withdrawals outside the scope of the VAT legislation;;
 7;Ingen merverdiavgiftsbehandling (inntekter);No VAT treatment - no turnover according to the VAT legislation;;
-81;Grunnlag innførsel av varer med fradragsrett for innførselsmerverdiavgift;Importation of goods, VAT deductible;Regular rate;TRUE
-82;Grunnlag innførsel av varer uten fradragsrett for innførselsmerverdiavgift;Importation of goods, without deduction of VAT;Regular rate;TRUE
-83;Grunnlag innførsel av varer med fradragsrett for innførselsmerverdiavgift;Importation of goods, VAT deductible;Reduced rate, middle;TRUE
-84;Grunnlag innførsel av varer uten fradragsrett for innførselsmerverdiavgift;Importation of goods, without deduction of VAT;Reduced rate, middle;TRUE
-85;Grunnlag innførsel av varer som det ikke skal beregnes merverdiavgift av;Importation of goods, not applicable for VAT;Zero rate;TRUE
-86;Tjenester kjøpt fra utlandet med fradragsrett for merverdiavgift;Services purchased from abroad, VAT deductible;Regular rate;TRUE
-87;Tjenester kjøpt fra utlandet uten fradragsrett for merverdiavgift;Services purchased from abroad, without deduction of VAT;Regular rate;TRUE
-88;Tjenester kjøpt fra utlandet med fradragsrett for merverdiavgift;Services purchased from abroad, VAT deductible;Reduced rate, low;TRUE
-89;Tjenester kjøpt fra utlandet uten fradragsrett for merverdiavgift;Services purchased from abroad, without deduction of VAT;Reduced rate, low;TRUE
-91;Kjøp av klimakvoter eller gull med fradragsrett for merverdiavgift;Purchase of emissions trading or gold, VAT deductible;Regular rate;TRUE
-92;Kjøp av klimakvoter eller gull uten fradragsrett for merverdiavgift;Purchase of emissions trading or gold, without deduction of VAT;Regular rate;TRUE
+81;Grunnlag innfÃ¸rsel av varer med fradragsrett for innfÃ¸rselsmerverdiavgift;Importation of goods, VAT deductible;Regular rate;TRUE
+82;Grunnlag innfÃ¸rsel av varer uten fradragsrett for innfÃ¸rselsmerverdiavgift;Importation of goods, without deduction of VAT;Regular rate;TRUE
+83;Grunnlag innfÃ¸rsel av varer med fradragsrett for innfÃ¸rselsmerverdiavgift;Importation of goods, VAT deductible;Reduced rate, middle;TRUE
+84;Grunnlag innfÃ¸rsel av varer uten fradragsrett for innfÃ¸rselsmerverdiavgift;Importation of goods, without deduction of VAT;Reduced rate, middle;TRUE
+85;Grunnlag innfÃ¸rsel av varer som det ikke skal beregnes merverdiavgift av;Importation of goods, not applicable for VAT;Zero rate;TRUE
+86;Tjenester kjÃ¸pt fra utlandet med fradragsrett for merverdiavgift;Services purchased from abroad, VAT deductible;Regular rate;TRUE
+87;Tjenester kjÃ¸pt fra utlandet uten fradragsrett for merverdiavgift;Services purchased from abroad, without deduction of VAT;Regular rate;TRUE
+88;Tjenester kjÃ¸pt fra utlandet med fradragsrett for merverdiavgift;Services purchased from abroad, VAT deductible;Reduced rate, low;TRUE
+89;Tjenester kjÃ¸pt fra utlandet uten fradragsrett for merverdiavgift;Services purchased from abroad, without deduction of VAT;Reduced rate, low;TRUE
+91;KjÃ¸p av klimakvoter eller gull med fradragsrett for merverdiavgift;Purchase of emissions trading or gold, VAT deductible;Regular rate;TRUE
+92;KjÃ¸p av klimakvoter eller gull uten fradragsrett for merverdiavgift;Purchase of emissions trading or gold, without deduction of VAT;Regular rate;TRUE
