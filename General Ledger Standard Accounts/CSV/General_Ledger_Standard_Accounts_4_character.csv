@@ -3,7 +3,7 @@ AccountID;DescriptionNOR;DescriptionENG
 1005;Forskning og utvikling, egenutviklet;Research and development, proprietary
 1020;Konsesjoner, ervervet;Concessions, acquired
 1025;Konsesjoner, egenutviklet;Concessions, proprietary
-1030;Patenter, ervervet ;Patents, acquired
+1030;Patenter, ervervet;Patents, acquired
 1035;Patenter, egenutviklet;Patents, proprietary
 1040;Lisenser, ervervet;Licences, acquired
 1045;Lisenser, egenutviklet;Licences, proprietary
@@ -17,6 +17,7 @@ AccountID;DescriptionNOR;DescriptionENG
 1075;Reduksjon utsatt skattefordel pga manglende realiserbarhet;Reduction in deferred tax asset due to unrealisibility
 1079;Utlignbar utsatt skattefordel;Deferred tax asset that can be offset
 1080;Goodwill;Goodwill
+1099;Andre immaterielle eiendeler;Other intangible assets
 1100;Bygninger;Buildings
 1110;Fast teknisk installasjon i bygning;Fixed technical installation
 1120;Bygningsmessige anlegg;Structural installations
@@ -26,6 +27,7 @@ AccountID;DescriptionNOR;DescriptionENG
 1150;Tomter;Land
 1155;Andre grunnarealer;Other real property
 1160;Boliger inklusive tomter;Dwellings including land
+1179;Annen fast eiendom;Other properties
 1180;Investeringseiendommer;Investment properties
 1190;Grunnlag MVA innførsel av varer, høy sats;Basis VAT import of goods, high rate
 1191;Grunnlag MVA innførsel av varer, høy sats, motkonto;Basis VAT import of goods, high rate, contra account
@@ -33,7 +35,7 @@ AccountID;DescriptionNOR;DescriptionENG
 1193;Grunnlag MVA innførsel av varer, middels sats, motkonto;Basis VAT import of goods, medium rate, contra account
 1194;Grunnlag innførsel av varer med null sats;Basis import of goods with zero rate
 1195;Grunnlag innførsel av varer med  null sats, motkonto;Basis import of goods with zero rate, contra account
-1196;Grunnlag utgående MVA kjøp tjenester fra utlandet ;Basis outgoing VAT purchase of services from abroad 
+1196;Grunnlag utgående MVA kjøp tjenester fra utlandet;Basis outgoing VAT purchase of services from abroad
 1197;Grunnlag utgående MVA kjøp tjenester fra utlandet, motkonto;Basis outgoing VAT purchase of services from abroad, contra account
 1200;Maskiner og anlegg;Machinery and plant
 1210;Maskiner og anlegg under utførelse;Machinery and plant under construction
@@ -51,9 +53,10 @@ AccountID;DescriptionNOR;DescriptionENG
 1249;Andre transportmidler;Other means of transport
 1250;Inventar;Fixtures and fittings
 1260;Fast bygningsinventar, eget bygg;Permanent building fixtures and fittings, own building
-1270;Verktøy o.l;Tools etc.
-1280;Kontormaskiner;Office machines
 1265;Fast bygningsinventar, leide lokaler;Permanent building fixtures and fittings, leased premises
+1270;Verktøy o.l.;Tools etc.
+1280;Kontormaskiner;Office machines
+1289;Andre varige driftsmidler;Other fixed assets
 1290;Grunnlag MVA innførsel av varer, høy sats;Basis VAT import of goods, high rate
 1291;Grunnlag MVA innførsel av varer, høy sats, motkonto;Basis VAT import of goods, high rate, contra account
 1292;Grunnlag MVA innførsel av varer, middels sats;Basis VAT import of goods, medium rate
@@ -81,6 +84,7 @@ AccountID;DescriptionNOR;DescriptionENG
 1357;Andre aksjer/andeler, utenlandske, utenfor fritaksmetoden;Other shares/units, foreign, not included in the exemption model
 1358;Verdipapirfondsandeler;Securities fund units
 1360;Obligasjoner;Bonds
+1369;Andre finansielle anleggsmidler;Other financial fixed assets
 1370;Fordringer på eiere;Receivables from owners
 1375;Fordringer på styremedlemmer;Receivables from board members
 1380;Fordringer på ansatte;Receivables from employees
@@ -110,12 +114,13 @@ AccountID;DescriptionNOR;DescriptionENG
 1473;Grunnlag MVA innførsel av varer, middels sats, motkonto;Basis VAT import of goods, medium rate, contra account
 1474;Grunnlag innførsel av varer med null sats;Basis import of goods with zero rate
 1475;Grunnlag innførsel av varer med  null sats, motkonto;Basis import of goods with zero rate, contra account
-1476;Grunnlag utgående MVA kjøp tjenester fra utlandet ;Basis outgoing VAT purchase of services from abroad 
+1476;Grunnlag utgående MVA kjøp tjenester fra utlandet;Basis outgoing VAT purchase of services from abroad
 1477;Grunnlag utgående MVA kjøp tjenester fra utlandet, motkonto;Basis outgoing VAT purchase of services from abroad, contra account
 1478;Innenlands kjøp av varer og tjenester, omvendt avgiftsplikt;Domestic purchase of goods and services, reversed VAT liability
 1479;Innenlands kjøp av varer og tjenester, omvendt avgiftsplikt, motkonto;Domestic purchase of goods and services, reversed VAT liability, contra account
 1480;Forskuddsbetaling til leverandører (varekontrakter/prosjekter);Prepayments to suppliers (contracts for goods/projects)
 1490;Biologiske eiendeler;Biological assets
+1499;Andre beholdninger;Other inventories
 1500;Kundefordringer;Trade debtors (accounts receivable from customers)
 1530;Opptjent, ikke fakturert driftsinntekt;Accrued, uninvoiced operating income
 1550;Kundefordringer på selskap i samme konsern;Trade debtors in group companies (accounts receivable from companies in the same group)
@@ -154,7 +159,7 @@ AccountID;DescriptionNOR;DescriptionENG
 1655;Grunnlag merverdiavgiftskompensasjon, høy sats;Tax value, VAT compensation, high rate
 1656;Grunnlag merverdiavgiftskompensasjon, middels sats;Tax value, VAT compensation, middle rate
 1657;Grunnlag merverdiavgiftskompensasjon, lav sats;Tax value, VAT compensation, low rate
-1659;Motkonto grunnlag merverdiavgiftskompensasjon ;Basis VAT compensation contra account
+1659;Motkonto grunnlag merverdiavgiftskompensasjon;Basis VAT compensation contra account
 1670;Krav på offentlige tilskudd;Entitlements to public grants
 1675;Skattefunn til gode, ikke fastsatt;SkatteFUNN Tax Incentive Scheme credit, not offset
 1700;Forskuddsbetalt leiekostnad;Prepaid rental expenses
@@ -166,7 +171,7 @@ AccountID;DescriptionNOR;DescriptionENG
 1749;Andre forskuddsbetalte driftskostnader;Other prepaid operating expenses
 1750;Påløpt leieinntekt;Accrued rental income
 1760;Påløpt renteinntekt;Accrued interest income
-1780;Krav på innbetaling av selskapskapital;Unpaid subscribed capital 
+1780;Krav på innbetaling av selskapskapital;Unpaid subscribed capital
 1800;Aksjer i foretak i samme konsern, norske;Shares in group companies, Norwegian
 1805;Andeler i foretak i samme konsern, norske;Units in group companies, Norwegian
 1806;Aksjer/andeler i foretak i samme konsern, utenlandske, innenfor fritaksmetoden;Shares/units in group companies, foreign, included in the exemption model
@@ -199,17 +204,22 @@ AccountID;DescriptionNOR;DescriptionENG
 1920;Bankinnskudd;Bank deposits
 1950;Bankinnskudd for skattetrekk;Bank deposits for tax withholdings
 1960;Bankinnskudd utland;Bank deposits, abroad
-2000;Aksjekapital / Egenkapital, bundet;Subscribed share capital / Equity, undistributable
-2010;Egne aksjer / Felleseid andelskapital;Own shares (treasury stock) / Jointly-owned cooperative share capital
+2000;Egenkapital, bundet;Equity, undistributable
+2000;Aksjekapital;Subscribed share capital
+2010;Felleseid andelskapital;Jointly-owned cooperative share capital
+2010;Egne aksjer;Own shares (treasury stock)
 2020;Overkurs;Share premium reserve
 2030;Ikke registrert kapitalforhøyelse;Non-authorised increase in capital
 2032;Ikke registrert fondsemisjon;Non-authorised capitalisation issue
 2033;Ikke registrert kapitalnedsettelse;Non-authorised reduction in capital
 2035;Annen innskutt egenkapital;Other paid-in capital
+2035;Annen innskutt egenkapital;Other paid-in capital
 2036;Stiftelsesutgifter;Incorporation expenses
-2040;Fond / Fond for vurderingsforskjeller i DLS;Reserves / Reserve for valuation variances, general partnership-companies and likewise
+2040;Fond;Reserves
+2040;Fond for vurderingsforskjeller i DLS;Reserve for valuation variances, general partnership-companies and likewise
 2042;Fond for vurderingsforskjeller i andre selskaper;Reserve for valuation variances, other companies
 2045;Fond for urealiserte gevinster;Reserve for non-realised gains
+2050;Annen egenkapital;Other equity
 2050;Annen egenkapital;Other equity
 2055;Avsatt utbytte;Provisions for dividends
 2060;Uttak kontanter;Cash withdrawal
@@ -225,9 +235,10 @@ AccountID;DescriptionNOR;DescriptionENG
 2072;Tilleggsforskudd/restskatt;Supplemental prepayment/tax due
 2075;Privat bruk av næringsbil;Private use of company car
 2077;Premie til egen syke- og ulykkesforsikring;Premium for own health and accident insurance
-2078;Premie til tilleggstrygd for sykepenger;Premium for supplementary national insurance for sickness benefits 
+2078;Premie til tilleggstrygd for sykepenger;Premium for supplementary national insurance for sickness benefits
 2080;Udekket tap;Uncovered loss
-2099;Udisponert resultat;Retained result 
+2080;Udekket tap;Uncovered loss
+2099;Udisponert resultat;Retained result
 2100;Pensjonsforpliktelser;Pension liabilities
 2120;Utsatt skatt, brutto;Deferred tax, gross
 2129;Utlignbar utsatt skatt;Deferred tax that can be offset
@@ -246,14 +257,15 @@ AccountID;DescriptionNOR;DescriptionENG
 2299;Annen langsiktig gjeld;Other long-term liabilities
 2300;Konvertible lån;Convertible loans
 2320;Obligasjonslån;Bond loans
-2360;Byggelån ;Construction loans 
+2360;Byggelån;Construction loans
 2380;Kassakreditt;Overdraft facilities
 2390;Annen gjeld til kredittinstitusjon;Other liabilities to financial institution
-2400;Leverandørgjeld ;Trade creditors
+2400;Leverandørgjeld;Trade creditors
 2460;Leverandørgjeld til selskap i samme konsern;Trade creditors from group companies
 2500;Betalbar skatt, ikke fastsatt;Tax payable, not offset
 2510;Betalbar skatt, fastsatt;Tax payable, offset
 2540;Forskuddsskatt – upersonlig skattyter;Corporate advance tax
+2599;Annen skyldig skatt;Other payable taxes
 2600;Forskuddstrekk;Advance tax withholding
 2610;Utleggstrekk;Attachment of earnings
 2620;Bidragstrekk;Deduction of support (child-support etc) payments
@@ -269,6 +281,7 @@ AccountID;DescriptionNOR;DescriptionENG
 2705;Utgående merverdiavgift - innførsel av varer, høy sats;Output VAT - import of goods, high rate
 2706;Utgående merverdiavgift - innførsel av varer, middels sats;Output VAT - import of goods, medium rate
 2707;Utgående merverdiavgift - innenlands kjøp av varer og tjenester med omvendt avgiftsplikt, høy sats;Output VAT - domestic purchase of goods and services with reversed VAT liability, high rate
+2709;Utgående merverdiavgift ved kjøp av tjenester fra utlandet, lav sats;Output VAT purchase of services from abroad, low rate
 2710;Inngående merverdiavgift, høy sats;Input VAT, high rate
 2711;Inngående merverdiavgift, middels sats;Input VAT, middle rate
 2712;Inngående merverdiavgift, middels sats, råfisk mv;Input VAT, middle rate, raw fish etc
@@ -277,6 +290,7 @@ AccountID;DescriptionNOR;DescriptionENG
 2715;Inngående merverdiavgift - innførsel av varer, høy sats;Input VAT - import of goods, high rate
 2716;Inngående merverdiavgift - innførsel av varer, middels sats;Input VAT -  import of goods, medium rate
 2717;Inngående merverdiavgift - innenlands kjøp av varer og tjenester med omvendt avgiftsplikt, høy sats;Input VAT - domestic purchase of goods and services with reversed VAT liability, high rate
+2718;Inngående merverdiavgift ved kjøp av tjenester fra utlandet, lav sats;Input VAT purchase of services from abroad, low rate
 2740;Oppgjørskonto merverdiavgift;Settlement account for VAT
 2770;Skyldig arbeidsgiveravgift;Unpaid employers’ national insurance contributions
 2771;Betalt arbeidsgiveravgift;Paid employers’ national insurance contributions
@@ -384,16 +398,22 @@ AccountID;DescriptionNOR;DescriptionENG
 3700;Provisjonsinntekt, avgiftspliktig;Commission income, subject to VAT
 3705;Provisjonsinntekt, avgiftsfri;Commission income, not subject to VAT
 3709;Opptjent, ikke fakturert provisjonsinntekt;Earned commission income that has not been invoiced
+3710;Provisjonsinntekt, unntatt avgiftsplikt;Commission income, exempt from VAT
 3850;Verdiendringer investeringseiendommer;Change in value of investment properties
 3870;Verdiendringer biologiske eiendeler;Change in value of biological assets
+3880;Gevinst ved avgang av immaterielle eiendeler og varige driftsmidler;Gains from selling intangible assets and fixed assets
 3881;Salgssum immatr. eiendeler og varige driftsmidler, avgiftspliktig salg;Selling price of intangible assets and tangible fixed assets, sale subject to VAT
 3882;Salgssum immatr. eiendeler og varige driftsmidler, avgiftsfritt salg;Selling price of intangible assets and tangible fixed assets, sale not subject to VAT
-3889;Motkonto balanseverdi solgte immatr. eiendeler og varige driftsmidler;Contra account, book value of intangible assets and tangible fixed assets 
+3883;Salgssum immatr. eiendeler og varige driftsmidler, unntatt avgiftsplikt;Selling price of intangible assets and tangible fixed assets, exempt from VAT
+3889;Motkonto balanseverdi solgte immatr. eiendeler og varige driftsmidler;Contra account, book value of intangible assets and tangible fixed assets
 3891;Salgssum finansielle anleggsmidler;Selling price of financial assets
 3899;Motkonto balanseverdi finansielle anleggsmidler;Contra account, book value of financial assets
 3900;Annen driftsrelatert inntekt;Other operational income
+3971;Justering merverdiavgift fast eiendom;Adjustments VAT property
+3972;Justering merverdiavgift maskiner;Adjustments VAT machines
 4000;Innkjøp av råvarer og halvfabrikata, høy sats;Purchase of raw materials and semi-manufactures, high rate
 4030;Innkjøp av råvarer og halvfabrikata, middels sats;Purchase of raw materials and semi-manufactures, middle rate
+4035;Innkjøp av råvarer og halvfabrikata, uten MVA;Purchase of raw materials and semi-manufactures, without VAT
 4040;Utenlandsk innkjøp av råvarer og halvfabrikata, høy sats;Foreign purchase of raw materials and semi-manufactures, high rate
 4041;Utenlandsk innkjøp av råvarer og halvfabrikata, middels sats;Foreign purchase of raw materials and semi-manufactures, middle rate
 4042;Utenlandsk innkjøp av råvarer og halvfabrikata, fritatt for avgift;Foreign purchase of raw materials and semi-manufactures, not subject for VAT
@@ -415,6 +435,7 @@ AccountID;DescriptionNOR;DescriptionENG
 4090;Beholdningsendring;Change in stock
 4100;Innkjøp varer under tilvirkning, høy sats;Purchases of work in progress, high rate
 4130;Innkjøp varer under tilvirkning, middels sats;Purchases of work in progress, middle rate
+4140;Innkjøp av råvarer under tilvirkning, uten MVA;Purchases of work in progress, without VAT
 4160;Frakt, toll og spedisjon;Freight, customs duty and forwarding
 4171;Kontantrabatt, varer under tilvirkning, høy sats;Cash discount work in progress, high rate
 4172;Kontantrabatt, varer under tilvirkning, middels sats;Cash discount work in progress, middle rate
@@ -423,14 +444,16 @@ AccountID;DescriptionNOR;DescriptionENG
 4178;Annen innkjøpsprisreduksjon, varer under tilvirkning, høy sats;Other purchase price reduction work in progress, high rate
 4179;Annen innkjøpsprisreduksjon, varer under tilvirkning, middels sats;Other purchase price reduction work in progress, middle rate
 4190;Beholdningsendring;Change in stock
-4200;Innkjøp ferdig egentilvirkede varer, høy ssats;Purchase of self-produced finished goods, high rate
+4200;Innkjøp ferdig egentilvirkede varer, høy sats;Purchase of self-produced finished goods, high rate
 4230;Innkjøp ferdig egentilvirkede varer, middels sats;Purchase of self-produced finished goods, middle rate
+4240;Innkjøp ferdig egentilvirkede varer, uten MVA;Purchase of self-produced finished goods, without VAT
 4260;Frakt, toll og spedisjon;Freight, customs duty and forwarding
 4270;Innkjøpsprisreduksjon, egentilvirkede varer, høy sats;Purchase price reduction self-produced finished goods, high rate
 4271;Innkjøpsprisreduksjon, egentilvirkede varer, middels sats;Purchase price reduction self-produced finished goods, middle rate
 4290;Beholdningsendring;Change in stock
 4300;Innkjøp av varer for videresalg, høy sats;Purchase of goods for resale, high rate
 4330;Innkjøp av varer for videresalg, middels sats;Purchase of goods for resale, middle rate
+4335;Innkjøp av varer for videresalg, uten MVA;Purchase of goods for resale, without VAT
 4340;Utenlands innkjøp av varer for videresalg, høy sats;Foreign purchase of goods for resale, high rate
 4341;Utenlands innkjøp av varer for videresalg, middels sats;Foreign purchase of goods for resale, middle rate
 4342;Utenlands innkjøp av varer for videresalg, fritatt for avgift;Foreign purchase of goods for resale, not subject for VAT
@@ -453,7 +476,7 @@ AccountID;DescriptionNOR;DescriptionENG
 4500;Fremmedytelse og underentreprise;External services and subcontracts
 4550;Fremmedytelse og underentreprise, opplysningspliktig;External services and subcontracts, reportable
 4590;Beholdningsendring;Change in stock
-4600;Emballasjematerialer ;Packing materials
+4600;Emballasjematerialer;Packing materials
 4690;Beholdningsendring;Change in stock
 4900;Annen periodisering;Other accruals
 4990;Beholdningsendring, egentilvirkede anleggsmidler;Change in stock, fixed assets of own production
@@ -479,9 +502,9 @@ AccountID;DescriptionNOR;DescriptionENG
 5330;Godtgjørelse til styremedlemmer;Remuneration to members of the board
 5335;Godtgjørelse til medlemmer av bedriftsforsamlingen;Remuneration to members of the corporate assembly
 5390;Annen opplysningspliktig godtgjørelse;Other reportable remuneration
-5400;Arbeidsgiveravgift ;Employers’ national insurance contributions
+5400;Arbeidsgiveravgift;Employers’ national insurance contributions
 5404;Påløpt arbeidsgiveravgift påløpt lønn;Accured employers’ national insurance contributions accrued wages and salaries
-5405;Arbeidsgiveravgift av påløpte feriepenger ;Employers’ national insurance contributions on accrued holiday pay
+5405;Arbeidsgiveravgift av påløpte feriepenger;Employers’ national insurance contributions on accrued holiday pay
 5406;Påløpt arbeidsgiveravgift av påløpte andre honorarer;Accrued employers’ national insurance contributions on accrued other fees
 5420;Innberetningspliktig pensjonskostnad utbetalt over drift;Reportable pension costs expenced, not insured
 5430;Finansskatt av lønn;Finance tax on wages and salaries
@@ -489,7 +512,7 @@ AccountID;DescriptionNOR;DescriptionENG
 5434;Påløpt finansskatt påløpt lønn;Accrued finance tax on accrued wages and salaries
 5435;Påløpt finansskatt påløpte feriepenger;Accrued finance tax on accrued holiday pay
 5436;Påløpt finansskatt påløpte andre honorarer;Accrued finance tax on accrued other fees
-5500;Annen kostnadsgodtgjørelse ;Other expense allowances
+5500;Annen kostnadsgodtgjørelse;Other expense allowances
 5600;Arbeidsgodtgjørelse til eiere i DLS;Labour remuneration to owners of general partnership companies
 5700;Lærlingtilskudd;Apprentice grant
 5750;Annet lønnstilskudd;Other wage subsidies
@@ -507,6 +530,8 @@ AccountID;DescriptionNOR;DescriptionENG
 5930;Annen ikke arbeidsgiveravgiftspliktig forsikring;Other insurance not subject to national insurance contributions
 5941;LO/NHO-ordningen (O&U + sluttvederlag);LO/NHO scheme (O&U + severance pay)
 5942;LO/NHO-ordningen (AFP);LO/NHO scheme (AFP)
+5943;Pensjonsforsikring, arbeidsgiveravgiftspliktig;Insured pensions, with social security taxes
+5944;Pensjonsforsikring, ikke arbeidsgiveravgiftspliktig;Insured pensions, without social security taxes
 5950;Obligatorisk tjenestepensjon (OTP);Mandatory Occupational Pension (OTP)
 5990;Annen personalkostnad;Other personnel costs
 5999;Motkonto for gruppe 59;Contra account for group 59
@@ -516,9 +541,12 @@ AccountID;DescriptionNOR;DescriptionENG
 6017;Avskrivning på inventar;Depreciation of fixtures and fittings
 6020;Avskrivning på ervervet goodwill;Depreciation of acquired goodwill
 6029;Avskrivning på andre immaterielle eiendeler;Depreciation of other intangible assets
+6030;Avskrivning annet;Depreciation other
 6050;Nedskrivning av varige driftsmidler;Write-down on tangible fixed assets
 6055;Nedskrivning av immaterielle eiendeler;Write-down on intangible assets
 6059;Reversering av nedskrivning varige driftsmidler og immaterielle eiendeler;Reversal of write-down on tangible fixed assets and intangible assets
+6060;Nedskrivning annet;Write-down other
+6061;Reversering nedskrivning annet;Reversal of write-down other
 6100;Frakt, transportkostnad og forsikring ved vareforsendelse;Freight, transport costs and insurance for shipment of goods
 6110;Toll og spedisjonskostnad ved vareforsendelse;Customs duty and forwarding cost for shipment of goods
 6190;Annen frakt- og transportkostnad ved salg;Other freight and transport cost related to sales
@@ -531,7 +559,7 @@ AccountID;DescriptionNOR;DescriptionENG
 6260;Vann;Water
 6290;Annet brensel;Other fuel
 6300;Leie lokale;Rent, premises
-6320;Renovasjon, vann, avløp o.l. ;Waste disposal, water, sewage etc.
+6320;Renovasjon, vann, avløp o.l.;Waste disposal, water, sewage etc.
 6340;Lys;Lighting
 6345;Varme;Heating
 6360;Renhold;Cleaning
@@ -557,7 +585,7 @@ AccountID;DescriptionNOR;DescriptionENG
 6575;Verneutstyr;Protective gear
 6590;Annet driftsmateriale;Other operating materials
 6600;Reparasjon og vedlikehold bygninger;Repair and maintenance of buildings
-6620;Reparasjon og vedlikehold utstyr ;Repair and maintenance of equipment
+6620;Reparasjon og vedlikehold utstyr;Repair and maintenance of equipment
 6690;Reparasjon og vedlikehold annet;Other repair and maintenance
 6700;Revisjonshonorar;Auditors’ remuneration
 6702;Honorar annen bistand fra revisor;Auditors’ remuneration for other services
@@ -571,11 +599,11 @@ AccountID;DescriptionNOR;DescriptionENG
 6795;Annen fremmed tjeneste, ikke opplysningspliktig;Other external services, non-reportable
 6800;Kontorrekvisita;Office supplies
 6820;Trykksak;Printed matter
-6840;Aviser, tidsskrifter, bøker o.l. ;Newspapers, journals/periodicals, books etc.
-6860;Møte, kurs, oppdatering o.l. ;Meetings, seminars/courses, refresher courses etc.
+6840;Aviser, tidsskrifter, bøker o.l.;Newspapers, journals/periodicals, books etc.
+6860;Møte, kurs, oppdatering o.l.;Meetings, seminars/courses, refresher courses etc.
 6890;Annen kontorkostnad;Other office costs
 6900;Telefon;Telephone
-6903;Mobiltelefon ;Mobile telephone
+6903;Mobiltelefon;Mobile telephone
 6907;Datakommunikasjon;Data communication
 6909;Annen telekommunikasjon;Other telecommunication
 6940;Porto;Postage
@@ -613,7 +641,7 @@ AccountID;DescriptionNOR;DescriptionENG
 7600;Lisensavgift;Licence fees
 7605;Royalties;Royalties
 7610;Patentkostnad ved egen patent;Patent costs for own patent
-7620;Kostnad ved varemerke o.l. ;Cost related to trademarks etc.
+7620;Kostnad ved varemerke o.l.;Cost related to trademarks etc.
 7630;Kontroll-, prøve- og stempelavgifter;Inspection-, testing- and stamp duty fees
 7710;Styremøter;Board meetings
 7715;Bedriftsforsamlingsmøter;Corporate assembly meetings
@@ -628,7 +656,7 @@ AccountID;DescriptionNOR;DescriptionENG
 7783;Grunnlag MVA innførsel av varer, middels sats, motkonto;Basis VAT import of goods, medium rate, contra account
 7784;Grunnlag innførsel av varer med null sats;Basis import of goods with zero rate
 7785;Grunnlag innførsel av varer med  null sats, motkonto;Basis import of goods with zero rate, contra account
-7786;Grunnlag utgående MVA kjøp tjenester fra utlandet ;Basis outgoing VAT purchase of services from abroad 
+7786;Grunnlag utgående MVA kjøp tjenester fra utlandet;Basis outgoing VAT purchase of services from abroad
 7787;Grunnlag utgående MVA kjøp tjenester fra utlandet, motkonto;Basis outgoing VAT purchase of services from abroad, contra account
 7788;Innenlands kjøp av varer og tjenester, omvendt avgiftsplikt;Domestic purchase of goods and services, reversed VAT liability
 7789;Innenlands kjøp av varer og tjenester, omvendt avgiftsplikt, motkonto;Domestic purchase of goods and services, reversed VAT liability, contra account
@@ -640,13 +668,16 @@ AccountID;DescriptionNOR;DescriptionENG
 7835;Tap på fordringer, ikke fradragsberettiget;Bad debts, non-deductible
 7839;Endring i avsetning for forventet tap;Change in provision for expected loss
 7860;Tap på kontrakter;Losses on contracts
+7880;Tap ved avgang anleggsmidler;Losses on sale fixed assets
 7881;Salgssum immatr. eiendeler og varige driftsmidler, avgiftspliktig salg;Selling price, intangible assets and tangible fixed assets, sale subject to VAT
 7882;Salgssum immatr. eiendeler og varige driftsmidler, avgiftsfritt salg;Selling price, intangible assets and tangible fixed assets, sale not subject to VAT
-7889;Motkonto, balanseverdi solgte immatr. eiendeler og varige driftsmidler;Contra account, book value of sold intangible assets and tangible fixed assets 
+7883;Salgssum immatr. eiendeler og varige driftsmidler, unntatt avgiftsplikt;Selling price of intangible assets and tangible fixed assets, exempt from VAT
+7889;Motkonto, balanseverdi solgte immatr. eiendeler og varige driftsmidler;Contra account, book value of sold intangible assets and tangible fixed assets
 7891;Salgssum finansielle anleggsmidler;Selling price of financial assets
 7899;Motkonto balanseført verdi solgte finansielle driftsmidler;Contra account, book value of sold financial assets
 7971;Justering inngående merverdiavgift fast eiendom;Ajustment VAT  property
-7972;Justering inngående merverdiavgift maskiner, inventar mv;Ajustment VAT machinery, fixtures and fittings etc  
+7972;Justering inngående merverdiavgift maskiner, inventar mv;Ajustment VAT machinery, fixtures and fittings etc
+7980;Tilbakeføring av inngående merverdiavgift;Reversal ingoing VAT
 8000;Aksjeutbytte fra norsk datterselskap;Dividends from Norwegian subsidiaries
 8003;Aksjeutbytte fra utenlandsk datterselskap, innenfor fritaksmetoden;Dividends from foreign subsidiaries, included in the exemption model
 8004;Aksjeutbytte fra utenlandsk datterselskap, utenfor fritaksmetoden;Dividends from foreign subsidiaries, not included in the exemption model
@@ -681,7 +712,7 @@ AccountID;DescriptionNOR;DescriptionENG
 8090;Inntekt på andre investeringer;Income from other investments
 8100;Verdireduksjon av finansielle instrumenter vurdert til virkelig verdi, urealisert;Reduction in value of financial instruments valued at fair value, unrealised
 8105;Verdireduksjon av finansielle instrumenter vurdert til virkelig verdi, realisert;Reduction in value of financial instruments valued at fair value, realised
-8110;Nedskrivning av andre finansielle omløpsmidler;Write-down on other financial current assets 
+8110;Nedskrivning av andre finansielle omløpsmidler;Write-down on other financial current assets
 8120;Nedskrivning av finansielle anleggsmidler;Write-down on long-term financial assets
 8129;Reversering av nedskrivning finansielle anleggsmidler;Reversal of write-down on long-term financial assets
 8130;Rentekostnad til foretak i samme konsern;Interest paid to group companies
@@ -707,9 +738,10 @@ AccountID;DescriptionNOR;DescriptionENG
 8620;Endring utsatt skatt/skattefordel, virkning av prinsippendring;Change in deferred tax/tax assets, effect of change in principle
 8622;Endring utsatt skatt/skattefordel, korrigering av feil;Change in deferred tax/tax assets, correction of error.
 8800;Årsresultat;Net profit or loss for the year
-8900;Overføringer fond ;Reserve transfers
+8900;Overføringer fond;Reserve transfers
 8910;Overføringer felleseid andelskapital for samvirkeforetak;Transfers, jointly-owned cooperative share capital for cooperative society
-8920;Avsatt utbytte / renter på egenkapitalbevis / etterbetaling for samvirkeforetak;Allocated dividend / interest on equity certificates / dividend for cooperative society
+8920;Avsatt utbytte;Allocated dividend
+8920;Avsatt utbytte/ renter på egenkapitalbevis / etterbetaling for samvirkeforetak;Allocated dividend / interest on equity certificates / dividend for cooperative society
 8921;Avsatt tilleggsutbytte;Allocated additional dividend
 8922;Avsatt ekstraordinær utbytte;Allocated extraordinary dividend
 8930;Mottatt konsernbidrag;Received group contributions
