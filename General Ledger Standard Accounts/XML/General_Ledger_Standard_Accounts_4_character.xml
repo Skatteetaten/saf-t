@@ -1381,6 +1381,11 @@
     <Description ISOLanguageCode="ENG">Output VAT - domestic purchase of goods and services with reversed VAT liability, high rate</Description>
   </Account>
   <Account>
+    <AccountID>2709</AccountID>
+    <Description ISOLanguageCode="NOB">Utgående merverdiavgift ved kjøp av tjenester fra utlandet, lav sats</Description>
+    <Description ISOLanguageCode="ENG">Output VAT purchase of services from abroad, low rate</Description>
+  </Account>
+  <Account>
     <AccountID>2710</AccountID>
     <Description ISOLanguageCode="NOB">Inngående merverdiavgift, høy sats</Description>
     <Description ISOLanguageCode="ENG">Input VAT, high rate</Description>
@@ -1419,6 +1424,11 @@
     <AccountID>2717</AccountID>
     <Description ISOLanguageCode="NOB">Inngående merverdiavgift - innenlands kjøp av varer og tjenester med omvendt avgiftsplikt, høy sats</Description>
     <Description ISOLanguageCode="ENG">Input VAT - domestic purchase of goods and services with reversed VAT liability, high rate</Description>
+  </Account>
+  <Account>
+    <AccountID>2718</AccountID>
+    <Description ISOLanguageCode="NOB">Inngående merverdiavgift ved kjøp av tjenester fra utlandet, lav sats</Description>
+    <Description ISOLanguageCode="ENG">Input VAT purchase of services from abroad, low rate</Description>
   </Account>
   <Account>
     <AccountID>2740</AccountID>
@@ -1955,7 +1965,7 @@
     <Description ISOLanguageCode="NOB">Opptjent, ikke fakturert provisjonsinntekt</Description>
     <Description ISOLanguageCode="ENG">Earned commission income that has not been invoiced</Description>
   </Account>
-   <Account>
+  <Account>
     <AccountID>3710</AccountID>
     <Description ISOLanguageCode="NOB">Provisjonsinntekt, unntatt avgiftsplikt</Description>
     <Description ISOLanguageCode="ENG">Commission income, exempt from VAT</Description>
@@ -1986,6 +1996,11 @@
     <Description ISOLanguageCode="ENG">Selling price of intangible assets and tangible fixed assets, sale not subject to VAT</Description>
   </Account>
   <Account>
+    <AccountID>3883</AccountID>
+    <Description ISOLanguageCode="NOB">Salgssum immatr. eiendeler og varige driftsmidler, unntatt avgiftsplikt</Description>
+    <Description ISOLanguageCode="ENG">Selling price of intangible assets and tangible fixed assets, exempt from VAT</Description>
+  </Account>
+  <Account>
     <AccountID>3889</AccountID>
     <Description ISOLanguageCode="NOB">Motkonto balanseverdi solgte immatr. eiendeler og varige driftsmidler</Description>
     <Description ISOLanguageCode="ENG">Contra account, book value of intangible assets and tangible fixed assets</Description>
@@ -2004,6 +2019,16 @@
     <AccountID>3900</AccountID>
     <Description ISOLanguageCode="NOB">Annen driftsrelatert inntekt</Description>
     <Description ISOLanguageCode="ENG">Other operational income</Description>
+  </Account>
+  <Account>
+    <AccountID>3971</AccountID>
+    <Description ISOLanguageCode="NOB">Justering merverdiavgift fast eiendom</Description>
+    <Description ISOLanguageCode="ENG">Adjustments VAT property</Description>
+  </Account>
+  <Account>
+    <AccountID>3972</AccountID>
+    <Description ISOLanguageCode="NOB">Justering merverdiavgift maskiner</Description>
+    <Description ISOLanguageCode="ENG">Adjustments VAT machines</Description>
   </Account>
   <Account>
     <AccountID>4000</AccountID>
@@ -2172,7 +2197,7 @@
   </Account>
   <Account>
     <AccountID>4200</AccountID>
-    <Description ISOLanguageCode="NOB">Innkjøp ferdig egentilvirkede varer, høy ssats</Description>
+    <Description ISOLanguageCode="NOB">Innkjøp ferdig egentilvirkede varer, høy sats</Description>
     <Description ISOLanguageCode="ENG">Purchase of self-produced finished goods, high rate</Description>
   </Account>
   <Account>
@@ -3306,6 +3331,11 @@
     <Description ISOLanguageCode="ENG">Selling price, intangible assets and tangible fixed assets, sale not subject to VAT</Description>
   </Account>
   <Account>
+    <AccountID>7883</AccountID>
+    <Description ISOLanguageCode="NOB">Salgssum immatr. eiendeler og varige driftsmidler, unntatt avgiftsplikt</Description>
+    <Description ISOLanguageCode="ENG">Selling price of intangible assets and tangible fixed assets, exempt from VAT</Description>
+  </Account>
+  <Account>
     <AccountID>7889</AccountID>
     <Description ISOLanguageCode="NOB">Motkonto, balanseverdi solgte immatr. eiendeler og varige driftsmidler</Description>
     <Description ISOLanguageCode="ENG">Contra account, book value of sold intangible assets and tangible fixed assets</Description>
@@ -3329,6 +3359,11 @@
     <AccountID>7972</AccountID>
     <Description ISOLanguageCode="NOB">Justering inngående merverdiavgift maskiner, inventar mv</Description>
     <Description ISOLanguageCode="ENG">Ajustment VAT machinery, fixtures and fittings etc</Description>
+  </Account>
+  <Account>
+    <AccountID>7980</AccountID>
+    <Description ISOLanguageCode="NOB">Tilbakeføring av inngående merverdiavgift</Description>
+    <Description ISOLanguageCode="ENG">Reversal ingoing VAT</Description>
   </Account>
   <Account>
     <AccountID>8000</AccountID>
