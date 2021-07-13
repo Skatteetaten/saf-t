@@ -204,22 +204,17 @@ AccountID;DescriptionNOR;DescriptionENG
 1920;Bankinnskudd;Bank deposits
 1950;Bankinnskudd for skattetrekk;Bank deposits for tax withholdings
 1960;Bankinnskudd utland;Bank deposits, abroad
-2000;Egenkapital, bundet;Equity, undistributable
-2000;Aksjekapital;Subscribed share capital
-2010;Felleseid andelskapital;Jointly-owned cooperative share capital
-2010;Egne aksjer;Own shares (treasury stock)
+2000;Aksjekapital/Egenkapital, bundet;Subscribed share capital / Equity, undistributable
+2010;Egne aksjer / Felleseid andelskapital;Own shares (treasury stock) / Jointly-owned cooperative share capital
 2020;Overkurs;Share premium reserve
 2030;Ikke registrert kapitalforhøyelse;Non-authorised increase in capital
 2032;Ikke registrert fondsemisjon;Non-authorised capitalisation issue
 2033;Ikke registrert kapitalnedsettelse;Non-authorised reduction in capital
 2035;Annen innskutt egenkapital;Other paid-in capital
-2035;Annen innskutt egenkapital;Other paid-in capital
 2036;Stiftelsesutgifter;Incorporation expenses
-2040;Fond;Reserves
-2040;Fond for vurderingsforskjeller i DLS;Reserve for valuation variances, general partnership-companies and likewise
+2040;Fond / Fond for vurderingsforskjeller i DLS;Reserves / Reserve for valuation variances, general partnership-companies and likewise
 2042;Fond for vurderingsforskjeller i andre selskaper;Reserve for valuation variances, other companies
 2045;Fond for urealiserte gevinster;Reserve for non-realised gains
-2050;Annen egenkapital;Other equity
 2050;Annen egenkapital;Other equity
 2055;Avsatt utbytte;Provisions for dividends
 2060;Uttak kontanter;Cash withdrawal
@@ -236,7 +231,6 @@ AccountID;DescriptionNOR;DescriptionENG
 2075;Privat bruk av næringsbil;Private use of company car
 2077;Premie til egen syke- og ulykkesforsikring;Premium for own health and accident insurance
 2078;Premie til tilleggstrygd for sykepenger;Premium for supplementary national insurance for sickness benefits
-2080;Udekket tap;Uncovered loss
 2080;Udekket tap;Uncovered loss
 2099;Udisponert resultat;Retained result
 2100;Pensjonsforpliktelser;Pension liabilities
@@ -740,7 +734,6 @@ AccountID;DescriptionNOR;DescriptionENG
 8800;Årsresultat;Net profit or loss for the year
 8900;Overføringer fond;Reserve transfers
 8910;Overføringer felleseid andelskapital for samvirkeforetak;Transfers, jointly-owned cooperative share capital for cooperative society
-8920;Avsatt utbytte;Allocated dividend
 8920;Avsatt utbytte/ renter på egenkapitalbevis / etterbetaling for samvirkeforetak;Allocated dividend / interest on equity certificates / dividend for cooperative society
 8921;Avsatt tilleggsutbytte;Allocated additional dividend
 8922;Avsatt ekstraordinær utbytte;Allocated extraordinary dividend
