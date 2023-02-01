@@ -2,13 +2,13 @@
 <StandardAccounts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="General_Ledger_Standard_Accounts.xsd">
   <Account>
     <AccountID>1000</AccountID>
-    <Description ISOLanguageCode="NOB">Forskning og utvikling, ervervet</Description>
-    <Description ISOLanguageCode="ENG">Research and development, acquired</Description>
+    <Description ISOLanguageCode="NOB">Utvikling, ervervet</Description>
+    <Description ISOLanguageCode="ENG">Development, acquired</Description>
   </Account>
   <Account>
     <AccountID>1005</AccountID>
-    <Description ISOLanguageCode="NOB">Forskning og utvikling, egenutviklet</Description>
-    <Description ISOLanguageCode="ENG">Research and development, proprietary</Description>
+    <Description ISOLanguageCode="NOB">Utvikling, egenutviklet</Description>
+    <Description ISOLanguageCode="ENG">Development, proprietary</Description>
   </Account>
   <Account>
     <AccountID>1020</AccountID>
@@ -104,6 +104,11 @@
     <AccountID>1110</AccountID>
     <Description ISOLanguageCode="NOB">Fast teknisk installasjon i bygning</Description>
     <Description ISOLanguageCode="ENG">Fixed technical installation</Description>
+  </Account>
+  <Account>
+    <AccountID>1117</AccountID>
+    <Description ISOLanguageCode="NOB">Elektronisk utrustning i kraftforetak</Description>
+    <Description ISOLanguageCode="ENG">Electronic equipment in power companies</Description>
   </Account>
   <Account>
     <AccountID>1120</AccountID>
@@ -692,8 +697,8 @@
   </Account>
   <Account>
     <AccountID>1602</AccountID>
-    <Description ISOLanguageCode="NOB">Utgående merverdiavgift, middels sats</Description>
-    <Description ISOLanguageCode="ENG">Output VAT, middle rate</Description>
+    <Description ISOLanguageCode="NOB">Utgående merverdiavgift, råfisk mv, middels sats</Description>
+    <Description ISOLanguageCode="ENG">Output VAT, raw fish etc, middle rate</Description>
   </Account>
   <Account>
     <AccountID>1603</AccountID>
@@ -805,6 +810,11 @@
     <Description ISOLanguageCode="NOB">Motkonto grunnlag merverdiavgiftskompensasjon</Description>
     <Description ISOLanguageCode="ENG">Basis VAT compensation contra account</Description>
   </Account>
+  <Account>
+    <AccountID>1660</AccountID>
+    <Description ISOLanguageCode="NOB">Krav på refusjon av utenlandsk merverdiavgift</Description>
+    <Description ISOLanguageCode="ENG">Claim for refund of foreign VAT</Description>
+  </Account>  
   <Account>
     <AccountID>1670</AccountID>
     <Description ISOLanguageCode="NOB">Krav på offentlige tilskudd</Description>
@@ -997,7 +1007,7 @@
   </Account>
   <Account>
     <AccountID>1905</AccountID>
-    <Description ISOLanguageCode="NOB">Kontanter, euro</Description>
+    <Description ISOLanguageCode="NOB">Kontanter, EUR</Description>
     <Description ISOLanguageCode="ENG">Cash in hand, EUR</Description>
   </Account>
   <Account>
@@ -1261,6 +1271,16 @@
     <Description ISOLanguageCode="ENG">Bond loans</Description>
   </Account>
   <Account>
+    <AccountID>2330</AccountID>
+    <Description ISOLanguageCode="NOB">Derivater</Description>
+    <Description ISOLanguageCode="ENG">Derivatives</Description>
+  </Account>
+  <Account>
+    <AccountID>2340</AccountID>
+    <Description ISOLanguageCode="NOB">Andre valutalån</Description>
+    <Description ISOLanguageCode="ENG">Other foreign currency loans</Description>
+  </Account>
+  <Account>
     <AccountID>2360</AccountID>
     <Description ISOLanguageCode="NOB">Byggelån</Description>
     <Description ISOLanguageCode="ENG">Construction loans</Description>
@@ -1362,8 +1382,8 @@
   </Account>
   <Account>
     <AccountID>2704</AccountID>
-    <Description ISOLanguageCode="NOB">Utgående merverdiavgift ved kjøp av tjenester fra utlandet</Description>
-    <Description ISOLanguageCode="ENG">Output VAT, purchases of services from abroad</Description>
+    <Description ISOLanguageCode="NOB">Utgående merverdiavgift ved kjøp av tjenester fra utlandet, høy sats</Description>
+    <Description ISOLanguageCode="ENG">Output VAT, purchases of services from abroad, high rate</Description>
   </Account>
   <Account>
     <AccountID>2705</AccountID>
@@ -1407,8 +1427,8 @@
   </Account>
   <Account>
     <AccountID>2714</AccountID>
-    <Description ISOLanguageCode="NOB">Inngående merverdiavgift ved kjøp tjenester fra utlandet</Description>
-    <Description ISOLanguageCode="ENG">Input VAT, purchases of services from abroad</Description>
+    <Description ISOLanguageCode="NOB">Inngående merverdiavgift ved kjøp tjenester fra utlandet, høy sats</Description>
+    <Description ISOLanguageCode="ENG">Input VAT, purchases of services from abroad, high rate</Description>
   </Account>
   <Account>
     <AccountID>2715</AccountID>
@@ -1634,6 +1654,11 @@
     <AccountID>3030</AccountID>
     <Description ISOLanguageCode="NOB">Salgsinntekt handelsvarer, avgiftspliktig, middels sats</Description>
     <Description ISOLanguageCode="ENG">Sales revenue, merchandise, subject to VAT, middle rate</Description>
+  </Account>
+  <Account>
+    <AccountID>3035</AccountID>
+    <Description ISOLanguageCode="NOB">Salgsinntekt råfisk og andre marine viltlevende ressurser, avgiftspliktig, middels sats</Description>
+    <Description ISOLanguageCode="ENG">Sales revenue,raw fish and other marine wild resources ,subject to VAT, middle rate</Description>
   </Account>
   <Account>
     <AccountID>3039</AccountID>
@@ -2261,6 +2286,11 @@
     <Description ISOLanguageCode="ENG">Foreign purchase of goods for resale, not subject for VAT</Description>
   </Account>
   <Account>
+    <AccountID>4350</AccountID>
+    <Description ISOLanguageCode="NOB">Svinn og tap</Description>
+    <Description ISOLanguageCode="ENG">Losses</Description>
+  </Account>
+  <Account>
     <AccountID>4360</AccountID>
     <Description ISOLanguageCode="NOB">Frakt, toll og spedisjon</Description>
     <Description ISOLanguageCode="ENG">Freight, customs duty and forwarding</Description>
@@ -2654,6 +2684,11 @@
     <AccountID>6000</AccountID>
     <Description ISOLanguageCode="NOB">Avskrivning på bygninger og annen fast eiendom</Description>
     <Description ISOLanguageCode="ENG">Depreciation of buildings and other real property</Description>
+  </Account>
+  <Account>
+    <AccountID>6005</AccountID>
+    <Description ISOLanguageCode="NOB">Avskrivning på påkostninger, leid driftsmiddel</Description>
+    <Description ISOLanguageCode="ENG">Depreciation of capitalized expenses, leased assets</Description>
   </Account>
   <Account>
     <AccountID>6010</AccountID>
@@ -3211,6 +3246,11 @@
     <Description ISOLanguageCode="ENG">Cost of own shares (treasury stock)</Description>
   </Account>
   <Account>
+    <AccountID>7740</AccountID>
+    <Description ISOLanguageCode="NOB">Øresavrunding</Description>
+    <Description ISOLanguageCode="ENG">Rounding</Description>
+  </Account>
+  <Account>
     <AccountID>7750</AccountID>
     <Description ISOLanguageCode="NOB">Eiendoms- og festeavgift</Description>
     <Description ISOLanguageCode="ENG">Property tax and ground rent</Description>
@@ -3614,51 +3654,6 @@
     <AccountID>8320</AccountID>
     <Description ISOLanguageCode="NOB">Endring i utsatt skatt/skattefordel</Description>
     <Description ISOLanguageCode="ENG">Change in deferred tax/tax assets</Description>
-  </Account>
-  <Account>
-    <AccountID>8400</AccountID>
-    <Description ISOLanguageCode="NOB">Virkning av prinsippendring</Description>
-    <Description ISOLanguageCode="ENG">Effect of the change in principle</Description>
-  </Account>
-  <Account>
-    <AccountID>8410</AccountID>
-    <Description ISOLanguageCode="NOB">Korrigering av feil</Description>
-    <Description ISOLanguageCode="ENG">Correction of errors</Description>
-  </Account>
-  <Account>
-    <AccountID>8500</AccountID>
-    <Description ISOLanguageCode="NOB">Virkning av prinsippendring</Description>
-    <Description ISOLanguageCode="ENG">Effect of the change in principle</Description>
-  </Account>
-  <Account>
-    <AccountID>8510</AccountID>
-    <Description ISOLanguageCode="NOB">Korrigering av feil</Description>
-    <Description ISOLanguageCode="ENG">Correction of errors</Description>
-  </Account>
-  <Account>
-    <AccountID>8600</AccountID>
-    <Description ISOLanguageCode="NOB">Betalbar skatt, virkning av prinsippendring</Description>
-    <Description ISOLanguageCode="ENG">Tax payable, effect of change in principle</Description>
-  </Account>
-  <Account>
-    <AccountID>8602</AccountID>
-    <Description ISOLanguageCode="NOB">Betalbar skatt, korrigering av feil</Description>
-    <Description ISOLanguageCode="ENG">Tax payable, correction of error</Description>
-  </Account>
-  <Account>
-    <AccountID>8609</AccountID>
-    <Description ISOLanguageCode="NOB">Betalbar skatt, for mye/lite avsatt tidligere år</Description>
-    <Description ISOLanguageCode="ENG">Tax payable, too much/little allocated in previous year(s)</Description>
-  </Account>
-  <Account>
-    <AccountID>8620</AccountID>
-    <Description ISOLanguageCode="NOB">Endring utsatt skatt/skattefordel, virkning av prinsippendring</Description>
-    <Description ISOLanguageCode="ENG">Change in deferred tax/tax assets, effect of change in principle</Description>
-  </Account>
-  <Account>
-    <AccountID>8622</AccountID>
-    <Description ISOLanguageCode="NOB">Endring utsatt skatt/skattefordel, korrigering av feil</Description>
-    <Description ISOLanguageCode="ENG">Change in deferred tax/tax assets, correction of error.</Description>
   </Account>
   <Account>
     <AccountID>8800</AccountID>
