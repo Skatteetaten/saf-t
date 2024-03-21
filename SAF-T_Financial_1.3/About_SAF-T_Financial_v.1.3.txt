@@ -1,0 +1,46 @@
+The new SAF-T Financial schema, v.1.30, comes into force the first period with financial reporting starting 1. januar 2025 or later. Until then the use of the SAF-T schema v. 1.30 will be voluntary.
+
+Changes in the XSD Schema v 1.3 (without full back compatibility):
+•	The structure SelectionCriteria has changed from Optional to Mandatory i HeaderStructure.
+•	<TaxTable><TaxCodeDetails><StandardTaxCode> is set as Mandatory in accordance to the documentation.
+•	<MasterFiles><Account><GroupingCategory> has changed from Optional to Mandatory.
+•	<MasterFiles><Account><GroupingCode> has changed from Optional to Mandatory.
+•	Change in Customers and Suppliers structure in MasterFiles. "Account" and "Opening-/ClosingBalances" are moved to a new structure, BalanceAccountStructure:
+<BalanceAccountStructure><Account><OpeningDebitBalance>/< OpeningCreditBalance>
+< ClosingDebitBalance>/<ClosingCreditBalance>. The amount elements of the new structure are Mandatory. 
+•	Included three new, optional elements:
+<GeneralLedgerEntries><Journal><Transaction><VoucherType>
+<GeneralLedgerEntries><Journal><Transaction><VoucherDescription>
+<GeneralLedgerEntries><Journal><Transaction><ModificationDate>
+•	Changes in TaxInformationStructure:
+The element <TaxAmount> is replaced with two elements, <DebitTaxAmount> and <CreditTaxAmount>
+•	Changes in AnalysisStructure. 
+The element <AnalysisAmount> is replaced with two elements, <DebitAnalysisAmount> and <CreditAnalysisAmount>. 
+•	Changed from " SAFmiddle2textType " to " SAFlongtextType " for
+<CompanyHeaderStructure><CompanyStructure><Name>
+•	Changed from "SAFmiddle2textType" to "SAFlongtextType" for
+<CompanyStructure><Name>
+•	Changed from "SAFmiddle1textType" to "SAFlongtextType"
+<Header Structure><UserID>
+•	Changed from "SAFmiddle1textType" to "SAFlongtextType"
+<MasterFiles><Account><GroupingCategory> 
+•	Changed from " SAFmiddle1textType " to "SAFmiddle2textType" in two elements:
+<TaxTable><TaxCodeDetails><TaxCode>
+<TaxInformationStructure><TaxCode>
+•	Changed from “SAFmiddle1textType” to “SAFlongtextType” in two elements:
+<AddressStructure><City>
+<AddressStructure><Region>
+•	Changed from “SAFmiddle2textType” to “SAFlongtextType” in two elements:
+<AddressStructure><StreetName> 
+<AddressStructure><AdditionalAddressDetail> 
+•	Changed from “SAFshorttextType” to “SAFmiddle2textType”in two elements: 
+<AddressStructure><Number> 
+<AddressStructure><PostalCode>
+
+The basis for the changes is to enhance flexibility and/or according to norwegian bookkeeping regulations:
+
+•	Four elements and one structure that already are ment to be Mandatory according to the documentation, has now also changes from Optional to Mandatory in xsd-schema.
+•	Datatypes have been modified to accommodate more characters according to reported needs.
+•	Removed choice of mapping to Standard chart of accounts. The only valid mapping option now is mapping to the business statement using the elements <GroupingCategroy> and <GroupingCode>.
+•	New structure for Customers and Suppliers i Masterfiles to enhance flexibility for choosing more than one balance account.
+•	As part of approaching a more standard format, three new elements have been added to GeneralLedgerEntries; VoucherNumber, VoucherDescription and ModificationDate.
