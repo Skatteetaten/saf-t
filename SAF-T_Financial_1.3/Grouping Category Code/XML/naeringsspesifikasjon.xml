@@ -1,0 +1,2081 @@
+<?xml version="1.0" encoding="UTF-8"?><GroupingCategoryCode xsi:noNamespaceSchemaLocation="Grouping_Category_Code.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Utvikling</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Development</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1020</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Varige konsesjoner, patenter, lisenser, rettigheter med mer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Long-term concessions, patents, licenses, rights, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1070</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Utsatt skattefordel</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Deferred tax asset</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1080</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Goodwill</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Goodwill</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1101</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Aktiverte letekostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Captalized exploration costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1102</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Felt under utbygging</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Field under development</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1103</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Produksjonsinnretning og rørledning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Production facility and pipeline</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1104</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fjernings- og nedstengningseiendeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Removal and shutdown assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1105</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forretningsbygg</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Commercial estates</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1115</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Bygg, anlegg, hotell o.l.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Buildings, installations, hotels, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1117</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Elektroteknisk utrustning i kraftforetak mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Electrotechnical equipment in power enterprises, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1120</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fast teknisk installasjon i byggninger</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Fixed technical installations in buildings</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1130</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Anlegg og maskiner under bygging</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Installations and machines under construction</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1140</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Jord- og skogbrukseiendommer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Agricultural and forestry properties</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1150</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tomter og andre grunnarealer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Plots and other land areas</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1160</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Bolig inkl. boligtomter, hytter mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Housing incl. housing plots, cabins, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1180</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Investeringseiendommer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Investment properties</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1205</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Personbiler, maskiner, inventar</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Cars, machinery and fixtures and fittings</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1221</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skip, rigger mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Ships, rigs, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1225</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fly, helikopter mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Aircrafts, helicopters, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1238</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Vare- og lastebiler, busser mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Vans and trucks, buses, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1239</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Varebiler med nullutslipp</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Vans with zero emissions</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1280</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kontormaskiner o.l.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Office equipment, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1290</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre driftsmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other fixed assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1295</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Driftsmidler som avskrives lineært</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Fixed assets depreciated on a straight-line basis</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1296</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Negativ gevinst- og tapskonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Negative profit and loss account</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1298</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Negativ tømmerkonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Negative timber account</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1312</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Investeringer i datter- og konsernselskap med deltakerfastsetting</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Investments in subsidiaries and companies in a group assessed as a partnership</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1313</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Investeringer i andre datter- og konsernselskap</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Investments in other subsidiaries and companies in a group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1320</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Lån til foretak i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Loans to enterprises within the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1331</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Investeringer i tilknyttede selskap med deltakerfastsetting</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Investments in associated companies assessed as a partnership</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1332</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Investeringer i andre tilknyttede selskap</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Investments in other associated companies</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1340</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Lån til tilknyttet selskap og felles kontrollert virksomhet</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Loans to associated companies and jointly controlled enterprises</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1350</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Investeringer i aksjer, andeler og verdipapirfondsandeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Investments in shares, holdings and units in securities funds</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1360</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Obligasjoner</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Bonds</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1370</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fordringer på personlige eiere, styremedl. o.l.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Receivables from personal owners, board members, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1380</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Krav/fordringer mot ansatte</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Claims towards/receivables from employees</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1390</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre langsiktige fordringer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other non-current receivables</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1395</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Netto pensjonsmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Net pension funds</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Varelager</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Inventory</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1401</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Beholdning av egenproduserte varer for bruk i egen jordbruksvirksomhet</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Stock of self-manufactured goods for use in own agricultural activity</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1470</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Mindreuttak av petroleumsprodukter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Reduced withdrawal of petroleum products</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1490</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Biologiske eiendeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Biological assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1500</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kundefordringer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Accounts receivable</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1501</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kunderfordringer på selskap i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Trade debtors relating to companies in the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1530</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Opptjente ikke fakturerte driftsinntekter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Earned, non-invoiced operating revenues</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1560</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre fordringer på selskap i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other receivables from companies in the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1565</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kortsiktige fordringer mot personlig eier, styremedlem o.l.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Current receivables concerning personal owners/board members, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1570</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre kortsiktige krav/fordringer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other current claims/receivables</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1780</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Krav på innbetalt selskapskapital</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Claims for paid-up company capital</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1800</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Ikke-markedsbaserte aksjer og verdipapirfondsandeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Non-market based shares and units in securities funds</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1810</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Markedsbaserte aksjer og verdipapirfondsandeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Market-based shares and units in securities funds</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1830</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Markedsbaserte obligasjoner, sertifikater mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Market-based bonds, certificates, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1840</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre obligasjoner og sertifikater</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other bonds and certificates</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1880</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre finansielle instrumenter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other financial instruments</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1895</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andel i selskap med deltakerfastsetting</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Ownership interest in a business assessed as a partnership</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1900</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kontanter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Cash</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1920</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Bankinnskudd</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Bank deposits</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>balanseverdiForOmloepsmiddel</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>1950</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Bankinnskudd for skattetrekk</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Deposits on a tax deduction account</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Aksjekapital/Egenkapital andre foretak</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Share capital/Equity other enterprises</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2010</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Egne aksjer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Own shares</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2015</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Felleseid andelskapital</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Jointly owned share capital</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2020</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Overkurs</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Premium</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2030</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen innskutt egenkapital</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other contributed equity</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2041</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fond for etterbetaling</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Fund for retroactive payment</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2042</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Medlemskapitalkonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Member capital account</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2043</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fond for vurderingsforskjeller</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Fund for valuation differences</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2045</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fond for urealiserte gevinster</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Fund for unrealised gains</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2050</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Positiv egenkapital</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Positive equity</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2055</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Avsatt utbytte - IFRS</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Provisions for dividend – IFRS</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2080</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Negativ egenkapital</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Negative equity</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2095</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Negativ saldo</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Negative balance</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2096</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Positiv gevinst og tapskonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Positive profit and loss account</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2097</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Betinget avsatt gevinst</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Provisions for conditional gain</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>egenkapital</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2098</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Positiv tømmerkonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Positive timber account</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2100</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Pensjonsforpliktelser</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Pension liabilities</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2120</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Utsatt skatt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Deferred tax</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2130</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Derivater</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Derivatives</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2160</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Uopptjent inntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Unearned income</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2180</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Avsetninger for forpliktelser</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Provisions for liabilities</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2185</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Avsetninger for fjerning- og nedstengningsforpliktelser</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Provisions for removal and closure obligations</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2200</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Konvertible lån</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Convertible loans</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2210</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Obligasjonslån</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Bond loans</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2220</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Langsiktig gjeld til banker og andre kredittinstitusjoner</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Long-term debt to banks and other credit institutions</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2250</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gjeld til ansatte og personlige eiere</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Debt to employees and personal owners</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2260</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gjeld til selskap i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Debt to companies in the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2280</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Stille interessentinnskudd og ansvarlig lånekapital</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Contributions by silent partners and subordinated loan capital</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>langsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2290</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen langsiktig gjeld</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other long-term debt</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2310</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Konvertible lån</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Convertible loans</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2320</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Obligasjonslån</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Bond loans</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2330</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Derivater</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Derivatives</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2380</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kortsiktig gjeld til banker og andre kredittinstitusjoner</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Short-term debt to banks and other credit institutions</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gjeld til leverandører</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Debt to suppliers</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2460</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Leverandørgjeld til selskap i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Debts to suppliers that are companies in the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2470</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Meruttak av petroleumsprodukter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Additional withdrawal of petroleum products</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2500</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Betalbar skatt, ikke fastsatt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Payable tax, not assessed</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2510</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Betalbar skatt, fastsatt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Payable tax, assessed</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2600</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skattetrekk og andre trekk</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Deducted tax and other deductions</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2740</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Oppgjørskonto merverdiavgift</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Settlement account for VAT</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2770</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skyldig arbeidsgiveravgift</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Unpaid employers national insurance contributions</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2790</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre offentlige avgifter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other public taxes and duties</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2800</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Avsatt utbytte</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Provisions for dividend</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2900</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forskudd fra kunder</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Advances from customers</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2910</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gjeld til ansatte og personlige eiere</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Debt to employees and personal owners</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2920</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gjeld til selskap i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Debt to companies in the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2949</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skyldig lønn og feriepenger med mer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Unpaid salary and holiday pay, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2950</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skyldige gjeldsrenter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Unpaid interest on debt</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2970</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Uopptjent inntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Unearned income</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2980</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Avsetninger for forpliktelser</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Provisions for liabilities</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2990</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen kortsiktig gjeld</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other short-term debt</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgsinntekt og uttak, avgiftspliktig</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Sales revenue and withdrawals subject to VAT</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3001</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgsinntekter og uttak av olje</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Sales revenue and withdrawals of oil</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3002</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgsinntekter og uttak av tørrgass</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Sales revenue and withdrawals of dry gas</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3003</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgsinntekter og uttak av våtgass</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Sales revenue and withdrawals of wet gas</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3004</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tariffinntekt rørledning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Tariff revenue pipeline</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3005</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tariffinntekt prosessering</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Tariff revenue processing</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3006</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Timer viderefakturert</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Re-invoicing of hours</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3007</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen kostnad viderefakturert</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Re-invoicing of other costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3008</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Endring i mer-/mindreuttak av petroleumsprodukter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Change in more/less withdrawal of petroleum products</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3100</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgsinntekt og uttak, avgiftsfritt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Sales and withdrawals with zero rate VAT</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3200</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgsinntekt og uttak, utenfor merverdiavgiftsloven</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Sales and withdrawals outside the scope of the VAT Act</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>salgsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3300</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Spesielle offentlige avgifter vedrørende salg</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Excise duties on sales</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Offentlig tilskudd/refusjon</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Government subsidies and reimbursements</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3410</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kompensasjon for stort omsetningsfall på grunn av koronapandemien</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Compensation for large drops in revenue resulting from the coronavirus pandemic</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3500</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Endring uopptjent inntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Change in unearned income</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3600</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Leieinntekt fast eiendom</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Rental income from real property</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3650</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Leieinntekt av rettigheter - jakt, fiske, mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Rental income from rights to hunting, fishing, etc</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3695</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen leieinntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other rental income</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3700</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Provisjonsinntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Commission income</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3710</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Lisens-, patent- og royaltyinntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Licence, patent and royalty income</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3850</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Verdiendringer av investeringseiendommer etter IFRS</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Changes in value of investment properties according to IFRS</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3870</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Verdiendringer biologiske eiendeler etter IFRS</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Changes in value of biological assets according to IFRS</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3880</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gevinst ved avgang av immaterielle eiendeler og varige driftsmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Gain from disposal of intangible assets and fixed tangible assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3885</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gevinst ved avgang av finansielle anleggsmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Gain from disposal of financial fixed assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3886</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gevinst ved overdragelse av tillatelse til petroleumsvirksomhet</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Gain on the transfer of licences for petroleum activities</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3890</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Inntektsføring fra positiv gevinst-/tapskonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Income from profit and loss account</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3895</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Inntektsføring fra negativ saldo</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Recognition of income from a negative balance</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3900</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre driftsinntekter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other operating revenues</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>3910</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Inntektsføring fra tømmerkonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Income from a timber account</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>varekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>4001</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Letekostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Exploration costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>varekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>4002</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Utbyggingskostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Development costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>varekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>4003</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Produksjonskostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Production costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>varekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>4004</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Handling fee / Service fee / Trading fee</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Handling fee / Service fee / Trading fee</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>varekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>4005</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Varekostnader inklusiv endring i beholdningen</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Cost of goods including change in stock</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>varekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>4007</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Endring i mer-/mindreuttak av petroleumsprodukter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Change in more/less withdrawal of petroleum products</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>varekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>4008</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fjernings- og nedstengningskostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Removal and shutdown costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>varekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>4295</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Beholdningsendring av varer under tilvirkning og ferdig tilv. Varer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Change in stock of complete and incomplete self-manufactured goods</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>varekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>4500</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Innleid arbeidskraft</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Hired labour</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>varekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>4995</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Beholdningsendring av egentilvirkede anleggsmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Change in stock of self-manufactured fixed assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>loennskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>5000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Lønn, feriepenger mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Salary and holiday pay, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>loennskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>5300</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen opplysningspliktig godtgjørelse</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other remunerations carrying a reporting obligation</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>loennskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>5400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Arbeidsgiveravgift</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Employer’s national insurance contributions</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>loennskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>5420</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Opplysningspliktig pensjonskostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Pension costs subject to a reporting obligation</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>loennskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>5600</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Arbeidsgodtgjørelse til eiere i ANS mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Remuneration for work performed by owners in a partnership (ANS etc.)</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>loennskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>5900</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen personalkostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other personnel costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>loennskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>5950</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Egen pensjonsordning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Own pension scheme</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Avskrivning på varige driftsmidler og immaterielle eiendeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Depreciation of fixed assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6001</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Avskrivning på produksjonsinnretning  og rørledning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Depreciation of production equipment and pipeline</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6002</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Avskrivning på fjernings- og nedstengningseiendeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Depreciation of fixed assets removal and shutdown assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6004</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen avskrivning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other depreciation</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6050</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Nedskrivning på varige driftsmidler og immaterielle eiendeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Write-downs of tangible fixed assets and intangible assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6051</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Nedskrivning på produksjonsinnretning og rørledning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Write-downs of production equipment and pipeline</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6052</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Nedskrivning på aktiverte letekostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Write-downs of captalized exploration costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6053</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Nedskrivning på anlegg under utførelse</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Write-downs of plant under construction</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6054</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen nedskrivning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other write-downs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6100</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Frakt og transportkostnad vedrørende salg</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Shipping and transport costs related to sales</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6110</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Frakt og transportkostnad vedrørende salg av olje</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Shipping and transport costs related to oil</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6120</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Frakt og transportkostnad vedrørende salg av tørrgass</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Shipping and transport costs related to dry gas</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6130</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Frakt og transportkostnad vedrørende salg av LNG</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Shipping and transport costs related to LNG</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6140</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Frakt og transportkostnad vedrørende salg av våtgass</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Shipping and transport costs related to wet gas</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6200</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Energi, brensel mv. vedrørende produksjon</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Power and fuel, etc. for manufacture</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6300</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Leie lokale</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Rent, premises</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6340</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Lys, varme</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Lighting and heating</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6350</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Strøm og oppvarming</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Electricity and heating</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6395</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Renovasjon, vann, avløp, renhold mv.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Waste disposal, water, sewage, cleaning etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Leie maskiner, inventar og utstyr o.l.</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Rental of machines, fixtures and fittings, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6440</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Langtidsleie/leasing av bil</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Long-term rental/leasing of vehicle</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6500</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Verktøy, inventar med mer som skal kostnadsføres direkte</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Tools, fixtures and fittings etc. for direct expense deduction</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6600</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Reparasjon og vedlikehold av bygning</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Building repairs and maintenance</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6695</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Reparasjoner og vedlikehold av utstyr med mer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Repairs and maintenance of equipment, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6700</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Regnskapstjenester, rådgivning med mer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Accountancy and consultancy services, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6750</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Konserntjenester</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Group company services</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6751</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kostnadsreduksjon timer viderefakturert</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Cost reduction hours re-invoiced</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6752</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kostnadsreduksjon annen kostnad viderefakturert</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Cost reduction other costs re-invoiced</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6995</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kontorrekvisita, elektronisk kommunikasjon, porto med mer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Office equipment, electronic communication, postage, etc.</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>6998</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Privat bruk av elektronisk kommunikasjon</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Private use of electronic communication</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7000</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Drivstoff transportmiddel</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Fuel, means of transport</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7020</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Vedlikehold transportmiddel</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Maintenance, means of transport</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7040</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forsikring og avgifter transportmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Insurance and taxes, means of transport</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7080</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fradrag for bruk av privat bil i næringsvirksomheten</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Deductions for the use of a private vehicle in the business activity</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7099</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Privat bruk av næringsbil</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Private use of a commercial vehicle</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7155</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Reise-, diett- og bilgodtgjørelse, opplysningspliktig</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Travel, subsistence and car allowances carrying a reporting obligation</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7165</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Reise- og diettkostnader, ikke opplysningspliktig</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Travel and subsistence expenses, not subject to a reporting obligation</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7295</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Provisjonskostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Commission costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7330</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Salgs- og reklamekostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Marketing costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7350</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Representasjonskostnader, fradragsberettiget</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Deductible business entertainment costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7370</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Representasjonskostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Business entertainment costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7400</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kontingenter, fradragsberettiget</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Deductible membership fees</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7420</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gaver, fradragsberettiget</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Deductible costs for gifts</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7440</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gaver</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Gifts</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7490</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kontingenter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Membership fees</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7500</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forsikringspremie</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Insurance premiums</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7501</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Driftsforsikring</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Operational insurance</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7502</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Utbyggingsforsikring</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Development insurance</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7503</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen forsikring</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other insurance</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7565</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Garanti- og servicekostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Warranty and servicing costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7600</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Lisens, patent og royaltykostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">License, patent and royalty costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7650</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Forskning og utviklingskostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Research and development cost</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7651</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tilskudd til vitenskapelig forskning mv jf sktl § 6-42</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Grants for scientific research, etc. cf. Tax Act § 6-42</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7700</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen kostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7701</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Co2-avgift</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">CO2 tax</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7830</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tap på fordringer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Losses on receivables</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7860</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tap på kontrakter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Losses on contracts</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7880</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tap ved avgang av immaterielle eiendeler og varige driftsmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Losses on the disposal of intangible assets and fixed tangible assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7885</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tap ved avgang av finansielle anleggsmidler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Losses on the disposal of financial fixed assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7886</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tap ved overdragelse av tillatelse til petroleumsvirksomhet</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Loss on the transfer of licenses for petroleum activities</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7890</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Fradragsføring av negativ gevinst- og tapskonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Deductions from profit and loss accounts</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7897</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Endring i skattemessig tap på fordringer</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Change in tax losses on receivables</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7910</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Overført til tømmerkonto av årets overskudd/underskudd</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Transferred to timber account from this year’s profit and loss</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>annenDriftskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>7911</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kostnadsføring tømmerkonto</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Expense recognition timber account</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8005</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Netto positiv resultatandel vedrørende investering i DS, TS og FKV</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Net positive share in profits regarding investments in subsidiaries, associated companies and jointly controlled enterprises</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8030</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Renteinntekt fra foretak i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Interest income from enterprises in the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8050</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen renteinntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other interest income</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8054</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Garantiinntekter fra foretak i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Guarantee income from enterprises in the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8059</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Garantiinntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Guarantee income</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8060</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gevinst ved kursendring på valuta (agio)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Gains on fluctuations of currency exchange rates</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8074</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Gevinst ved realisasjon av aksjer, egenkapitalbevis og fondsandeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Profits made on the sale of shares, equity certificates and units in funds</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8075</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Finansinntekt fra foretak i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Financial income from enterprises in the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8079</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen finansinntekt</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other financial income</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8080</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Verdiøkning av finansielle instrumenter vurdert til virkelig verdi</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Increase in value of financial instruments carried at fair value</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8090</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Inntekt av andre investeringer/utbytte</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Income from other investments/dividends</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finansinntekt</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8091</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">3 % av netto skattefrie inntekter etter fritaksmetoden og 3 % av utdeling fra selskap med deltakerfastsetting til selskapsdeltaker</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">3% of net tax-free income in accordance with the exemption method and 3% of dividends to a partner from businesses assessed as partnerships</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8100</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Verdireduksjon av finansielle instrumenter vurdert til virkelig verdi</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Reduction in value of financial instruments carried at fair value</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8105</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Netto negativ resultatandel vedrørende investering i DS, TS og FKV</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Net negative share in profits regarding investments in subsidiaries, associated companies and jointly controlled enterprises</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8115</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Nedskriving av finansielle eiendeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Write-down of financial assets</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8120</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Kalkulatorisk rente, fjernings- og nedstengningsforpliktelse</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Calculated interest, removal and shutdown obligation</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8130</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Rentekostnad til foretak i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Interest paid to group companies</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8150</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen rentekostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other interest expenses</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8154</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Garantikostnad til foretak i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Guarantee costs for companies in the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8159</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen garantikostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other guarantee costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8160</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tap ved kursendring på valuta (disagio)</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Losses from currency fluctuations</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8174</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Tap ved realisasjon av aksjer, egenkapitalbevis og fondsandeler</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Losses on the sale of shares, equity certificates and units in funds</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8175</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Finanskostnader til foretak i samme konsern</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Financial expenses for companies in the same group</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>finanskostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8179</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Annen finanskostnad</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other financial costs</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>skattekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8300</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Betalbar skatt på ordinært resultat</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Tax payable on the profit/loss on ordinary activities</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>skattekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8321</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Økning i utsatt skatt/nedgang i utsatt skattefordel på ordinært resultat</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Increase in deferred tax/decrease in deferred tax asset on the profit/loss on ordinary activities</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>skattekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<GroupingCode>8322</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Nedgang i utsatt skatt/økning i utsatt skattefordel på ordinært resultat</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Decrease in deferred tax/increase in deferred tax asset on the profit/loss on ordinary activities</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>skattekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8323</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">For lite avsatt skatt fra forrige år</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Under-allocated tax from last year</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>skattekostnad</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8324</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">For mye avsatt skatt fra forrige år</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Over-allocated tax from last year</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8901.1</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Endring i verdireguleringsreserve</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Change in revaluation surplus</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8901.2</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Aktuariell gevinst og tap på ytelsesplaner</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Actuarial profit and loss on benefit schemes</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8901.3</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Andre inntekter og kostnader knyttet til foretak</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Other income and expenses from associated enterprises</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8901.4</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Netto gevinst og tap på egenkapitalinstrumenter</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Net profit and loss on equity instruments</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8901.5</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Endring i virkelig verdi som skyldes egen kredittrisiko</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Change in fair value due to own credit risk</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8902.1</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Omregningsdifferanser valuta</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Conversion differences currency</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8902.2</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Endring i virkelig verdi av sikringsinstrumentet ved kontantstrømsikring</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Change in fair value of hedging instrument upon cash flow hedging</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8902.3</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Netto gevinst og tap på finansielle eiendeler målt til virkelig verdi</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Net profit and loss on financial assets measured at fair value</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8902.4</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Netto endring i kostnader ved sikring</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Net change in expenses upon hedging</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8909.1</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skatt relatert til poster som ikke skal reklassifiseres</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Tax related to items that will not be reclassified</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8909.2</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Skatt relatert til poster som kan bli reklassifisert</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Tax related to items that may be reclassified</CodeDescription>
+	</Account>
+</GroupingCategoryCode>
