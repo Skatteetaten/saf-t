@@ -1,0 +1,528 @@
+﻿GroupingCategory;CategoryDescriptionNOB;CategoryDescriptionENG;GroupingCode;CodeDescriptionNOB;CodeDescriptionENG
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1000;Utvikling;Development
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1020;Varige konsesjoner, patenter, lisenser, rettigheter med mer;Long-term concessions, patents, licenses, rights, etc.
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1070;Utsatt skattefordel;Deferred tax asset
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1080;Goodwill;Goodwill
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1101;Aktiverte letekostnader;Captalized exploration costs
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1102;Felt under utbygging;Fields under development
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1103;Produksjonsinnretning og rørledning;Production facility and pipeline
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1104;Fjernings- og nedstengningseiendeler;Removal and shutdown assets
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1105;Forretningsbygg;Commercial estates
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1115;Bygg, anlegg, hotell o.l.;Buildings, installations, hotels, etc.
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1117;Elektroteknisk utrustning i kraftforetak mv.;Electrotechnical equipment in power enterprises, etc.
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1120;Fast teknisk installasjon i byggninger;Fixed technical installations in buildings
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1130;Anlegg og maskiner under bygging;Installations and machines under construction
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1140;Jord- og skogbrukseiendommer;Agricultural and forestry properties
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1150;Tomter og andre grunnarealer;Plots and other land areas
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1160;Bolig inkl. boligtomter, hytter mv.;Housing incl. housing plots, cabins, etc.
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1180;Investeringseiendommer;Investment properties
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1205;Personbiler, maskiner, inventar;Cars, machinery and fixtures and fittings
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1221;Skip, rigger mv.;Ships, rigs, etc.
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1225;Fly, helikopter mv.;Aircrafts, helicopters, etc.
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1238;Vare- og lastebiler, busser mv.;Vans and trucks, buses, etc.
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1239;Varebiler med nullutslipp;Vans with zero emissions
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1280;Kontormaskiner o.l.;Office equipment, etc.
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1290;Andre driftsmidler;Other fixed assets
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1295;Driftsmidler som avskrives lineært;Fixed assets depreciated on a straight-line basis
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1296;Negativ gevinst- og tapskonto;Negative profit and loss account
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1298;Negativ tømmerkonto;Negative timber account
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1312;Investeringer i datter- og konsernselskap med deltakerfastsetting;Investments in subsidiaries and companies in a group assessed as a partnership
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1313;Investeringer i andre datter- og konsernselskap;Investments in other subsidiaries and companies in a group
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1320;Lån til foretak i samme konsern;Loans to enterprises within the same group
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1331;Investeringer i tilknyttede selskap med deltakerfastsetting;Investments in associated companies assessed as a partnership
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1332;Investeringer i andre tilknyttede selskap;Investments in other associated companies
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1340;Lån til tilknyttet selskap og felles kontrollert virksomhet;Loans to associated companies and jointly controlled enterprises
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1350;Investeringer i aksjer, andeler og verdipapirfondsandeler;Investments in shares, holdings and units in securities funds
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1360;Obligasjoner;Bonds
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1370;Fordringer på personlige eiere, styremedl. o.l.;Receivables from personal owners, board members, etc.
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1380;Krav/fordringer mot ansatte;Claims towards/receivables from employees
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1390;Andre langsiktige fordringer;Other non-current receivables
+balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1395;Netto pensjonsmidler;Net pension funds
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1400;Varelager;Inventory
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1401;Beholdning av egenproduserte varer for bruk i egen jordbruksvirksomhet;Stock of self-manufactured goods for use in own agricultural activity
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1470;Mindreuttak av petroleumsprodukter;Reduced withdrawal of petroleum products
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1490;Biologiske eiendeler;Biological assets
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1500;Kundefordringer;Accounts receivable
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1501;Kunderfordringer på selskap i samme konsern;Trade debtors relating to companies in the same group
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1530;Opptjente ikke fakturerte driftsinntekter;Earned, non-invoiced operating revenues
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1560;Andre fordringer på selskap i samme konsern;Other receivables from companies in the same group
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1565;Kortsiktige fordringer mot personlig eier, styremedlem o.l.;Current receivables concerning personal owners/board members, etc.
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1570;Andre kortsiktige krav/fordringer;Other current claims/receivables
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1780;Krav på innbetalt selskapskapital;Claims for paid-up company capital
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1800;Ikke-markedsbaserte aksjer og verdipapirfondsandeler;Non-market based shares and units in securities funds
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1810;Markedsbaserte aksjer og verdipapirfondsandeler;Market-based shares and units in securities funds
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1830;Markedsbaserte obligasjoner, sertifikater mv.;Market-based bonds, certificates, etc.
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1840;Andre obligasjoner og sertifikater;Other bonds and certificates
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1880;Andre finansielle instrumenter;Other financial instruments
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1895;Andel i selskap med deltakerfastsetting;Ownership interest in a business assessed as a partnership
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1900;Kontanter;Cash
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1920;Bankinnskudd;Bank deposits
+balanseverdiForOmloepsmiddel;Næringsspesifikasjon;Income Statement;1950;Bankinnskudd for skattetrekk;Deposits on a tax deduction account
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2100;Pensjonsforpliktelser;Pension liabilities
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2120;Utsatt skatt;Deferred tax
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2130;Derivater;Derivatives
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2160;Uopptjent inntekt;Unearned income
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2180;Avsetninger for forpliktelser;Provisions for liabilities
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2185;Avsetninger for fjerning- og nedstengningsforpliktelser;Provisions for removal and closure obligations
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2200;Konvertible lån;Convertible loans
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2210;Obligasjonslån;Bond loans
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2220;Langsiktig gjeld til banker og andre kredittinstitusjoner;Long-term debt to banks and other credit institutions
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2250;Gjeld til ansatte og personlige eiere;Debt to employees and personal owners
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2260;Gjeld til selskap i samme konsern;Debt to companies in the same group
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2280;Stille interessentinnskudd og ansvarlig lånekapital;Contributions by silent partners and subordinated loan capital
+langsiktigGjeld;Næringsspesifikasjon;Income Statement;2290;Annen langsiktig gjeld;Other long-term debt
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2310;Konvertible lån;Convertible loans
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2320;Obligasjonslån;Bond loans
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2330;Derivater;Derivatives
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2380;Kortsiktig gjeld til banker og andre kredittinstitusjoner;Short-term debt to banks and other credit institutions
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2400;Gjeld til leverandører;Debt to suppliers
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2460;Leverandørgjeld til selskap i samme konsern;Debts to suppliers that are companies in the same group
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2470;Meruttak av petroleumsprodukter;Additional withdrawal of petroleum products
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2500;Betalbar skatt, ikke fastsatt;Payable tax, not assessed
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2510;Betalbar skatt, fastsatt;Payable tax, assessed
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2600;Skattetrekk og andre trekk;Deducted tax and other deductions
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2740;Oppgjørskonto merverdiavgift;Settlement account for VAT
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2770;Skyldig arbeidsgiveravgift;Unpaid employers national insurance contributions
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2790;Andre offentlige avgifter;Other public taxes and duties
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2800;Avsatt utbytte;Provisions for dividend
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2900;Forskudd fra kunder;Advances from customers
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2910;Gjeld til ansatte og personlige eiere;Debt to employees and personal owners
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2920;Gjeld til selskap i samme konsern;Debt to companies in the same group
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2949;Skyldig lønn og feriepenger med mer;Unpaid salary and holiday pay, etc.
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2950;Skyldige gjeldsrenter;Unpaid interest on debt
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2970;Uopptjent inntekt;Unearned income
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2980;Avsetninger for forpliktelser;Provisions for liabilities
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2990;Annen kortsiktig gjeld;Other short-term debt
+egenkapital;Næringsspesifikasjon;Income Statement;2000;Aksjekapital/Egenkapital andre foretak;Share capital/Equity other enterprises
+egenkapital;Næringsspesifikasjon;Income Statement;2010;Egne aksjer;Own shares
+egenkapital;Næringsspesifikasjon;Income Statement;2015;Felleseid andelskapital;Jointly owned share capital
+egenkapital;Næringsspesifikasjon;Income Statement;2020;Overkurs;Premium
+egenkapital;Næringsspesifikasjon;Income Statement;2030;Annen innskutt egenkapital;Other contributed equity
+egenkapital;Næringsspesifikasjon;Income Statement;2041;Fond for etterbetaling;Fund for retroactive payment
+egenkapital;Næringsspesifikasjon;Income Statement;2042;Medlemskapitalkonto;Member capital account
+egenkapital;Næringsspesifikasjon;Income Statement;2043;Fond for vurderingsforskjeller;Fund for valuation differences
+egenkapital;Næringsspesifikasjon;Income Statement;2045;Fond for urealiserte gevinster;Fund for unrealised gains
+egenkapital;Næringsspesifikasjon;Income Statement;2050;Positiv egenkapital;Positive equity
+egenkapital;Næringsspesifikasjon;Income Statement;2055;Avsatt utbytte - IFRS;Provisions for dividend – IFRS
+egenkapital;Næringsspesifikasjon;Income Statement;2080;Negativ egenkapital;Negative equity
+egenkapital;Næringsspesifikasjon;Income Statement;2095;Negativ saldo;Negative balance
+egenkapital;Næringsspesifikasjon;Income Statement;2096;Positiv gevinst og tapskonto;Positive profit and loss account
+egenkapital;Næringsspesifikasjon;Income Statement;2097;Betinget avsatt gevinst;Provisions for conditional gain
+egenkapital;Næringsspesifikasjon;Income Statement;2098;Positiv tømmerkonto;Positive timber account
+egenkapital;Næringsspesifikasjon;Income Statement;9.21.11;Selskapskapital - Aksjekapital/eierandelskapital;Company capital – Share capital/equity capital
+egenkapital;Næringsspesifikasjon;Income Statement;9.21.12;Selskapskapital - Egne aksjer og egenkapitalbevis;Company capital – Own shares and equity certificates
+egenkapital;Næringsspesifikasjon;Income Statement;9.21.30;Selskapskapital - overkurs;Company capital – premium
+egenkapital;Næringsspesifikasjon;Income Statement;9.21.40;Selskapskapital - utjevningsfond;Company capital – equalisation reserves
+egenkapital;Næringsspesifikasjon;Income Statement;9.23.00;Grunnfondskapital;Primary capital
+egenkapital;Næringsspesifikasjon;Income Statement;9.23.20;Sparebankens/foreningens fond;Savings bank funds/associations reserves
+egenkapital;Næringsspesifikasjon;Income Statement;9.23.30;Kompensasjonsfond;Compensation fund
+egenkapital;Næringsspesifikasjon;Income Statement;9.23.40;Gavefond;Donations fund
+egenkapital;Næringsspesifikasjon;Income Statement;9.25.00;Fondsobligasjonskapital, netto;Fund bond capital
+egenkapital;Næringsspesifikasjon;Income Statement;9.26.00;Annen innskutt egenkapital;Other contributed equity
+egenkapital;Næringsspesifikasjon;Income Statement;9.28.31;Annen egenkapital - Fond for urealiserte gevinster;Other equity – Fund for unrealised gains
+egenkapital;Næringsspesifikasjon;Income Statement;9.28.33;Annen egenkapital - Fond for vurderingsforskjeller;Other equity – Fund for valuation differences
+egenkapital;Næringsspesifikasjon;Income Statement;9.28.60;Annen egenkapital - Risikoutjevningsfond;Other equity – Risk equalisation reserve
+egenkapital;Næringsspesifikasjon;Income Statement;9.28.76;Annen egenkapital - Avsetning til naturskadekapital;Other equity – Provisions for natural damage capital
+egenkapital;Næringsspesifikasjon;Income Statement;9.28.77;Annen egenkapital - Avsetning til garantiordningen;Other equity – Provisions for the non-life Insurance Guarantee Scheme
+egenkapital;Næringsspesifikasjon;Income Statement;9.28.90;Annen egenkapital - Øvrig;Other equity – Other
+egenkapital;Næringsspesifikasjon;Income Statement;9.28.99;Annen egenkapital - Ikke disponert resultat (netto) - kun kvartal;Other equity - Non-disposed result (net) – quarter only
+salgsinntekt;Næringsspesifikasjon;Income Statement;3000;Salgsinntekt og uttak, avgiftspliktig;Sales revenue and withdrawals subject to VAT
+salgsinntekt;Næringsspesifikasjon;Income Statement;3001;Salgsinntekter og uttak av olje;Sales revenue and withdrawals of oil
+salgsinntekt;Næringsspesifikasjon;Income Statement;3002;Salgsinntekter og uttak av tørrgass;Sales revenue and withdrawals of dry gas
+salgsinntekt;Næringsspesifikasjon;Income Statement;3003;Salgsinntekter og uttak av våtgass;Sales revenue and withdrawals of wet gas
+salgsinntekt;Næringsspesifikasjon;Income Statement;3004;Tariffinntekt rørledning;Tariff revenue pipeline
+salgsinntekt;Næringsspesifikasjon;Income Statement;3005;Tariffinntekt prosessering;Tariff revenue processing
+salgsinntekt;Næringsspesifikasjon;Income Statement;3006;Timer viderefakturert;Re-invoicing of hours
+salgsinntekt;Næringsspesifikasjon;Income Statement;3007;Annen kostnad viderefakturert;Re-invoicing of other costs
+salgsinntekt;Næringsspesifikasjon;Income Statement;3008;Endring i mer-/mindreuttak av petroleumsprodukter;Change in more/less withdrawal of petroleum products
+salgsinntekt;Næringsspesifikasjon;Income Statement;3100;Salgsinntekt og uttak, avgiftsfritt;Sales and withdrawals with zero rate VAT
+salgsinntekt;Næringsspesifikasjon;Income Statement;3200;Salgsinntekt og uttak, utenfor merverdiavgiftsloven;Sales and withdrawals outside the scope of the VAT Act
+salgsinntekt;Næringsspesifikasjon;Income Statement;3300;Spesielle offentlige avgifter vedrørende salg;Excise duties on sales
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3400;Offentlig tilskudd/refusjon;Government subsidies and reimbursements
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3410;Kompensasjon for stort omsetningsfall på grunn av koronapandemien;Compensation for large drops in revenue resulting from the coronavirus pandemic
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3500;Endring uopptjent inntekt;Change in unearned income
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3600;Leieinntekt fast eiendom;Rental income from real property
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3650;Leieinntekt av rettigheter - jakt, fiske, mv.;Rental income from rights to hunting, fishing, etc
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3695;Annen leieinntekt;Other rental income
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3700;Provisjonsinntekt;Commission income
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3710;Lisens-, patent- og royaltyinntekt;Licence, patent and royalty income
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3850;Verdiendringer av investeringseiendommer etter IFRS;Changes in value of investment properties according to IFRS
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3870;Verdiendringer biologiske eiendeler etter IFRS;Changes in value of biological assets according to IFRS
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3880;Gevinst ved avgang av immaterielle eiendeler og varige driftsmidler;Gain from disposal of intangible assets and fixed tangible assets
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3885;Gevinst ved avgang av finansielle anleggsmidler;Gain from disposal of financial fixed assets
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3886;Gevinst ved overdragelse av tillatelse til petroleumsvirksomhet;Gain on the transfer of licences for petroleum activities
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3890;Inntektsføring fra positiv gevinst-/tapskonto;Income from profit and loss account
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3895;Inntektsføring fra negativ saldo;Recognition of income from a negative balance
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3900;Andre driftsinntekter;Other operating revenues
+annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3910;Inntektsføring fra tømmerkonto;Income from a timber account
+varekostnad;Næringsspesifikasjon;Income Statement;4001;Letekostnader;Exploration costs
+varekostnad;Næringsspesifikasjon;Income Statement;4002;Utbyggingskostnader;Development costs
+varekostnad;Næringsspesifikasjon;Income Statement;4003;Produksjonskostnader;Production costs
+varekostnad;Næringsspesifikasjon;Income Statement;4004;Handling fee / Service fee / Trading fee;Handling fee / Service fee / Trading fee
+varekostnad;Næringsspesifikasjon;Income Statement;4005;Varekostnader inklusiv endring i beholdningen;Cost of goods including change in stock
+varekostnad;Næringsspesifikasjon;Income Statement;4007;Endring i mer-/mindreuttak av petroleumsprodukter;Change in more/less withdrawal of petroleum products
+varekostnad;Næringsspesifikasjon;Income Statement;4008;Fjernings- og nedstengningskostnader;Removal and shutdown costs
+varekostnad;Næringsspesifikasjon;Income Statement;4295;Beholdningsendring av varer under tilvirkning og ferdig tilv. Varer;Change in stock of complete and incomplete self-manufactured goods
+varekostnad;Næringsspesifikasjon;Income Statement;4500;Innleid arbeidskraft;Hired labour
+varekostnad;Næringsspesifikasjon;Income Statement;4995;Beholdningsendring av egentilvirkede anleggsmidler;Change in stock of self-manufactured fixed assets
+loennskostnad;Næringsspesifikasjon;Income Statement;5000;Lønn, feriepenger mv.;Salary and holiday pay, etc.
+loennskostnad;Næringsspesifikasjon;Income Statement;5300;Annen opplysningspliktig godtgjørelse;Other remunerations carrying a reporting obligation
+loennskostnad;Næringsspesifikasjon;Income Statement;5400;Arbeidsgiveravgift;Employer’s national insurance contributions
+loennskostnad;Næringsspesifikasjon;Income Statement;5420;Opplysningspliktig pensjonskostnad;Pension costs subject to a reporting obligation
+loennskostnad;Næringsspesifikasjon;Income Statement;5600;Arbeidsgodtgjørelse til eiere i ANS mv.;Remuneration for work performed by owners in a partnership (ANS etc.)
+loennskostnad;Næringsspesifikasjon;Income Statement;5900;Annen personalkostnad;Other personnel costs
+loennskostnad;Næringsspesifikasjon;Income Statement;5950;Egen pensjonsordning;Own pension scheme
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6000;Avskrivning på varige driftsmidler og immaterielle eiendeler;Depreciation of fixed assets
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6001;Avskrivning på produksjonsinnretning  og rørledning;Depreciation of production installations and pipelines
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6002;Avskrivning på fjernings- og nedstengningseiendeler;Depreciation of removal and shut-down assets
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6004;Annen avskrivning;Other depreciation
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6050;Nedskrivning på varige driftsmidler og immaterielle eiendeler;Write-downs of tangible fixed assets and intangible assets
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6051;Nedskrivning på produksjonsinnretning og rørledning;Write-downs of production equipment and pipeline
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6052;Nedskrivning på aktiverte letekostnader;Write-downs of captalized exploration costs
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6053;Nedskrivning på anlegg under utførelse;Write-downs of plant under construction
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6054;Annen nedskrivning;Other write-downs
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6100;Frakt og transportkostnad vedrørende salg;Shipping and transport costs related to sales
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6110;Frakt og transportkostnad vedrørende salg av olje;Shipping and transport costs related to oil
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6120;Frakt og transportkostnad vedrørende salg av tørrgass;Shipping and transport costs related to dry gas
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6130;Frakt og transportkostnad vedrørende salg av LNG;Shipping and transport costs related to LNG
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6140;Frakt og transportkostnad vedrørende salg av våtgass;Shipping and transport costs related to wet gas
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6200;Energi, brensel mv. vedrørende produksjon;Power and fuel, etc. for manufacture
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6300;Leie lokale;Rent, premises
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6340;Lys, varme;Lighting and heating
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6350;Strøm og oppvarming;Electricity and heating
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6395;Renovasjon, vann, avløp, renhold mv.;Waste disposal, water, sewage, cleaning etc.
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6400;Leie maskiner, inventar og utstyr o.l.;Rental of machines, fixtures and fittings, etc.
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6440;Langtidsleie/leasing av bil;Long-term rental/leasing of vehicle
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6500;Verktøy, inventar med mer som skal kostnadsføres direkte;Tools, fixtures and fittings etc. for direct expense deduction
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6600;Reparasjon og vedlikehold av bygning;Building repairs and maintenance
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6695;Reparasjoner og vedlikehold av utstyr med mer;Repairs and maintenance of equipment, etc.
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6700;Regnskapstjenester, rådgivning med mer;Accountancy and consultancy services, etc.
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6750;Konserntjenester;Group company services
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6751;Kostnadsreduksjon timer viderefakturert;Cost reduction hours re-invoiced
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6752;Kostnadsreduksjon annen kostnad viderefakturert;Cost reduction other costs re-invoiced
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6995;Kontorrekvisita, elektronisk kommunikasjon, porto med mer;Office equipment, electronic communication, postage, etc.
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;6998;Privat bruk av elektronisk kommunikasjon;Private use of electronic communication
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7000;Drivstoff transportmiddel;Fuel, means of transport
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7020;Vedlikehold transportmiddel;Maintenance, means of transport
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7040;Forsikring og avgifter transportmidler;Insurance and taxes, means of transport
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7080;Fradrag for bruk av privat bil i næringsvirksomheten;Deductions for the use of a private vehicle in the business activity
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7099;Privat bruk av næringsbil;Private use of a commercial vehicle
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7155;Reise-, diett- og bilgodtgjørelse, opplysningspliktig;Travel, subsistence and car allowances carrying a reporting obligation
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7165;Reise- og diettkostnader, ikke opplysningspliktig;Travel and subsistence expenses, not subject to a reporting obligation
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7295;Provisjonskostnad;Commission costs
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7330;Salgs- og reklamekostnader;Marketing costs
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7350;Representasjonskostnader, fradragsberettiget;Deductible business entertainment costs
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7370;Representasjonskostnader;Business entertainment costs
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7400;Kontingenter, fradragsberettiget;Deductible membership fees
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7420;Gaver, fradragsberettiget;Deductible costs for gifts
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7440;Gaver;Gifts
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7490;Kontingenter;Membership fees
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7500;Forsikringspremie;Insurance premiums
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7501;Driftsforsikring;Operational insurance
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7502;Utbyggingsforsikring;Development insurance
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7503;Annen forsikring;Other insurance
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7565;Garanti- og servicekostnad;Warranty and servicing costs
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7600;Lisens, patent og royaltykostnad;License, patent and royalty costs
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7650;Forskning og utviklingskostnad;Research and development cost
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7651;Tilskudd til vitenskapelig forskning mv jf sktl § 6-42;Grants for scientific research, etc. cf. Tax Act § 6-42
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7700;Annen kostnad;Other costs
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7701;Co2-avgift;CO2 tax
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7830;Tap på fordringer;Losses on receivables
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7860;Tap på kontrakter;Losses on contracts
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7880;Tap ved avgang av immaterielle eiendeler og varige driftsmidler;Losses on the disposal of intangible assets and fixed tangible assets
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7885;Tap ved avgang av finansielle anleggsmidler;Losses on the disposal of financial fixed assets
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7886;Tap ved overdragelse av tillatelse til petroleumsvirksomhet;Loss on the transfer of licenses for petroleum activities
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7890;Fradragsføring av negativ gevinst- og tapskonto;Deductions from profit and loss accounts
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7897;Endring i skattemessig tap på fordringer;Change in tax losses on receivables
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7910;Overført til tømmerkonto av årets overskudd/underskudd;Transferred to timber account from this year’s profit and loss
+annenDriftskostnad;Næringsspesifikasjon;Income Statement;7911;Kostnadsføring tømmerkonto;Expense recognition timber account
+finansinntekt;Næringsspesifikasjon;Income Statement;8005;Netto positiv resultatandel vedrørende investering i DS, TS og FKV;Net positive share in profits regarding investments in subsidiaries, associated companies and jointly controlled enterprises
+finansinntekt;Næringsspesifikasjon;Income Statement;8030;Renteinntekt fra foretak i samme konsern;Interest income from enterprises in the same group
+finansinntekt;Næringsspesifikasjon;Income Statement;8050;Annen renteinntekt;Other interest income
+finansinntekt;Næringsspesifikasjon;Income Statement;8054;Garantiinntekter fra foretak i samme konsern;Guarantee income from enterprises in the same group
+finansinntekt;Næringsspesifikasjon;Income Statement;8059;Garantiinntekt;Guarantee income
+finansinntekt;Næringsspesifikasjon;Income Statement;8060;Gevinst ved kursendring på valuta (agio);Gains on fluctuations of currency exchange rates
+finansinntekt;Næringsspesifikasjon;Income Statement;8074;Gevinst ved realisasjon av aksjer, egenkapitalbevis og fondsandeler;Profits made on the sale of shares, equity certificates and units in funds
+finansinntekt;Næringsspesifikasjon;Income Statement;8075;Finansinntekt fra foretak i samme konsern;Financial income from enterprises in the same group
+finansinntekt;Næringsspesifikasjon;Income Statement;8079;Annen finansinntekt;Other financial income
+finansinntekt;Næringsspesifikasjon;Income Statement;8080;Verdiøkning av finansielle instrumenter vurdert til virkelig verdi;Increase in value of financial instruments carried at fair value
+finansinntekt;Næringsspesifikasjon;Income Statement;8090;Inntekt av andre investeringer/utbytte;Income from other investments/dividends
+finansinntekt;Næringsspesifikasjon;Income Statement;8091;3 % av netto skattefrie inntekter etter fritaksmetoden og 3 % av utdeling fra selskap med deltakerfastsetting til selskapsdeltaker;3% of net tax-free income in accordance with the exemption method and 3% of dividends to a partner from businesses assessed as partnerships
+finanskostnad;Næringsspesifikasjon;Income Statement;8100;Verdireduksjon av finansielle instrumenter vurdert til virkelig verdi;Reduction in value of financial instruments carried at fair value
+finanskostnad;Næringsspesifikasjon;Income Statement;8105;Netto negativ resultatandel vedrørende investering i DS, TS og FKV;Net negative share in profits regarding investments in subsidiaries, associated companies and jointly controlled enterprises
+finanskostnad;Næringsspesifikasjon;Income Statement;8115;Nedskriving av finansielle eiendeler;Write-down of financial assets
+finanskostnad;Næringsspesifikasjon;Income Statement;8120;Kalkulatorisk rente, fjernings- og nedstengningsforpliktelse;Calculated interest, removal and shutdown obligation
+finanskostnad;Næringsspesifikasjon;Income Statement;8130;Rentekostnad til foretak i samme konsern;Interest paid to group companies
+finanskostnad;Næringsspesifikasjon;Income Statement;8150;Annen rentekostnad;Other interest expenses
+finanskostnad;Næringsspesifikasjon;Income Statement;8154;Garantikostnad til foretak i samme konsern;Guarantee costs for companies in the same group
+finanskostnad;Næringsspesifikasjon;Income Statement;8159;Annen garantikostnad;Other guarantee costs
+finanskostnad;Næringsspesifikasjon;Income Statement;8160;Tap ved kursendring på valuta (disagio);Losses from currency fluctuations
+finanskostnad;Næringsspesifikasjon;Income Statement;8174;Tap ved realisasjon av aksjer, egenkapitalbevis og fondsandeler;Losses on the sale of shares, equity certificates and units in funds
+finanskostnad;Næringsspesifikasjon;Income Statement;8175;Finanskostnader til foretak i samme konsern;Financial expenses for companies in the same group
+finanskostnad;Næringsspesifikasjon;Income Statement;8179;Annen finanskostnad;Other financial costs
+skattekostnad;Næringsspesifikasjon;Income Statement;8300;Betalbar skatt på ordinært resultat;Tax payable on the profit/loss on ordinary activities
+skattekostnad;Næringsspesifikasjon;Income Statement;8321;Økning i utsatt skatt/nedgang i utsatt skattefordel på ordinært resultat;Increase in deferred tax/decrease in deferred tax asset on the profit/loss on ordinary activities
+skattekostnad;Næringsspesifikasjon;Income Statement;8322;Nedgang i utsatt skatt/økning i utsatt skattefordel på ordinært resultat;Decrease in deferred tax/increase in deferred tax asset on the profit/loss on ordinary activities
+skattekostnad;Næringsspesifikasjon;Income Statement;8323;For lite avsatt skatt fra forrige år;Under-allocated tax from last year
+skattekostnad;Næringsspesifikasjon;Income Statement;8324;For mye avsatt skatt fra forrige år;Over-allocated tax from last year
+skattekostnad;Næringsspesifikasjon;Income Statement;7.80.0.10;Periodeskatt;Current tax
+skattekostnad;Næringsspesifikasjon;Income Statement;7.80.0.10.00;Periodeskatt;Current tax
+skattekostnad;Næringsspesifikasjon;Income Statement;7.80.7.89;For lite/mye avsatt skatt tidligere år / Endring i forpliktelse ved utsatt skatt;Under-/over allocated tax from previous years/Changed tax liability when tax is deferred
+skattekostnad;Næringsspesifikasjon;Income Statement;7.80.7.89.00;Endring i forpliktelse ved utsatt skatt;Changed tax liability when tax is deferred
+skattekostnad;Næringsspesifikasjon;Income Statement;8.91.7.89;Skatt på andre inntekter og kostnader som ikke blir omklassifisert;Tax on other income and expenses that are not reclassified
+skattekostnad;Næringsspesifikasjon;Income Statement;8.91.7.89.00;Skatt på inntekt/kostnad som ikke blir omklassifisert;Tax on income/expense that is not reclassified
+skattekostnad;Næringsspesifikasjon;Income Statement;8.92.7.89;Skatt på andre inntekter og kostnader som kan bli omklassifisert;Tax on other income and expenses that may be reclassified
+skattekostnad;Næringsspesifikasjon;Income Statement;8.92.7.89.00;Skatt på inntekt/kostnad som kan bli omklassifisert;Tax on income/expense that may be reclassified
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8901.1;Endring i verdireguleringsreserve;Change in revaluation surplus
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8901.2;Aktuariell gevinst og tap på ytelsesplaner;Actuarial profit and loss on benefit schemes
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8901.3;Andre inntekter og kostnader tilknyttede foretak;Other income and expenses from associated enterprises
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8901.4;Netto gevinst og tap på egenkapitalinstrumenter;Net profit and loss on equity instruments
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8901.5;Endring i virkelig verdi som skyldes egen kredittrisiko;Change in fair value due to own credit risk
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8909.1;Skatt relatert til poster som ikke skal reklassifiseres;Tax related to items that will not be reclassified
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8902.1;Omregningsdifferanser valuta;Conversion differences currency
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8902.2;Endring i virkelig verdi av sikringsinstrumentet ved kontantstrømsikring;Change in fair value of hedging instrument upon cash flow hedging
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8902.3;Netto gevinst og tap på finansielle eiendeler målt til virkelig verdi;Net profit and loss on financial assets measured at fair value
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8902.4;Netto endring i kostnader ved sikring;Net change in expenses upon hedging
+resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8909.2;Skatt relatert til poster som kan bli reklassifisert;Tax related to items that may be reclassified
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.05.0.10;Forfalte premier;Overdue premiums
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.05.0.20;Avgitte gjenforsikringspremier (negativ hvis kostnad);Ceded reinsurance premiums (negative if expense)
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.05.0.50;Opptjente bruttopremier;Earned gross premiums
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.05.0.60;Gjenforikringsandel opptjent bruttopremie;Reinsurance share of earned gross premium
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.07.0.00;Overføring av premiereserve, pensjonskapital, pensjonsbeholdning mv. fra andre;Transfer of premium reserve, pension capital, pension fund, etc. from others
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.11.0.00;Renteinntekter mv.;Interest income, etc.
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.11.0.40.00;Renteinntekter mv. - Finansielle derivater;Interest income, etc. – Financial derivatives
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.11.0.90.00;Renteinntekter mv. - Øvrige eiendeler;Interest income, etc. – Other assets
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.11.0.91.00;Renteinntekter mv. - Forsikringsrelaterte inntekter;Interest income, etc. – Insurance-related income
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.11.0.99.00;Renteinntekter mv. - Andre renteinntekter;Interest income, etc. – Other interest income
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.11.1.16.00;Renteinntekter mv. - Bankinnskudd;Interest income, etc. – Bank deposits
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.11.2.30.00;Renteinntekter mv. - Rentebærende omsettelige verdipapirer;Interest income, etc.  – Interest-bearing tradeable securities
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.11.3.50.00;Renteinntekter mv. - Utlån;Interest income, etc. – Loans
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.12.0.00.00;Kredittprovisjonsinntekter;Credit commission income
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.20.0.10.00;Provisjons- og gebyrinntekter - Betalingsformidling;Provision and fee income – Intermediation of payments
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.20.0.20.00;Provisjons- og gebyrinntekter - Netto garantiprovisjonsinntekter;Provision and fee income – Net guarantee commission income
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.20.0.90.00;Provisjons- og gebyrinntekter - Andre provisjoner og gebyrer;Provision and fee income – Other commissions and charges/fees
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.30.2.20;Utbytte, konsernbidrag og annen resultatavhengig avkastning;Dividend, group contributions and other earnings-based yield
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.30.2.20.51;Rentefond / Utbytte, konsernbidrag og resultatavhengig avkastning - Rentefond;Interest fund/Dividend, group contributions and other earnings-based yield – Interest fund
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.30.2.20.91;Aksjer og andeler etter EK metoden mv. / Utbytte, konsernbidrag og resultatavhengig avkastning - Aksjer og andeler etter EK metoden mv.;Shares and units after the equity method, etc. / Dividend, group contributions and earnings-based yield – Shares and units after the equity method, etc.
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.30.2.20.99;Øvrige aksjer og andeler m.v  / Utbytte, konsernbidrag og resultatavhengig avkastning - Øvrige aksjer og andeler m.v;Other shares and units, etc. / Dividend, group contributions and earnings-based yield – Other shares and units, etc.
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.60.0.40.00;Netto verdiendringer, gevinst/tap på valuta og finansielle instrumenter - Valuta og finansielle derivater (eiend. og gjeld);Net value changes, profit/loss on currency and financial instruments – Currency and financial derivatives (assets and debt)
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.60.0.96.00;Netto verdiendringer, gevinst/tap på valuta og finansielle instrumenter - Øvrige finansielle eiendeler;Net value changes, profit/loss on currency and financial instruments – Other financial assets
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.60.0.97.00;Netto verdiendringer, gevinst/tap på valuta og finansielle instrumenter - Finansielle forpliktelser, ekskl. derivater;Net value changes, profit/loss on currency and financial instruments – Financial liabilities, not including derivatives
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.60.2.20.00;Netto verdiendringer, gevinst/tap på valuta og finansielle instrumenter - Aksjer, andeler og egenkapitalbevis;Net value changes, profit/loss on currency and financial instruments – Shares, units and equity certificates
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.60.2.30.00;Netto verdiendringer, gevinst/tap på valuta og finansielle instrumenter - Rentebærende, omsettelige verdipapirer;Net value changes, profit/loss on currency and financial instruments – Interest-bearing, tradeable securities
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.60.3.50.00;Netto verdiendringer, gevinst/tap på valuta og finansielle instrumenter - Utlån;Net value changes, profit/loss on currency and financial instruments – Loans
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.62.0.00;Netto verdiendringer (negativ hvis netto negative verdiendringer);Net value changes (negative if net negative value changes)
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.62.0.40.00;Netto verdiendringer og nedskrivninger - Valuta og finansielle derivater (eiendeler og gjeld);Net value changes and write-downs – Currency and financial derivatives (assets and debt)
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.62.0.99.00;Netto verdiendringer og nedskrivninger - Øvrige finansielle eiendeler/forpliktelser, eksl. Derivater;Net value changes and write-downs – Other financial assets/liabilities, not including derivatives
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.62.2.20.00;Netto verdiendringer og nedskrivninger - Aksjer, andeler, egenkapitalbevis;Net value changes and write-downs – Shares, units, equity certificates
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.62.2.30.00;Netto verdiendringer og nedskrivninger - Rentebærende, omsettelige verdipapirer;Net value changes and write-downs – Interest-bearing, tradeable securities
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.62.3.50.00;Netto verdiendringer og nedskrivninger - Utlån;Net value changes and write-downs – Loans
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.62.5.91.00;Netto verdiendringer og nedskrivninger - Bygninger og annen fast eiendom;Net value changes and write-downs – Buildings and other real property
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.63.0.00;Netto realisert gevinst eller tap (negativ hvis netto realisert tap);Net realised profit or loss (negative if net realised loss)
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.63.0.40.00;Netto realisert gevinst/tap - Valuta og finansielle derivater (eiendeler og gjeld);Net realised profit/loss – Currency and financial derivatives (assets and debt)
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.63.0.99.00;Netto realisert gevinst/tap - Øvrige finansielle eiendeler/forpliktelser eksl. Derivater;Net realised profit/loss – Other financial assets/liabilities, not including derivatives
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.63.2.20.00;Netto realisert gevinst/tap - Aksjer, andeler, egenkapitalbevis;Net realised profit/loss – Shares, units, equity certificates
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.63.2.30.00;Netto realisert gevinst/tap - Rentebærende, omsettelige verdipapirer;Net realised profit/loss – Interest-bearing, tradeable securities
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.63.3.50.00;Netto realisert gevinst/tap - Utlån;Net realised profit/loss – Loans
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;1.63.5.91.00;Netto realisert gevinst/tap - Bygninger og annen fast eiendom;Net realised profit/loss – Buildings and other real property
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.73.0.00;Driftsinntekter eide eiendommer;Operating revenue from owned property
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.73.0.00.00;Andre inntekter - Driftsinntekter eide eiendommer;Other income – Operating revenue from owned property
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.78.0.40;Provisjon, administrasjonsgebyrer og andre inntekter;Commission, administrative fees and other income
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.78.0.40.00;Provisjon, administrasjonsgebyrer og andre inntekter (ikke teknisk);Commission, administrative fees and other income (not technical)
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.78.0.60;Provisjoner fra finansielle tjenester;Commission from financial services
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.78.0.60.00;Provisjoner fra finansielle tjenester (ikke teknisk);Commission from financial services (not technical)
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.78.0.80;Forvaltningshonorarer fra konsernselskaper;Management fees from group companies
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.78.0.80.00;Forvaltningshonorarer fra konsernselskaper (ikke teknisk);Management fees from group companies (not technical)
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.79.0.00;Andre inntekter;Other income
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.79.0.00.00;Andre inntekter - Andre inntekter (ikke tekniske);Other income – Other income (not technical)
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.79.0.10.00;Andre inntekter - Negativ goodwill innregnet i resultat;Other income – Negative goodwill accounted for in profit and loss
+bankOgForsikringsinntekt;Næringsspesifikasjon;Income Statement;2.79.0.90.00;Andre inntekter - Øvrige;Other income – Other
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.05.0.10;Utbetalte erstatninger brutto;Paid compensation, gross
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.05.0.20;Gjenforsikringsandel;Reinsurance share
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.07.0.00;Overføring av premiereserve, pensjonskapital, pensjonsbeholdning og tilleggsavsetninger og bufferfond til andre forsikringsforetak/pensjonskasser;Transfer of premium reserve, pension capital, pension fund, and additional provisions and buffer funds for other insurance undertakings/pension undertakings
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.08.0.00;Resultatførte endringer i forsikringsforpliktelser (negativt fortegn hvis inntekt);Recognised changes in insurance liabilities (negative prefix if income)
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.08.8.73;Endring i avsetning for ikke avløpt risiko;Change in provisions for uncovered risk
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.09.0.00;Midler tilordnet forsikringskontraktene;Funds allocated to insurance contracts
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.0.00;Rentekostnader;Interest expenses
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.0.30.10;Rentekostnader - Obligasjoner med fortrinnsrett;Interest expenses – Bonds with preferential rights
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.0.30.90;Rentekostnader - Annen verdipapirgjeld;Interest expenses – Other securities debts
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.0.40;Rentekostnader Finansielle derivater;Interest income, financial derivatives
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.0.40.00;Rentekostnader - Finansielle derivater;Interest income – Financial derivatives
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.0.50.00;Rentekostnader - Andre forpliktelser;Interest expenses – Other liabilities
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.0.90.00;Rentekostnader - Andre lån;Interest expenses – Other loans
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.0.91;Forpliktelser knyttet til investeringer/finansielle;Liabilities related to investments/financial derivatives
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.0.99;Rentekostnader andre rentekostnader;Interest expenses other interest expenses
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.6.10.00;Rentekostnader - Innskudd;Interest expenses – Deposits
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.11.8.00;Rentekostnader ansvarlig lånekapital;Interest expenses, subordinated loan capital
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.13.0.00.00;Avgift til sikringsfondet;Contribution to the Guarantee Fund
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.20.0.10.00;Provisjons- og gebyrkostnad, kurtasje - Betalingsformidling;Commission and fee expenses, brokerage – Intermediation of payments
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.20.0.20.00;Provisjons- og gebyrkostnad, kurtasje - Netto garantiprovisjonskostnader;Commission and fee expenses, brokerage – Net guarantee commission expenses
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;4.20.0.90.00;Provisjons- og gebyrkostnad, kurtasje - Andre provisjoner og gebyrer;Commission and fee expenses, brokerage – Other commissions and charges/fees
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.00.0.00;Forsikringsrelaterte driftskostnader;Insurance-related operating expenses
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;9.00.0.00;Andre kostnader;Other expenses
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.10;Lønn og naturalytelser ansatte, styrehonorarer;Salary and payments in kind to employees, director’s fees
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.11.00;Lønns- og personalkostnader - Lønn og naturalytelse til ansatte, unntatt personalforsikringer;Salary and personnel expenses – Salary and payments in kind to employees, not including personnel insurance
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.19.00;Lønns- og personalkostnader - Styrehonorar, godtgjørelse for verv og andre avgiftspliktige honorarer;Salary and personnel expenses – Director's fees, remuneration for holding office and other fees subject to employer’s national insurance contribution
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.20;Andre honorarer klassifisert som lønn;Other fees classified as salary
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.20.00;Lønns- og personalkostnader - Andre honorarer som klassifiseres som lønn;Salary and personnel expenses – Other fees that are classified as salary
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.30.00;Lønns- og personalkostnader - Pensjonskostnader;Salary and personnel expenses – Pension expenses
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.40.00;Lønns- og personalkostnader - Personalforsikringer;Salary and personnel expenses – Personnel insurance
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.50;Arbeidsgiveravgift og finansskatt;Employer’s national insurance contributions and financial activity tax
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.50.00;Lønns- og personalkostnader - Arbeidsgiveravgift og finansskatt;Salary and personnel expenses – Employer’s national insurance contributions and financial activity tax
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.90.00;Lønns- og personalkostnader - Andre personalkostnader;Salary and personnel expenses – Other personnel expenses
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.51.0.99;Andre personalkostnader;Other personnel expenses
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.71.0.00;Kostnader til strøm og forsikring;Expenses for electricity and insurance
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.71.0.10.00;Kostnader til strøm, inkl. nettleie;Expenses for electricity, including the network charge
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.71.0.20.00;Kostnader til forsikring;Expenses for insurance
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.73.0.00;Driftskostnader eide eiendommer;Operating expenses, owned property
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.73.0.10.00;Driftskostnader eide eiendommer - Reparasjon og vedlikehold;Operating expenses, owned property – Repair and maintenance
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.73.0.90.00;Driftskostnader eide eiendommer - Andre, ekskl. strøm og forsikring;Operating expenses, owned property – Other, not including electricity and insurance
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.00;Provisjoner, honorarer og andre til eksterne tjenester;Commission, fees and other expences for external services
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.10.00;Andre kostnader til eksterne tjenester - Revisjon og regnskap;Other expenses for external services – Audit and accounting
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.20.00;Andre kostnader til eksterne tjenester - Juridisk bistand;Other expenses for external services – Legal assistance
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.30.00;Andre kostnader til eksterne tjenester - IKT;Other expenses for external services – ICT
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.40;Provisjoner til agenter mv.;Commission to agents, etc.
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.40.00;Andre kostnader til eksterne tjenester - Salg, reklame og representasjon;Other expenses for external services – Sales, advertising and representation
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.51;Avgitt provisjon for avgitt gjenforsikring;Issued commission for issued reinsurance
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.52;Mottatt provisjon for avgift gjenforsikring;Received commission for issued reinsurance
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.71.00;Andre kostnader til eksterne tjenester - Leie av lokaler;Other expenses for external services – Premises rental
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.73.00;Andre kostnader til eksterne tjenester - Leie av maskiner, inventar og transportmidler;Other expenses for external services – Lease of machinery, fixtures and means of transportation
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.80.00;Andre kostnader til eksterne tjenester - Forvaltningshonorarer til konsernselskaper;Other expenses for external services – Management fee to group companies
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.90.10;Honorarer til bemaningsselskaper, ikke betraktet som lønn;Fees to staffing companies, not considered salary
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.78.0.90.90;Andre kostnader til eksterne tjenester - Andre;Other expenses for external services – Other
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.79.0.00;Andre kostnader til drift og øvrig;Other operating expenses and other
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.79.0.10.00;Andre driftskostnader - Lisenser, programmer og annet IKT-utstyr;Other operating expenses – Licenses, IT software and other IT hardware
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;5.79.0.90.00;Andre driftskostnader - Øvrige;Other operating expenses – Other
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.61.0.10.00;Avskrivning på ikke-finansielle eiendeler;Depreciation on non-financial assets
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.61.0.20.00;Nedskrivning på ikke-finansielle eiendeler;Write-down on non-financial assets
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.61.0.40.00;Netto verdiendringer på ikke-finansielle eiendeler;Net changes in value on non-financial assets
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.61.0.60.00;Gevinst/tap på ikke-finansielle eiendeler;Profit/loss on non-financial assets
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.62.5.00;Av- og nedskrivning og verdiendring på ikke finansielle eiendeler;Depreciation and write-downs and changes in value on non-financial assets
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.63.5.00;Realisert gevinst/tap ikke finansielle eiendeler;Realised profit/loss, non-financial assets
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.66.2.30.00;Kredittap på rentebærende omsettelige verdipapirer;Credit loss on interest-bearing tradeable securities
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.66.3.50.11;Konstaterte tap på utlån balanseført til virkelig verdi;Confirmed losses on loans recognised at fair value
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.66.3.50.19;Øvrige kredittap på utlån balanseført til virkelig verdi;Other credit losses on loans recognised at fair value
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.66.3.50.21;Konstaterte tap på utlån balanseført til amortisert kost;Confirmed losses on loans recognised at amortized cost
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.66.3.50.29;Øvrige kredittap på utlån balanseført til amortiert kost;Other credit losses on loans recognised at amortized cost
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.68.7.86.00;Kredittap på utbenyttet låneramme;Credit losses on unutilized credit lines
+bankOgForsikringskostnad;Næringsspesifikasjon;Income Statement;6.68.7.87.00;Kredittap på garantier;Credit losses on guarantees
+bankOgForsikringsinntektEllerKostnadSomIkkeBlirOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.91.0.10.00;Andre inntekter og kostnader som ikke blir omklassifisert - Fra egenkapitalinstrumenter;Other income and expenses that will not be reclassified – From equity instruments
+bankOgForsikringsinntektEllerKostnadSomIkkeBlirOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.91.0.30;Estimatendring knyttet til ytelsesbaserte pensjonsordninger;Changes in estimates relating to defined-benefit pension schemes
+bankOgForsikringsinntektEllerKostnadSomIkkeBlirOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.91.0.30.00;Andre inntekter og kostnader som ikke blir omklassifisert - Estimatendring knyttet til ytelsesbaserte pensjonsordninger;Other income and expenses that will not be reclassified – Changes in estimates relating to defined-benefit pension schemes
+bankOgForsikringsinntektEllerKostnadSomIkkeBlirOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.91.0.60;Fra andre finansielle eiendeler og forpliktelser;From other financial assets and liabilities
+bankOgForsikringsinntektEllerKostnadSomIkkeBlirOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.91.0.60.00;Andre inntekter og kostnader som ikke blir omklassifisert - Fra andre finansielle eiendeler og forpliktelser;Other income and expenses that will not be reclassified – From other financial assets and liabilities
+bankOgForsikringsinntektEllerKostnadSomIkkeBlirOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.91.0.70.00;Andre inntekter og kostnader som ikke blir omklassifisert - Fra ikke-finansielle eiendeler;Other income and expenses that will not be reclassified – From non-financial assets
+bankOgForsikringsinntektEllerKostnadSomIkkeBlirOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.91.0.71;Verdireguleringer på eiendom, anlegg og utstyr;Value regulation on property, plant and equipment
+bankOgForsikringsinntektEllerKostnadSomIkkeBlirOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.91.0.72;Fra andre ikke-finansielle eiendeler;From other non-financial assets
+bankOgForsikringsinntektEllerKostnadSomIkkeBlirOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.91.0.80;Justering av forsikringsforpliktelser - kun livsforsikring;Adjustments in insurance liabilities – only life insurance
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.20;Fra investeringer i rentebærende verdipapirer klassifisert til virkelig verdi over OCI - kun skadeforsikring som følger IFRS 9;From investments in interest-bearing securities classified to a fair value over OCI – only non-life insurance that follows IFRS 9
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.20.00;Andre inntekter og kostnader som kan bli omklassifisert - Fra rentebærende verdipapirer;Other income and expenses that may be reclassified – From interest-bearing securities
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.21;Gevinster og tap på finansielle eiendeler tilgjengelig for salg;Profit and loss on financial assets that are for sale
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.40;Effektiv andel av nettogevinster på sikringsinstrumenter i kontantstrømsikring;Effective share of net profit on hedging instruments in cash flow hedge
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.40.00;Andre inntekter og kostnader som kan bli omklassifisert - Effektiv andel av nettogevinster på sikringsinstrumenter i kontantstrømsikring;Other income and expenses that may be reclassified – Effective share of net profit on hedging instruments in cash flow hedge
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.50.00;Andre inntekter og kostnader som kan bli omklassifisert - Netto valutakursgevinster ved omregning av utenlandsk virksomhet;Other income and expenses that may be reclassified – Net currency profits on foreign currency translation
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.60;Fra andre finansielle eiendeler og forpliktelser;From other financial assets and liabilities
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.60.00;Andre inntekter og kostnader som kan bli omklassifisert - Fra andre finansielle eiendeler og forpliktelser;Other income and expenses that may be reclassified – From other financial assets and liabilities
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.70;Fra ikke-finansielle eiendeler;From non-financial assets
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.70.00;Andre inntekter og kostnader som kan bli omklassifisert - Fra ikke-finansielle eiendeler;Other income and expenses that may be reclassified – From non-financial assets
+bankOgForsikringsinntektEllerKostnadSomKanBliOmklassifisertTilResultatet;Næringsspesifikasjon;Income Statement;8.92.0.80;Justering av forsikringsforpliktelser - kun livsforsikring;Adjustments in insurance liabilities – only life insurance
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.01.0.00.00;Virkning av endring i regnskapsprinsipper og korrigering av feil i inngående balanse (kan være negativ);Impact of changes in accounting policies and correction of errors in opening  balance (may be negative)
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.03.0.10.00;Resultat hittil i år (negativt hvis underskudd);Total profit/loss year to date (negative if deficit)
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.03.0.90.00;Netto inntekt over utvidet resultat (OCI) (negativ hvis netto kostnad);Net income over extended profit/loss (OCI) (negative if net cost)
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.05.9.21.00;Emisjoner, tilbakekjøp, kapitalnedsettelser og andre endringer - Aksje-/eierandelskapital;Issues, repurchase, capital reduction and other changes – Share capital/owner capital
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.05.9.25.00;Emisjoner, tilbakekjøp, kapitalnedsettelser og andre endringer - Fondsobligasjonskapital;Issues, repurchase, capital reduction and other changes – Hybrid capital
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.08.0.10.00;Andre egenkapitaltransaksjoner - Gaveutdeling;Other equity transactions – Distributions of gifts
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.08.0.40.00;Andre egenkapitaltransaksjoner - Renter på fondsobligasjonskapital;Other equity transactions – Interest on hybrid capital
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.08.0.50.00;Andre egenkapitaltransaksjoner - Utbytte/renter på eierandelskapital;Other equity transactions – Dividend/interest on owner capital
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.08.0.60.10;Andre egenkapitaltransaksjoner - Avgitt konsernbidrag;Other equity transactions – Ceded group contribution
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.08.0.60.20;Andre egenkapitaltransaksjoner - Mottatt konsernbidrag;Other equity transactions – Received group contribution
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.08.0.70.00;Andre egenkapitaltransaksjoner - Kundeutbytte;Other equity transactions – Customer dividends
+endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.08.0.90.00;Andre egenkapitaltransaksjoner - Andre;Other equity transactions – Other
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;36831;Kontanter;Cash
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;1.16.00;Bankinnskudd;Bank deposits
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.20.40;Fondsobligasjoner klassifisert som egenkapital;Hybrid capital classified as equity capital
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.20.51;Andeler i rentefond;Units in interest funds
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.20.56;Andeler i aksje og kombinasjonsfond;Units in shares and combination funds
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.20.80;Aksjer og andeler i eiendomsselskaper;Shares and units in property companies
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.20.90;Egenkapitalbevis og øvrige aksjer og andeler;Equity certificates and other shares and units
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.30.00;Rentebærende, omsettelige verdipapirer mv. ekskl. andeler i rentefond;Interest-bearing, tradeable securities, etc. not including units in interest funds
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.30.10;Obligasjoner med fortrinnsrett;Bonds with preferential rights
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.30.40;Fondsobligasjoner klassifisert som ansvarlig lånekapital;Hybrid capital classified as subordinated loan capital
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.30.91;Andre verdipapirer med løpetid tom 12 mnd;Other securities with maturity up to and including 12 months
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.30.92;Andre verdipapirer med løpetid over 12 mnd;Other securities with maturity over 12 months
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.40.00;Finansielle derivater (kan være negativ);Financial derivatives (can be negative)
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.51.11;Utlån, brutto balanseført verdi - Factoring;Loans, gross recognised value – Factoring
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.51.15;Utlån, brutto balanseført verdi - Kreditkort;Loans, gross recognised value – Credit cards
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.51.19;Utlån, brutto balanseført verdi - Andre rammelån/rammekreditter;Loans, gross recognised value – Other flexible loans/flexible credits
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.51.30;Utlån, brutto balanseført verdi - Leasing;Loans, gross recognised value – Leasing
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.51.50;Utlån, brutto balanseført verdi - Nedbetalingslån;Loans, gross recognised value – Amortizing loan
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.51.80;Utlån - Verdipapir-/repolån / Utlån, brutto balanseført verdi - Repoavtale (gjensalgsavtale);Loans – Securities loan/repo loan / Loans, gross recognised value – Repo agreement (repurchase agreement)
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.51.90;Utlån - Andre utlån;Loans – Other loans
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.56.00;Utlån - Tapsnedskrivninger (kan være negativ);Loans – Loss write-downs (can be negative)
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.56.10;"Tapsnedskrivning på utlån, 12 mnd. forventet kredittap på ""friske"" utlån (steg 1)";Loss write-downs on loans, 12 months expected credit loss on “fresh” loans (step 1)
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.56.30;Nedskrivning som følge av vesentlig økning i kreditrisiko, der det ikke foreligger en tapshendelse (steg 2);Write-down as a result of a significant increase in credit risk, without a loss event (step 2)
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.56.50;Nedskrivning som følge av vesentlig økning i kreditrisiko, der det foreligger en tapshendelse (steg 3);Write-down as a result of a significant increase in credit risk, with a loss event (step 3)
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.60.00;Gjenforsikringsandel av brutto forsikringsforpliktelser i livsforsikring;Reinsurance share of gross insurance liabilities in life insurance
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;3.70.00;Gjenforsikringsandel av brutto forsikringsforpliktelser i skadeforsikring;Reinsurance share of gross insurance liabilities in non-life insurance
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;4.82.50;Andre fordringer - Uoppgjorte verdipapirhandler;Other receivables – Unsettled securities trading
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;4.82.90;Andre fordringer - Andre kortsiktige fordringer;Other receivables – Other current receivables
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;4.89.10;Andre eiendeler - Gjenforsikringsdepoter;Other assets – Reinsurance reserves
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;4.89.20;Andre eiendeler - Eiendeler ved skatt;Other assets – Assets relating to tax
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;4.89.70;Netto pensjonsmidler;Net pension funds
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;4.89.90;Andre eiendeler - Øvrige eiendeler;Other assets – Other assets
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;5.91.10;Bygninger og annen fast eiendom eksl. Aksjer i eiendomsselskaper - Investeringseiendom;Buildings and other real property, not including shares in property companies – Investment property
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;5.91.30;Bygninger og annen fast eiendom eksl. Aksjer i eiendomsselskaper - eierbenyttet eiendom;Buildings and other real property, not including shares in property companies – properties used by owners
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;5.91.50;Overtatte eiendommer;Acquired properties
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;5.94.00;Maskiner, inventar og transportmidler;Machines, equipment and vehicles
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;5.96.00;Leierettigheter;Right to lease
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;5.97.10;Immaterielle eiendeler - Goodwill;Intangible assets – Goodwill
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;5.97.90;Immaterielle eiendeler - Andre immaterielle eiendeler;Intangible assets – Other intangible assets
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;6.16.10;Innskudd - Brukskonti;Deposits – Current accounts
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;6.16.20;Innskudd - Sparekonti mv. uten binding;Deposits – Savings accounts, etc. without lock-in period
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;6.17.10;Innskudd med oppsigelsesfrist tom. 3 måneder etter bindingstid tom. 2 år;Deposits with a period of notice up to and including 3 months after a lock-in period up to and including 2 years
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;6.17.90;Innskudd med oppsigelsesfrist over 3 måneder etter bindingstid over 2 år;Deposits with a period of notice over 3 months after a lock-in period of over 2 years
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;6.18.10;Skattetrekkskonti;Tax deduction accounts
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;6.18.30;Boligspareordning for ungdom (BSU-konti med skattefradrag);Home savings accounts for young people (BSU account with tax deduction)
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;6.18.40;Konti knyttet til pensjonsavtale/-sparing;Accounts linked to pension savings schemes
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;6.18.90;Andre innskudd bundet til formål uten oppsigelsesfrist eller bindingstid;Other deposits linked to purposes with no period of notice or lock-in period
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.30.11;Obligasjoner med fortrinnsrett (kun for kredittforetak), brutto;Bonds with preferential rights (only credit institutions), gross
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.30.12;Egenbeholdning av obligasjoner med fortrinnsrett;Own holding in bonds with preferential rights
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.30.91;Annen verdipapirgjeld, brutto;Other securities debt, gross
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.30.92;Egenbeholdning av andre obligasjoner;Own holding in other bonds
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.40.00;Finansielle derivater;Financial derivatives
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.50.80;lån - verdipapirer/repolån;Loans – securities/repo loans
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.50.90;Lån - likviditetslån / Øvrige lån (bank);Loans – liquidity loans/other loans (bank)
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.82.20;Skattetrekk knyttet til egne ansatte;Tax deductions in connection with own employees
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.82.50;Annen gjeld - Uoppgjorte verdipapirhandler;Other debt – Unsettled securities trading
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.82.81;Annen gjeld - Utbytte/egenkapitalbevisrenter siste år;Other debt – Dividend/equity certificate interest, last year
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.82.82;Konsernbidrag siste år;Group contributions, last year
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.82.90;Annen gjeld - Øvrig kortsiktig gjeld;Other debt – Other current debt
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.86.10;"12-mnd. forventet kredittap på ""friske"" utlån og garantier (steg 1)";12 months expected credit loss on “fresh” loans and guarantees (step 1)
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.86.30;Tapsavsetninger som følge av vesentlig økning i kredittrisiko, der det ikke foreligger en tapshendelse (steg 2);Loss provisions as a result of a significant increase in credit risk, without a loss event (step 2)
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.86.50;Tapsavsetninger som følge av vesentlig økning i kredittrisiko, der det foreligger en tapshendelse (steg 3);Loss provisions as a result of a significant increase in credit risk, with a loss event (step 3)
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.87.00;Tapsavsetning på garantier til virkelig verdi;Loss provisions for guarantees at fair value
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.89.10;Andre forpliktelser - Premiedepot fra gjenforsikringsforetak;Other liabilities – Premium reserve from reinsurance undertakings
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.89.21;Andre forpliktelser - Forpliktelser ved periodeskatt;Other liabilities – Current tax liabilities
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.89.22;Andre forpliktelser - Forpliktelser ved utsatt skatt;Other liabilities – Deferred tax liabilities
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.89.70;Andre forpliktelser - Pensjonsforpliktelser;Other liabilities – Pension liabilities
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.89.80;Andre forpliktelser - Forpliktelser knyttet til leieavtaler;Other liabilities – Liabilities related to rental agreements
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;7.89.90;Andre forpliktelser - Øvrige forpliktelser;Other liabilities – Other liabilities
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.31.00;Ansvarlig lånekapital i form av fondsobligasjoner, netto;Subordinated loan capital in the form of hybrid capital, net
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.39.00;Ansvarlig lånekapital i form av andre rentebærende, omsettelige verdipapirer, netto;Subordinated loan capital in the form of interest-bearing, tradeable securities, net
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.39.10;Ansvarlig lånekapital, Senior etterstilte obligasjonslån, netto;Subordinated loan capital, senior non-preferred bond loans, net
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.39.90;Ansvarlig lånekapital, Øvrige lån i form av omsettelige verdipapirer, netto;Subordinated loan capital, Other loans in the form of tradeable securities, net
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.50.00;Annen ansvarlig lånekapital;Other subordinated loan capital
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.61.00;Premiereserve og pensjonskostnad mv.;Premium reserve and pension cost, etc.
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.62.00;Tilleggsavsetninger;Additional provisions
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.63.00;Kursreguleringsfond;Adjustment fund
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.64.00;Bufferfond;Buffer fund
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.65.00;Bufferavsetning og reguleringsfond;Buffer provisions and adjustment fund
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.66.00;Premiefond eller innskuddsfond;Premium fund/deposit fund
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.67.00;Pensjonistenes overskuddsfond og pensjonsreguleringsfond;Pensioner’s surplus fund and pension regulation fund
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.68.00;Tekniske avsetninger for skadeforsikringsvirksomheten;Technical provisions for non-life insurance activities
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.69.00;Ufordelte overskuddsmidler til forsikringskontrakter;Undistributed surplus funds for insurance contracts
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.71.00;Avsetning for ikke opptjent bruttopremie;Provisions for non-earned net premium
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.73.00;Avsetning for ikke avløpt risiko;Provisions for uncovered risk
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.75.00;Avsetning for gjenstående risiko (kun IFRS);Provision for remaining risk (only under IFRS)
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.76.00;Avsetning for inntrufne skader (kun IFRS);Provision for incurred losses (only under IFRS)
+gjeldInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;8.78.00;Brutto erstatningsavsetning;Gross provisions for insurance liabilities
