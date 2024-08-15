@@ -3516,7 +3516,7 @@
 		<GroupingCategory>balanseverdiForBankOgForsikringseiendel</GroupingCategory>
 		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
 		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
-		<GroupingCode>01.11.00</GroupingCode>
+		<GroupingCode>1.11.00</GroupingCode>
 		<CodeDescription ISOLanguageCode="NOB">Kontanter</CodeDescription>
 		<CodeDescription ISOLanguageCode="ENG">Cash</CodeDescription>
 	</Account>
