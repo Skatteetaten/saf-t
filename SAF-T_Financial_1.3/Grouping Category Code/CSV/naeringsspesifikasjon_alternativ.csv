@@ -1,0 +1,530 @@
+GroupingCode;CategoryDescriptionNOB;GroupingCategory
+1000;Forskning og utvikling, ervervet;Eiendeler
+1005;Forskning og utvikling, egenutviklet;Eiendeler
+1020;Konsesjoner, ervervet;Eiendeler
+1025;Konsesjoner, egenutviklet;Eiendeler
+1030;Patenter, ervervet;Eiendeler
+1035;Patenter, egenutviklet;Eiendeler
+1040;Lisenser, ervervet;Eiendeler
+1045;Lisenser, egenutviklet;Eiendeler
+1050;Varemerker, ervervet;Eiendeler
+1055;Varemerker, egenutviklet;Eiendeler
+1060;Andre rettigheter, ervervet;Eiendeler
+1065;Andre rettigherer, egenutviklet;Eiendeler
+1070;Utsatt skattefordel;Eiendeler
+1080;Goodwill, ervervet;Eiendeler
+1100;Forretningsbygg;Eiendeler
+1117;Elektroteknisk utrustning i kraftforetak;Eiendeler
+1120;Bygningsmessig anlegg;Eiendeler
+1130;Anlegg under utførelse;Eiendeler
+1140;Jordbrukseiendommer;Eiendeler
+1145;Skogbrukseiendommer;Eiendeler
+1150;Tomter;Eiendeler
+1155;Andre grunnarealer;Eiendeler
+1160;Boliger inkl. tomter;Eiendeler
+1180;Investeringseiendommer;Eiendeler
+1190;Andre anleggsmidler;Eiendeler
+1200;Maskiner og anlegg;Eiendeler
+1210;Maskiner og anlegg under utførelse;Eiendeler
+1220;Skip;Eiendeler
+1224;Rigger;Eiendeler
+1225;Fly;Eiendeler
+1230;Vare- og lastebiler;Eiendeler
+1233;Varebiler;Eiendeler
+1236;Lastebiler;Eiendeler
+1238;Busser;Eiendeler
+1239;Elektriske varebiler;Eiendeler
+1240;Traktorer;Eiendeler
+1248;Trucker;Eiendeler
+1249;Andre transportmidler;Eiendeler
+1250;Inventar;Eiendeler
+1260;Fast bygningsinventar, eget bygg;Eiendeler
+1265;Fast bygningsinventar, leide bygg;Eiendeler
+1270;Verktøy o.l.;Eiendeler
+1280;Kontormaskiner;Eiendeler
+1290;Andre driftsmidler;Eiendeler
+1291;Andre driftsmidler, ikke avskrivbare;Eiendeler
+1299;Negativ gevinst- og tapskonto;Eiendeler
+1300;Investeringer i datterselskap;Eiendeler
+1310;Investeringer i annet foretak i samme konsern;Eiendeler
+1312;Investeringer i deltakerliknede datter- og konsernselskap;Eiendeler
+1320;Lån til foretak i samme konsern;Eiendeler
+1330;Investeringer i tilknyttete selskap;Eiendeler
+1340;Lån til tilknyttet selskap og felles kontrollert virksomhet;Eiendeler
+1350;Investeringer i aksjer, andeler og verdipapirfondsandeler;Eiendeler
+1360;Obligasjoner;Eiendeler
+1370;Fordringer på eiere;Eiendeler
+1375;Fordringer på styremedlemmer;Eiendeler
+1380;Fordringer på ansatte;Eiendeler
+1394;Overfinansiering av pensjonsforpliktelser;Eiendeler
+1395;Leietakerinnskudd;Eiendeler
+1396;Depositum;Eiendeler
+1397;Forskuddsleasing;Eiendeler
+1398;Påkostning leide driftsmidler;Eiendeler
+1399;Andre fordringer;Eiendeler
+1400;Råvarer;Eiendeler
+1401;Halvfabrikata;Eiendeler
+1405;Hjelpematerialer;Eiendeler
+1408;Driftsmaterialer og reservedeler;Eiendeler
+1409;Beholdningsendring;Eiendeler
+1420;Varer under tilvirkning;Eiendeler
+1429;Beholdningsendring;Eiendeler
+1440;Ferdig egentilvirkede varer;Eiendeler
+1449;Beholdningsendring;Eiendeler
+1460;Innkjøpte varer for videresalg;Eiendeler
+1465;Demonstrasjonsvarer;Eiendeler
+1469;Beholdningsendring;Eiendeler
+1480;Forskuddsbetaling til leverandører;Eiendeler
+1490;Biologiske eiendeler;Eiendeler
+1500;Kundefordringer;Eiendeler
+1530;Opptjent, ikke fakturert driftsinntekt;Eiendeler
+1550;Kundefordringer på selskap i samme konsern;Eiendeler
+1560;Andre fordringer på selskap i samme konsern;Eiendeler
+1570;Reiseforskudd;Eiendeler
+1571;Lønnsforskudd;Eiendeler
+1572;Andre kortsiktige lån til ansatte;Eiendeler
+1575;Forskudd refusjon skatt etter skatteloven § 16-50;Eiendeler
+1576;Kortsiktige fordringer eiere/styremedl. o.l.;Eiendeler
+1579;Andre kortsiktige fordringer;Eiendeler
+1580;Avsetning tap på kundefordringer;Eiendeler
+1585;Avsetning tap på andre fordringer;Eiendeler
+1590;Andre omløpsmidler;Eiendeler
+1600;Utgående merverdiavgift, høy sats;Eiendeler
+1601;Utgående merverdiavgift, middels sats;Eiendeler
+1602;Utgående merverdiavgift, lav sats;Eiendeler
+1603;Utgående merverdiavgift kjøp av tjenester fra utlandet;Eiendeler
+1610;Inngående merverdiavgift, høy sats;Eiendeler
+1611;Inngående merverdiavgift, middels sats;Eiendeler
+1612;Inngående merverdiavgift, lav sats;Eiendeler
+1613;Direktepostert inngående merverdiavgift ved innførsel, høy sats;Eiendeler
+1614;Direktepostert inngående merverdiavgift ved innførsel, middels sats;Eiendeler
+1640;Oppgjørskonto merverdiavgift;Eiendeler
+1650;Kompensert merverdiavgift, høy sats;Eiendeler
+1651;Kompensert merverdiavgift, middels sats;Eiendeler
+1652;Kompensert merverdiavgift, lav sats;Eiendeler
+1654;Oppgjørskonto kompensert merverdiavgift;Eiendeler
+1655;Grunnlag kompensert merverdiavgift, høy sats;Eiendeler
+1656;Grunnlag kompensert merverdiavgift, middels sats;Eiendeler
+1657;Grunnlag kompensert merverdiavgift, lav sats;Eiendeler
+1659;Motkonto grunnlag kompensert merverdiavgift;Eiendeler
+1670;Krav på offentlige tilskudd;Eiendeler
+1700;Forskuddsbetalt leiekostnad;Eiendeler
+1710;Forskuddsbetalt rentekostnad;Eiendeler
+1720;Andre depositum;Eiendeler
+1740;Forskuddsbetalt, ikke påløpt lønn;Eiendeler
+1741;Forskuddsbetalt strøm, varme m.v.;Eiendeler
+1742;Forskuddsbetalt forsikring;Eiendeler
+1743;Forskuddsbetalt leasing (kortsiktig);Eiendeler
+1749;Andre forskuddsbetalte kostnader;Eiendeler
+1750;Påløpt leieinntekt;Eiendeler
+1760;Påløpt renteinntekt;Eiendeler
+1770;Andre periodiseringer;Eiendeler
+1780;Krav på innbetaling av selskapskapital;Eiendeler
+1800;Aksjer og andeler i foretak i samme konsern;Eiendeler
+1810;Markedsbaserte aksjer og verdipapirfondsandeler;Eiendeler
+1820;Andre aksjer;Eiendeler
+1830;Markedsbaserte obligasjoner;Eiendeler
+1840;Andre obligasjoner;Eiendeler
+1850;Markedsbaserte obligasjoner med kort løpetid (sertifikater);Eiendeler
+1860;Andre obligasjoner med kort løpetid (sertifikater);Eiendeler
+1870;Andre markedsbaserte finansielle instrumenter;Eiendeler
+1880;Andre finansielle instrumenter;Eiendeler
+1900;Kontanter NOK;Eiendeler
+1908;Kontanter annen valuta;Eiendeler
+1909;Kassedifferanser;Eiendeler
+1920;Bankinnskudd;Eiendeler
+1940;Bankinnskudd utland;Eiendeler
+1950;Bankinnskudd for skattetrekk;Eiendeler
+2000;Aksjekapital;Egenkapital
+2010;Egne aksjer;Egenkapital
+2020;Overkurs;Egenkapital
+2025;Ikke registrert kapitalforhøyelse/kapitalnedsettelse;Egenkapital
+2030;Annen innskutt egenkapital;Egenkapital
+2036;Stiftelseskostnader;Egenkapital
+2040;Fond for vurderingsforskjeller;Egenkapital
+2041;Fond for vurderingsforskjeller i deltakerlignende selskap;Egenkapital
+2042;Fond for verdiendringer i andre selskap;Egenkapital
+2045;Fond for urealiserte gevinster;Egenkapital
+2050;Annen egenkapital;Egenkapital
+2051;Ikke fradragsberettigede representasjonskostnader;Egenkapital
+2052;Ikke fradragsberettigede kontigenter/gaver;Egenkapital
+2053;Andre ikke fradragsberettigede kostnader;Egenkapital
+2054;Skattefrie inntekter;Egenkapital
+2055;Innskudd kontanter;Egenkapital
+2056;Innskudd andre eiendeler;Egenkapital
+2057;Fradragsført bruk av privat bil etter sats;Egenkapital
+2058;Øvrige egenkapitalkorreksjoner;Egenkapital
+2061;Kontantuttak;Egenkapital
+2063;Uttak av driftsmidler;Egenkapital
+2064;Uttak av varer og tjenester;Egenkapital
+2065;Egen bolig i næringsbygg;Egenkapital
+2067;Lys og varme privat;Egenkapital
+2068;Private kostnader til elektronisk kommunikasjon;Egenkapital
+2069;Diverse andre private kostnader;Egenkapital
+2072;Skatter;Egenkapital
+2075;Privat bruk av næringsbil;Egenkapital
+2077;Premie til egen syke- og ulykkesforsikring;Egenkapital
+2078;Premie til tilleggstrygd for sykepenger;Egenkapital
+2080;Udekket tap;Egenkapital
+2091;Negativ saldo saldogruppe A;Egenkapital
+2092;Negativ saldo saldogruppe C1;Egenkapital
+2093;Negativ saldo saldogruppe C;Egenkapital
+2095;Negativ saldo saldogruppe D;Egenkapital
+2096;Positiv gevinst- og tapskonto;Egenkapital
+2099;Overføringer annen egenkapital;Egenkapital
+2100;Pensjonsforpliktelser;Gjeld
+2120;Utsatt skatt;Gjeld
+2160;Uopptjent inntekt;Gjeld
+2180;Andre avsetninger for forpliktelser;Gjeld
+2200;Konvertible lån;Gjeld
+2210;Obligasjonslån;Gjeld
+2220;Gjeld til kredittinstitusjoner;Gjeld
+2240;Pantelån;Gjeld
+2250;Gjeld til ansatte og eiere;Gjeld
+2260;Gjeld til selskap i samme konsern;Gjeld
+2270;Andre valutalån;Gjeld
+2280;Stille interessentinnskudd og ansvarlig lånekapital;Gjeld
+2290;Annen langsiktig gjeld;Gjeld
+2300;Konvertible lån;Gjeld
+2320;Obligasjonslån;Gjeld
+2340;Andre valutalån;Gjeld
+2360;Byggelån;Gjeld
+2380;Kassakreditt;Gjeld
+2390;Annen gjeld til kredittinstitusjon;Gjeld
+2400;Leverandørgjeld;Gjeld
+2460;Leverandørgjeld til selskap i samme konsern;Gjeld
+2500;Betalbar skatt, ikke utlignet;Gjeld
+2510;Betalbar skatt, utlignet;Gjeld
+2530;Refusjon skatt etter skatteloven § 16-50;Gjeld
+2540;Forhåndsskatt;Gjeld
+2600;Forskuddstrekk;Gjeld
+2610;Utleggstrekk;Gjeld
+2620;Bidragstrekk;Gjeld
+2630;Trygdetrekk;Gjeld
+2640;Forsikringstrekk;Gjeld
+2650;Trukket fagforeningskontingent;Gjeld
+2670;Trukket lavtlønnsfond;Gjeld
+2690;Andre trekk;Gjeld
+2700;Utgående merverdiavgift, høy sats;Gjeld
+2701;Utgående merverdiavgift, middels sats;Gjeld
+2702;Utgående merverdiavgift, lav sats;Gjeld
+2703;Utgående merverdiavgift kjøp av tjenester fra utlandet, høy sats;Gjeld
+2704;Utgående merverdiavgift kjøp av tjenester fra utlandet, lav sats;Gjeld
+2705;Utgående merverdiavgift innførsel, høy sats;Gjeld
+2706;Utgående merverdiavgift innførsel, middels sats;Gjeld
+2707;Utgående merverdiavgift kjøp av klimakvoter og gull;Gjeld
+2710;Inngående merverdiavgift, høy sats;Gjeld
+2711;Inngående merverdiavgift, middels sats;Gjeld
+2712;Inngående merverdiavgift, lav sats;Gjeld
+2713;Direktepostert inngående merverdiavgift ved innførsel, høy sats;Gjeld
+2714;Direktepostert inngående merverdiavgift ved innførsel, middels sats;Gjeld
+2740;Oppgjørskonto merverdiavgift;Gjeld
+2770;Skyldig arbeidsgiveravgift;Gjeld
+2771;Skyldig finansskatt av lønn;Gjeld
+2780;Påløpt arbeidsgiveravgift på påløpt lønn;Gjeld
+2785;Påløpt arbeidsgiveravgift på ferielønn;Gjeld
+2786;Påløpt finansskatt av ferielønn;Gjeld
+2790;Andre offentlige avgifter;Gjeld
+2800;Avsatt utbytte;Gjeld
+2801;Avsatt tilleggsutbytte;Gjeld
+2802;Avsatt ekstraordinært utbytte;Gjeld
+2900;Forskudd fra kunder;Gjeld
+2910;Gjeld til ansatte og eiere;Gjeld
+2920;Gjeld til selskap i samme konsern;Gjeld
+2930;Skyldig lønn;Gjeld
+2940;Skyldig feriepenger;Gjeld
+2945;Periodisering av lønn;Gjeld
+2950;Påløpt rente;Gjeld
+2960;Annen påløpt kostnad;Gjeld
+2965;Forskuddsbetalt inntekt;Gjeld
+2970;Uopptjent inntekt;Gjeld
+2980;Avsetning styrehonorar;Gjeld
+2981;Avsetning revisjonshonorar;Gjeld
+2982;Avsetning regnskapshonorar;Gjeld
+2989;Avsetning andre forpliktelser;Gjeld
+2990;Annen kortsiktig gjeld;Gjeld
+3000;Salgsinntekt, avgiftspliktig;Driftsinntekter
+3001;Salgsinntekt, avgiftspliktig, middels sats;Driftsinntekter
+3002;Salgsinntekt, avgiftspliktig, lav sats;Driftsinntekter
+3011;Salgsinntekt, avgiftspliktig, råfisk;Driftsinntekter
+3060;Uttak av varer/tjenester;Driftsinntekter
+3061;Uttak av varer/tjenester, middels sats;Driftsinntekter
+3062;Uttak av varer/tjenester, lav sats;Driftsinntekter
+3063;Motkonto uttak av varer/tjenester;Driftsinntekter
+3080;Rabatt og annen salgsinntektsreduksjon;Driftsinntekter
+3090;Opptjent, ikke fakturert inntekt;Driftsinntekter
+3092;Motkonto salgsinntekt fisk, avgiftspliktig, medium sats;Driftsinntekter
+3093;Motkonto salgsinntekt, avgiftspliktig, lav sats;Driftsinntekter
+3094;Motkonto salgsinntekt, avgiftspliktig, medium sats;Driftsinntekter
+3095;Motkonto salgsinntekt, avgiftspliktig, høy sats;Driftsinntekter
+3100;Salgsinntekt, avgiftsfri;Driftsinntekter
+3107;Salgsinntekt utførsel av varer og tjenester, avgiftsfri;Driftsinntekter
+3108;Salgsinntekt gull og klimakvoter, avgiftsfri;Driftsinntekter
+3160;Uttak av varer/tjenester;Driftsinntekter
+3180;Rabatt og annen salgsinntektsreduksjon;Driftsinntekter
+3190;Opptjent, ikke fakturert inntekt;Driftsinntekter
+3195;Motkonto salgsinntekt, avgiftsfri;Driftsinntekter
+3197;Motkonto salgsinntekt utførsel av varer og tjenester, fritatt fra avgiftsplikt;Driftsinntekter
+3198;Motkonto salgsinntekt gull og klimakvoter, omvendt avgiftsplikt;Driftsinntekter
+3200;Salgsinntekt, utenfor avgiftsområdet;Driftsinntekter
+3260;Uttak av varer/tjenester;Driftsinntekter
+3280;Rabatt og annen salgsinntektsreduksjon;Driftsinntekter
+3290;Opptjent, ikke fakturert inntekt;Driftsinntekter
+3295;Motkonto salgsinntekt, utenfor avgiftsområdet;Driftsinntekter
+3300;Spesiell offentlig avgift for tilvirkede/solgte varer;Driftsinntekter
+3400;Spesielt offentlig tilskudd for tilvirkede/solgte varer;Driftsinntekter
+3440;Spesielt offentlig tilskudd for tjeneste;Driftsinntekter
+3600;Leieinntekt fast eiendom, avgiftspliktig;Driftsinntekter
+3605;Leieinntekt fast eiendom utenfor avgiftsområdet;Driftsinntekter
+3610;Leieinntekt andre varige driftsmidler avgiftspliktig;Driftsinntekter
+3615;Leieinntekt andre varige driftsmidler avgiftsfri;Driftsinntekter
+3620;Annen leieinntekt;Driftsinntekter
+3690;Opptjent, ikke fakturert leieinntekt;Driftsinntekter
+3700;Provisjonsinntekt, avgiftspliktig;Driftsinntekter
+3705;Provisjonsinntekt, avgiftsfri;Driftsinntekter
+3710;Provisjonsinntekt, utenfor avgiftsområdet;Driftsinntekter
+3790;Opptjent, ikke fakturert provisjon;Driftsinntekter
+3800;Salgssum anleggsmidler, avgiftspliktig;Driftsinntekter
+3805;Salgssum anleggsmidler, avgiftsfri;Driftsinntekter
+3807;Salgssum anleggsmidler, utenfor avgiftsområdet;Driftsinntekter
+3809;Motkonto, balanseverdi solgte anleggsmidler;Driftsinntekter
+3850;Verdiendringer investeringseiendommer;Driftsinntekter
+3870;Verdiendringer biologiske eiendeler;Driftsinntekter
+3890;Inntektsføring av gevinst- og tapskonto;Driftsinntekter
+3895;Inntektsføring av negativ saldo;Driftsinntekter
+3900;Annen driftsrelatert inntekt;Driftsinntekter
+4000;Innkjøp av råvarer og halvfabrikater;Driftskostnader
+4060;Frakt, toll og spedisjon;Driftskostnader
+4070;Innkjøpsprisreduksjon;Driftskostnader
+4090;Beholdningsendring;Driftskostnader
+4100;Innkjøp varer under tilvirkning;Driftskostnader
+4160;Frakt, toll og spedisjon;Driftskostnader
+4170;Innkjøpsprisreduksjon;Driftskostnader
+4190;Beholdningsendring;Driftskostnader
+4200;Innkjøp ferdig egentilvirkede varer;Driftskostnader
+4260;Frakt, toll og spedisjon;Driftskostnader
+4270;Innkjøpsprisreduksjon;Driftskostnader
+4290;Beholdningsendring;Driftskostnader
+4300;Innkjøp av varer for videresalg;Driftskostnader
+4301;Innkjøp av varer for videresalg, middels sats;Driftskostnader
+4350;Svinn, tap;Driftskostnader
+4360;Frakt, toll og spedisjon;Driftskostnader
+4370;Innkjøpsprisreduksjon;Driftskostnader
+4380;Grunnlag merverdiavgift ved innførsel;Driftskostnader
+4390;Beholdningsendring;Driftskostnader
+4400;Innkjøp av varer for videresalg - utland;Driftskostnader
+4500;Fremmedytelse og underentreprise;Driftskostnader
+4520;Under-entreprenører oppgavepliktig;Driftskostnader
+4590;Beholdningsendring;Driftskostnader
+4900;Annen periodisering;Driftskostnader
+4990;Beholdningsendring egentilvirkede anleggsmidler;Driftskostnader
+5000;Lønn til ansatte;Driftskostnader
+5020;Feriepenger;Driftskostnader
+5030;Sykepenger;Driftskostnader
+5090;Påløpt, ikke utbetalt lønn;Driftskostnader
+5091;Påløpte feriepenger av ikke utbetalt lønn;Driftskostnader
+5095;Periodisering av lønn;Driftskostnader
+5096;Periodisering av feriepenger;Driftskostnader
+5099;Andre lønnsperiodiseringer;Driftskostnader
+5200;Fri bil;Driftskostnader
+5210;Fri telefon;Driftskostnader
+5220;Fri avis;Driftskostnader
+5230;Fri kost, losji og bolig;Driftskostnader
+5240;Rentefordel;Driftskostnader
+5251;Gruppelivsforsikring;Driftskostnader
+5252;Ulykkesforsikring;Driftskostnader
+5280;Annen fordel i arbeidsforhold;Driftskostnader
+5285;Annen fordel i arbeidsforhold - ikke arbeidsgiveravgiftspliktig;Driftskostnader
+5290;Motkonto for gruppe 52;Driftskostnader
+5300;Tantieme;Driftskostnader
+5310;Gruppelivsforsikring;Driftskostnader
+5320;Annen oppgavepliktig personalforsikring;Driftskostnader
+5330;Godtgjørelse til styre- og bedriftsforsamling;Driftskostnader
+5390;Annen oppgavepliktig godtgjørelse;Driftskostnader
+5395;Annen oppgavepliktig godtgjørelse - ikke arbeidsgiveravgiftspliktig;Driftskostnader
+5400;Arbeidsgiveravgift;Driftskostnader
+5401;Arbeidsgiveravgift av opptjente feriepenger;Driftskostnader
+5405;Arbeidsgiveravgift av andre påløpte lønnskostnader;Driftskostnader
+5420;Innberetningspliktig pensjonskostnad;Driftskostnader
+5430;Finansskatt av lønn;Driftskostnader
+5431;Finansskatt av påløpt ferielønn;Driftskostnader
+5495;Periodisering av arbeidsgiveravgift;Driftskostnader
+5496;Periodisering av arbeidsgiveravgift av opptjente feriepenger;Driftskostnader
+5500;Annen kostnadsgodtgjørelse;Driftskostnader
+5510;Trekkpliktig del av reise;Driftskostnader
+5600;Arbeidsgodtgjørelse til eiere i ANS o.l.;Driftskostnader
+5700;Lærlingtilskudd;Driftskostnader
+5750;Andre lønnstilskudd;Driftskostnader
+5800;Refusjon av sykepenger;Driftskostnader
+5820;Refusjon av arbeidsgiveravgift;Driftskostnader
+5830;Refusjon arbeidsmarkedstiltak;Driftskostnader
+5890;Annen refusjon;Driftskostnader
+5900;Gave til ansatte, fradragsberettiget;Driftskostnader
+5901;Gave til ansatte, ikke fradragsberettiget;Driftskostnader
+5910;Kantinekostnad;Driftskostnader
+5912;Middag ved overtid;Driftskostnader
+5919;Trekk kantinekostnad ansatte;Driftskostnader
+5920;Yrkesskadeforsikring;Driftskostnader
+5930;Annen ikke arbeidsgiveravgiftspliktig forsikring;Driftskostnader
+5941;LO/NHO ( O & U + sluttvederlag);Driftskostnader
+5942;LO/NHO ( AFP );Driftskostnader
+5945;Pensjonsforsikring for ansatte;Driftskostnader
+5990;Annen personalkostnad;Driftskostnader
+6000;Avskrivning på bygninger og annen fast eiendom;Driftskostnader
+6010;Avskriving på transportmidler;Driftskostnader
+6015;Avskrivning på maskiner;Driftskostnader
+6017;Avskrivning på inventar;Driftskostnader
+6020;Avskrivning på immaterielle eiendeler;Driftskostnader
+6050;Nedskrivning på varige driftsmidler og immaterielle eiendeler;Driftskostnader
+6100;Frakt, transportkostnad og forsikring ved vareforsendelse;Driftskostnader
+6110;Toll og spedisjonskostnad ved vareforsendelse;Driftskostnader
+6190;Annen frakt- og transportkostnad ved salg;Driftskostnader
+6200;Elektrisitet;Driftskostnader
+6210;Gass;Driftskostnader
+6220;Fyringsolje;Driftskostnader
+6230;Kull, koks;Driftskostnader
+6240;Ved;Driftskostnader
+6250;Bensin, dieselolje;Driftskostnader
+6260;Vann;Driftskostnader
+6290;Annet brensel;Driftskostnader
+6300;Leie lokale;Driftskostnader
+6320;Renovasjon, vann, avløp o.l.;Driftskostnader
+6340;Lys, varme;Driftskostnader
+6360;Renhold;Driftskostnader
+6390;Annen kostnad lokaler;Driftskostnader
+6400;Leie maskiner;Driftskostnader
+6410;Leie inventar;Driftskostnader
+6420;Leie datasystemer;Driftskostnader
+6430;Leie andre kontormaskiner;Driftskostnader
+6440;Leie transportmidler;Driftskostnader
+6490;Annen leiekostnad;Driftskostnader
+6500;Motordrevet verktøy;Driftskostnader
+6510;Håndverktøy;Driftskostnader
+6520;Hjelpeverktøy;Driftskostnader
+6530;Spesialverktøy;Driftskostnader
+6540;Inventar;Driftskostnader
+6550;Driftsmateriale;Driftskostnader
+6551;Datautstyr (hardware);Driftskostnader
+6552;Datautstyr (software);Driftskostnader
+6560;Rekvisita;Driftskostnader
+6570;Arbeidsklær og verneutstyr;Driftskostnader
+6590;Annet driftsmateriale;Driftskostnader
+6600;Reparasjon og vedlikehold bygninger;Driftskostnader
+6620;Reparasjon og vedlikehold utstyr;Driftskostnader
+6690;Reparasjon og vedlikehold annet;Driftskostnader
+6701;Honorar revisjon;Driftskostnader
+6702;Honorar rådgivning revisjon;Driftskostnader
+6705;Honorar regnskap;Driftskostnader
+6720;Honorar for økonomisk rådgivning;Driftskostnader
+6725;Honorar for juridisk bistand, fradragsberettiget;Driftskostnader
+6726;Honorar for juridisk bistand, ikke fradragsberettiget;Driftskostnader
+6790;Annen fremmed tjeneste;Driftskostnader
+6800;Kontorrekvisita;Driftskostnader
+6810;Datakostnad;Driftskostnader
+6820;Trykksak;Driftskostnader
+6840;Aviser, tidsskrifter, bøker o.l.;Driftskostnader
+6860;Møte, kurs, oppdatering o.l.;Driftskostnader
+6890;Annen kontorkostnad;Driftskostnader
+6900;Telefon;Driftskostnader
+6940;Porto;Driftskostnader
+6999;Privat fordel bruk av elektroniske kommunikasjonsmidler;Driftskostnader
+7000;Drivstoff, selskapets transportmidler;Driftskostnader
+7020;Vedlikehold, selskapets transportmidler;Driftskostnader
+7040;Forsikring, selskapets transportmidler;Driftskostnader
+7080;Bilkostnader, bruk av privat bil i næring;Driftskostnader
+7090;Annen kostnad, selskapets transportmidler;Driftskostnader
+7100;Bilgodtgjørelse oppgavepliktig;Driftskostnader
+7130;Reisekostnad, oppgavepliktig;Driftskostnader
+7140;Reisekostnad, ikke oppgavepliktig;Driftskostnader
+7150;Diettkostnad, oppgavepliktig;Driftskostnader
+7160;Diettkostnad, ikke oppgavepliktig;Driftskostnader
+7190;Annen kostnadsgodtgjørelse;Driftskostnader
+7200;Provisjonskostnad, oppgavepliktig;Driftskostnader
+7210;Provisjonskostnad, ikke oppgavepliktig;Driftskostnader
+7300;Salgskostnad;Driftskostnader
+7320;Reklamekostnad;Driftskostnader
+7350;Representasjon, fradragsberettiget;Driftskostnader
+7360;Representasjon, ikke fradragsberettiget;Driftskostnader
+7390;Annen salgskostnad;Driftskostnader
+7400;Kontingent, fradragsberettiget;Driftskostnader
+7410;Kontingent, ikke fradragsberettiget;Driftskostnader
+7420;Gave, fradragsberettiget;Driftskostnader
+7430;Gave, ikke fradragsberettiget;Driftskostnader
+7500;Forsikringspremie;Driftskostnader
+7550;Garantikostnad;Driftskostnader
+7560;Servicekostnad;Driftskostnader
+7600;Lisensavgift og royalties;Driftskostnader
+7610;Patentkostnad ved egen patent;Driftskostnader
+7620;Kostnad ved varemerke o.l.;Driftskostnader
+7630;Kontroll-, prøve- og stempelavgift;Driftskostnader
+7700;Styre- og bedriftsforsamlingsmøter;Driftskostnader
+7710;Generalforsamling;Driftskostnader
+7730;Kostnad ved egne aksjer;Driftskostnader
+7740;Øredifferanser;Driftskostnader
+7750;Eiendoms- og festeavgift;Driftskostnader
+7770;Bank og kortgebyrer;Driftskostnader
+7790;Annen kostnad, fradragsberettiget;Driftskostnader
+7791;Annen kostnad, ikke fradragsberettiget;Driftskostnader
+7800;Tap ved avgang av anleggsmidler;Driftskostnader
+7805;Salgssum anleggsmidler avgiftsfri;Driftskostnader
+7807;Salgssum anleggsmidler utenfor avgiftsområdet;Driftskostnader
+7809;Motkonto balanseverdi solgte anleggsmidler;Driftskostnader
+7820;Innkommet på tidligere nedskrevne fordringer;Driftskostnader
+7830;Konstaterte tap på fordringer;Driftskostnader
+7831;Endring i avsetning tap på fordringer;Driftskostnader
+7860;Tap på kontrakter;Driftskostnader
+7890;Fradragsføring av gevinst- og tapskonto;Driftskostnader
+7900;Beholdningsendring anlegg under utførelse;Driftskostnader
+7971;Justering inngående merverdiavgift fast eiendom;Driftskostnader
+7972;Justering inngående merverdiavgift maskiner, inventar mv;Driftskostnader
+7980;Tilbakeføring av inngående merverdiavgift;Driftskostnader
+8000;Inntekt på investering i datterselskap;Finansinntekter
+8010;Inntekt på investering i annet foretak i samme konsern;Finansinntekter
+8020;Inntekt på investering i tilknyttet selskap;Finansinntekter
+8030;Renteinntekt fra foretak i samme konsern;Finansinntekter
+8040;Renteinntekt, skattefri;Finansinntekter
+8050;Annen renteinntekt;Finansinntekter
+8060;Valutagevinst (agio);Finansinntekter
+8070;Annen finansinntekt;Finansinntekter
+8071;Aksjeutbytte;Finansinntekter
+8078;Gevinst ved realisasjon av aksjer;Finansinntekter
+8080;Verdiøkning av finansielle instrumenter vurdert til virkelig verdi;Finansinntekter
+8090;Inntekt av andre investeringer;Finansinntekter
+8100;Verdireduksjon av finansielle instrumenter vurdert til virkelig verdi;Finanskostnader
+8110;Nedskrivning av andre finansielle omløpsmidler;Finanskostnader
+8120;Nedskrivning av finansielle anleggsmidler;Finanskostnader
+8130;Rentekostnad til foretak i samme konsern;Finanskostnader
+8140;Rentekostnad, ikke fradragsberettiget;Finanskostnader
+8150;Annen rentekostnad;Finanskostnader
+8160;Valutatap (disagio);Finanskostnader
+8170;Annen finanskostnad;Finanskostnader
+8178;Tap ved realisasjon av aksjer;Finanskostnader
+8300;Betalbar skatt;Skattekostnad på ordinært resultat
+8310;Refusjon skatt etter skatteloven § 16-50;Skattekostnad på ordinært resultat
+8320;Endring utsatt skatt;Skattekostnad på ordinært resultat
+8321;Økning utsatt skatt/nedgang utsatt skattefordel;Skattekostnad på ordinært resultat
+8322;Nedgang utsatt skatt/økning utsatt skattefordel;Skattekostnad på ordinært resultat
+8323;For lite avsatt skatt fra tidligere år;Skattekostnad på ordinært resultat
+8324;For mye avsatt skatt fra tidligere år;Skattekostnad på ordinært resultat
+8410;Ekstraordinær gevinst ved salg av anleggsmidler;Ekstraordinære inntekter
+8450;Ekstraordinære offentlige tilskudd;Ekstraordinære inntekter
+8490;Annen ekstraordinær inntekt;Ekstraordinære inntekter
+8510;Ekstraordinær kostnad ved salg av anleggmidler;Ekstraordinære kostnader
+8590;Annen ekstraordinær kostnad;Ekstraordinære kostnader
+8600;Betalbar skatt;Skattekostnad på ekstraordinært resultat
+8610;Refusjon skatt etter skatteloven § 16-50;Skattekostnad på ekstraordinært resultat
+8620;Endring utsatt skatt/skattefordel;Skattekostnad på ekstraordinært resultat
+8800;Årsresultat;Årsresultat
+8900;Overføringer fond;Overføringer og disponeringer
+8910;Overføringer felleseid andelskapital for samvirkeforetak;Overføringer og disponeringer
+8920;Avsatt utbytte;Overføringer og disponeringer
+8925;Tilleggsutbytte;Overføringer og disponeringer
+8926;Ekstraordinært utbytte;Overføringer og disponeringer
+8930;Mottatt konsernbidrag;Overføringer og disponeringer
+8935;Avsatt konsernbidrag;Overføringer og disponeringer
+8940;Mottatt aksjonærbidrag;Overføringer og disponeringer
+8945;Avsatt aksjonærbidrag;Overføringer og disponeringer
+8950;Fondsemisjon;Overføringer og disponeringer
+8960;Overføringer annen egenkapital;Overføringer og disponeringer
+8990;Udekket tap;Overføringer og disponeringer
+9999;Hjelpekonto;Eiendeler
