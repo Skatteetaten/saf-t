@@ -273,6 +273,7 @@ skattekostnad;Næringsspesifikasjon;Income Statement;8.91.7.89;Skatt på andre i
 skattekostnad;Næringsspesifikasjon;Income Statement;8.91.7.89.00;Skatt på inntekt/kostnad som ikke blir omklassifisert;Tax on income/expense that is not reclassified
 skattekostnad;Næringsspesifikasjon;Income Statement;8.92.7.89;Skatt på andre inntekter og kostnader som kan bli omklassifisert;Tax on other income and expenses that may be reclassified
 skattekostnad;Næringsspesifikasjon;Income Statement;8.92.7.89.00;Skatt på inntekt/kostnad som kan bli omklassifisert;Tax on income/expense that may be reclassified
+resultatDisponeringForSAF-T;Næringsspesifikasjon;Income Statement;8800;Disponering av årets overskudd/dekning av årets underskudd;Appropriation of profit/allocation of loss
 resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8901.1;Endring i verdireguleringsreserve;Change in revaluation surplus
 resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8901.2;Aktuariell gevinst og tap på ytelsesplaner;Actuarial profit and loss on benefit schemes
 resultatkomponentForIFRSForetak;Næringsspesifikasjon;Income Statement;8901.3;Andre inntekter og kostnader tilknyttede foretak;Other income and expenses from associated enterprises
@@ -438,7 +439,7 @@ endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;
 endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.08.0.60.20;Andre egenkapitaltransaksjoner - Mottatt konsernbidrag;Other equity transactions – Received group contribution
 endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.08.0.70.00;Andre egenkapitaltransaksjoner - Kundeutbytte;Other equity transactions – Customer dividends
 endringIEgenkapitalInnenBankOgForsikring;Næringsspesifikasjon;Income Statement;9.08.0.90.00;Andre egenkapitaltransaksjoner - Andre;Other equity transactions – Other
-balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;1.11.00;Kontanter;Cash
+balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;01.11.2000;Kontanter;Cash
 balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;1.16.00;Bankinnskudd;Bank deposits
 balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.20.40;Fondsobligasjoner klassifisert som egenkapital;Hybrid capital classified as equity capital
 balanseverdiForBankOgForsikringseiendel;Næringsspesifikasjon;Income Statement;2.20.51;Andeler i rentefond;Units in interest funds
