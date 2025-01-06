@@ -1525,8 +1525,8 @@
 		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
 		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
 		<GroupingCode>6350</GroupingCode>
-		<CodeDescription ISOLanguageCode="NOB">Strøm og oppvarming</CodeDescription>
-		<CodeDescription ISOLanguageCode="ENG">Electricity and heating</CodeDescription>
+		<CodeDescription ISOLanguageCode="NOB">IT kostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">IT costs</CodeDescription>
 	</Account>
 	<Account>
 		<GroupingCategory>annenDriftskostnad</GroupingCategory>
