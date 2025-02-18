@@ -20,7 +20,6 @@ balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1205;Personb
 balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1221;Skip, rigger mv.;Ships, rigs, etc.
 balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1225;Fly, helikopter mv.;Aircrafts, helicopters, etc.
 balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1238;Vare- og lastebiler, busser mv.;Vans and trucks, buses, etc.
-balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1239;Varebiler med nullutslipp;Vans with zero emissions
 balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1280;Kontormaskiner o.l.;Office equipment, etc.
 balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1290;Andre driftsmidler;Other fixed assets
 balanseverdiForAnleggsmiddel;Næringsspesifikasjon;Income Statement;1295;Driftsmidler som avskrives lineært;Fixed assets depreciated on a straight-line basis
@@ -92,6 +91,7 @@ kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2949;Skyldig lønn og fer
 kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2950;Skyldige gjeldsrenter;Unpaid interest on debt
 kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2970;Uopptjent inntekt;Unearned income
 kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2980;Avsetninger for forpliktelser;Provisions for liabilities
+kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2981;Avsatt etterbetaling til medlem;Provision for back payment to members
 kortsiktigGjeld;Næringsspesifikasjon;Income Statement;2990;Annen kortsiktig gjeld;Other short-term debt
 egenkapital;Næringsspesifikasjon;Income Statement;2000;Aksjekapital/Egenkapital andre foretak;Share capital/Equity other enterprises
 egenkapital;Næringsspesifikasjon;Income Statement;2010;Egne aksjer;Own shares
@@ -139,7 +139,6 @@ salgsinntekt;Næringsspesifikasjon;Income Statement;3100;Salgsinntekt og uttak, 
 salgsinntekt;Næringsspesifikasjon;Income Statement;3200;Salgsinntekt og uttak, utenfor merverdiavgiftsloven;Sales and withdrawals outside the scope of the VAT Act
 salgsinntekt;Næringsspesifikasjon;Income Statement;3300;Spesielle offentlige avgifter vedrørende salg;Excise duties on sales
 annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3400;Offentlig tilskudd/refusjon;Government subsidies and reimbursements
-annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3410;Kompensasjon for stort omsetningsfall på grunn av koronapandemien;Compensation for large drops in revenue resulting from the coronavirus pandemic
 annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3500;Endring uopptjent inntekt;Change in unearned income
 annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3600;Leieinntekt fast eiendom;Rental income from real property
 annenDriftsinntekt;Næringsspesifikasjon;Income Statement;3650;Leieinntekt av rettigheter - jakt, fiske, mv.;Rental income from rights to hunting, fishing, etc
