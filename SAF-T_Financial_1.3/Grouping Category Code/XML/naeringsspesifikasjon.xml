@@ -1517,8 +1517,8 @@
 		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
 		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
 		<GroupingCode>6350</GroupingCode>
-		<CodeDescription ISOLanguageCode="NOB">Strøm og oppvarming</CodeDescription>
-		<CodeDescription ISOLanguageCode="ENG">Electricity and heating</CodeDescription>
+		<CodeDescription ISOLanguageCode="NOB">IT kostnader</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">IT costs</CodeDescription>
 	</Account>
 	<Account>
 		<GroupingCategory>annenDriftskostnad</GroupingCategory>
@@ -2183,6 +2183,14 @@
 		<GroupingCode>8.92.7.89.00</GroupingCode>
 		<CodeDescription ISOLanguageCode="NOB">Skatt på inntekt/kostnad som kan bli omklassifisert</CodeDescription>
 		<CodeDescription ISOLanguageCode="ENG">Tax on income/expense that may be reclassified</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>resultatDisponeringForSAF-T</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>8800</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Disponering av årets overskudd/dekning av årets underskudd</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Appropriation of profit/allocation of loss</CodeDescription>
 	</Account>
 	<Account>
 		<GroupingCategory>resultatkomponentForIFRSForetak</GroupingCategory>
