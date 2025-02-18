@@ -172,14 +172,6 @@
 		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
 		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
 		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
-		<GroupingCode>1239</GroupingCode>
-		<CodeDescription ISOLanguageCode="NOB">Varebiler med nullutslipp</CodeDescription>
-		<CodeDescription ISOLanguageCode="ENG">Vans with zero emissions</CodeDescription>
-	</Account>
-	<Account>
-		<GroupingCategory>balanseverdiForAnleggsmiddel</GroupingCategory>
-		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
-		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
 		<GroupingCode>1280</GroupingCode>
 		<CodeDescription ISOLanguageCode="NOB">Kontormaskiner o.l.</CodeDescription>
 		<CodeDescription ISOLanguageCode="ENG">Office equipment, etc.</CodeDescription>
@@ -748,6 +740,14 @@
 		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
 		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
 		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
+		<GroupingCode>2981</GroupingCode>
+		<CodeDescription ISOLanguageCode="NOB">Avsatt etterbetaling til medlem</CodeDescription>
+		<CodeDescription ISOLanguageCode="ENG">Provision for back payment to members</CodeDescription>
+	</Account>
+	<Account>
+		<GroupingCategory>kortsiktigGjeld</GroupingCategory>
+		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
+		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
 		<GroupingCode>2990</GroupingCode>
 		<CodeDescription ISOLanguageCode="NOB">Annen kortsiktig gjeld</CodeDescription>
 		<CodeDescription ISOLanguageCode="ENG">Other short-term debt</CodeDescription>
@@ -1119,14 +1119,6 @@
 		<GroupingCode>3400</GroupingCode>
 		<CodeDescription ISOLanguageCode="NOB">Offentlig tilskudd/refusjon</CodeDescription>
 		<CodeDescription ISOLanguageCode="ENG">Government subsidies and reimbursements</CodeDescription>
-	</Account>
-	<Account>
-		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
-		<CategoryDescription ISOLanguageCode="NOB">Næringsspesifikasjon</CategoryDescription>
-		<CategoryDescription ISOLanguageCode="ENG">Income Statement</CategoryDescription>
-		<GroupingCode>3410</GroupingCode>
-		<CodeDescription ISOLanguageCode="NOB">Kompensasjon for stort omsetningsfall på grunn av koronapandemien</CodeDescription>
-		<CodeDescription ISOLanguageCode="ENG">Compensation for large drops in revenue resulting from the coronavirus pandemic</CodeDescription>
 	</Account>
 	<Account>
 		<GroupingCategory>annenDriftsinntekt</GroupingCategory>
