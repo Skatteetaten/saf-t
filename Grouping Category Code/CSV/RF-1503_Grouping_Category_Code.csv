@@ -1,139 +1,139 @@
-GroupingCategory;CategoryDescriptionNOB;CategoryDescriptionENG;GroupingCode;CodeDescriptionNOB;CodeDescriptionENG
-RF-1503;Næringsoppgave 7;Income Statement 7;1.05.0.10;Forfalte bruttopremier;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.05.0.20;Avgitte gjenforsikringspremier (negativt fortegn hvis kostnad);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.05.0.30;Endring i avsetning for ikke opptjent bruttopremie (negativt fortegn hvis kostnad);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.05.0.40;Endring i gjenforsikringsandel av ikke opptjent bruttopremie (negativt fortegn hvis kostnad);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.10.0.00;Renteinntekter mv.;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.35.1.36.70;Resultatandel,Ek-.metoden (kan være negativ);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.35.0.99;Annet utbytte og andel av over-/ under-skudd, samt renter på obligasjons- og pengemarkedsfond;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.60.0.00;Netto verdiendringer (negativ hvis netto negative verdiendringer);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.70.0.00;Netto realisert gevinst/tap (negativ hvis netto realisert tap);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;2.45.0.00;Provisjoner og administrasjonsgebyrer;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;2.55.0.00;Driftsinntekter faste eiendommer;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;2.65.0.00;Øvrige forsikringsrelaterte inntekter;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.65.0.00;Rente på skatt og andre inntekter i ikke-teknisk regnskap;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;4.05.0.00;Erstatningskostnader;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;4.08.0.00;Endring i øvrige forsikringstekniske avsetninger;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;4.10.8.00;Rentekostnader, Ansvarlig lånekapital;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;4.10.0.88;Rentekostnader, Finansielle derivater;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;4.10.0.91;Rentekostnader, Andre finansielle forpliktelser;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;4.10.0.94;Forsikringsrelaterte rentekostnader;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.45.0.10;Provisjoner, kurtasje mv., Provisjoner til agenter mv.;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.45.0.20;Provisjoner, kurtasje mv., Avgitt provisjoner for mottatt gjenforsikring (negativt fortegn hvis inntekt);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.45.0.30;Provisjoner, kurtasje mv., Mottatte provisjoner for avgitt gjenforsikring og gevinstandeler (negativt fortegn hvis inntekt);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.45.0.40;Provisjoner, kurtasje mv., Avgitt provisjon for mottatt koassuranse (negativt fortegn hvis inntekt);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.45.0.50;Provisjoner, kurtasje mv., Mottatt provisjon for avgitt koassuranse (negativt fortegn hvis inntekt);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.45.0.88;Provisjoner, kurtasje mv., Kurtasje mv.;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.50.0.05;Lønns- og personalkostnader, Lønn og feriepenger til ansatte;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.50.0.21;Lønns- og personalkostnader, Arbeidsgiveravgift;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.50.0.28;Lønns- og personalkostnader, Pensjonskostnader;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.50.0.50;Lønns- og personalkostnader, Andre personalkostnader;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.52.0.00;Honorarer;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.55.0.00;Driftskostnader faste eiendommer;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.65.0.10;Andre ordinære driftskostnader, Leie og driftskostnader vedr. lokaler og maskiner mv.;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.65.0.88;Andre forsikringsrelaterte driftskostnader og kostnader knyttet til finansielle eiendeler;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.65.0.89;Andre forsikringsrelaterte kostnader;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.71.4.85;Avskrivninger, Immaterielle eiendeler mv.;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.71.5.86;Avskrivninger, Bygninger og annen fast eiendom;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.71.5.87;Avskrivninger, Maskiner, inventar og transportmidler;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;6.65.0.00;Emisjonskostnader, rente på skatt og andre kostnader i ikke-teknisk regnskap;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.05.0.05;Periodeskatt;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.05.0.11;For lite/mye avsatt skatt tidligere år;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.05.0.92;Endring i forpliktelse ved utsatt skatt;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.91.0.30;Estimatendinger knyttet til ytelsesbaserte pensjonsordninger;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.91.0.60;Fra finansielle eiendeler og forpliktelser;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.91.0.71;Verdireguleringer på eiendom, anlegg og utstyr;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.91.0.72;Fra andre ikke-finansielle eiendeler;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.91.7.89;Skatt på andre inntekter og kostnader som ikke blir omklassifisert;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.92.0.20;Fra investeringer i rentebærende verdipapirer klassifisert til virkelig verdi over OCI - kun skadeforsikring som følger IFRS 9;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.92.0.21;Gevinster og tap på finansielle eiendeler tilgjengelig for salg - kun skadeforsikring som ikke følger IFRS 9;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.92.0.40;Effektiv andel av nettogevinst på sikringsinstrumenter i kontantstrømsikring;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.92.0.60;Fra andre finansielle eiendeler og forpliktelser;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.92.0.70;Fra ikke-finansielle eiendeler;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.92.7.89;Skatt på andre inntekter og kostnader som kan bli omklassifisert;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.15.00;Sedler og skillemynt;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.21.00;Bankinnskudd;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.36.21;Aksjer, ekskl. aksjer i eiendomsselskaper;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.36.22;Aksjer i eiendomsselskaper;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.36.31;Andeler i KS og ansvarlige selskaper, ekskl. andeler i eiendomsselskaper;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.36.32;Andeler i eiendomsselskaper;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.36.33;Andeler i indre eiendomsselskaper;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.36.34;Andeler i andre indre selskaper (IS);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.36.51;Andeler i rentefond;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.36.56;Andeler i aksje- og kombinasjonsfond;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.36.90;Egenkapitalbevis;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.40.00;Rentebærende omsettelige verdipapirer;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.88.00;Finansielle derivater;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;1.89.90;Andre verdipapirer/finansielle eiendeler ekskl. utlån;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;2.55.37;Utlån brutto balanseført verdi - Med pant i bolig;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;2.55.42;Utlån brutto balanseført verdi - Andre pantelån;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;2.55.88;Utlån brutto balanseført verdi - Verdipapir-/ repolån;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;2.55.92;Utlån brutto balanseført verdi - Andre utlån;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;2.60.00;Tapsnedskrivninger;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.26.00;Gjenforsikringsandel av ikke opptjent bruttopremie;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.27.00;Gjenforsikringsandel av brutto erstatningsavsetning;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.62.70;Opptjente, ikke forfalte leieinntekter;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.62.90;Opptjente, ikke forfalte andre inntekter;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.63.50;Forskuddsbetalte direkte salgskostnader;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.63.90;Forskuddsbetalte andre kostnader;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.73.00;I regning med filial;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.75.10;Andre fordringer - Tegnet, ikke innbetalt kapital;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.75.31;Andre fordringer - Vedr. dir. forsikring, forsikringstakere;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.75.32;Andre fordringer - Vedr. direkte forsikring, mellommenn;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.75.40;Andre fordringer - Vedrørende gjenforsikring;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.75.90;Andre fordringer - Andre fordringer ellers;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.84.00;Eiendeler ved skatt (utsatt skattefordel);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.89.50;Andre eiendeler - Gjenforsikringsdepoter;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;3.89.90;Andre eiendeler - Øvrige;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;4.85.11;Immaterielle eiendeler - Goodwill;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;4.85.90;Immaterielle eiendeler - Andre immaterielle eiendeler;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.86.10;Bygninger og annen fast eiendom, ekskl. aksjer i eiendomsselskaper- Investeringseiendommer;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.86.20;Bygninger og annen fast eiendom, ekskl. aksjer i eiendomsselskaper- Eierbenyttet eiendom;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.87.00;Maskiner, inventar og transportmidler;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;5.96.00;Leierettigheter;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.55.88;Lån - Verdipapir-/repolån;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.55.90;Lån - Likviditetslån;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.62.80;Påløpte, ikke forfalte kostnader - Lønn, ferielønn, honorarer o.l;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.62.90;Påløpte, ikke forfalte kostnader - Andre kostnader;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.63.70;Mottatte, ikke opptjente inntekter - Leieinntekter;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.63.90;Mottatte, ikke opptjente inntekter - Andre inntekter;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.71.10;Utbytte, konsernbidrag o.l - Utbytte/ egenkapitalbevisrenter siste år;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.71.50;Utbytte, konsernbidrag o.l - Konsernbidrag siste år;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.73.00;I regning med filial;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.75.30;Annen gjeld - Vedrørende direkte forsikring;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.75.40;Annen gjeld - Vedrørende gjenforsikring;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.75.50;Annen gjeld - Premiedepot fra gjenforsikr.foretak;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.75.90;Annen gjeld - Annen gjeld ellers;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.88.00;Finansielle derivater;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.89.00;Forpliktelser knyttet til leierettigheter;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.90.11;Avsetninger o.l. - Periodeskatt (kan være negativ);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.90.13;Avsetninger o.l. - Forpliktelse ved utsatt skatt knyttet til forsikringsforpliktelser/forsikringstekniske avsetninger under egenkapital;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.90.15;Avsetninger o.l. - Andre forpliktelser ved utsatt skatt;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.90.70;Avsetninger o.l. - Pensjonsforpliktelser;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;7.90.90;Avsetninger o.l. - Andre avsetninger;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.26.11;Avsetning for ikke opptjent bruttopremie;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.27.11;Brutto erstatningsavsetning;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.29.00;Avsetning for ikke avløpt risiko;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.42.11;Ansvarlig lånekapital i form av rentebærende omsettelige verdipapirer, netto - Evigvarende;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.42.22;Ansvarlig lånekapital i form av rentebærende omsettelige verdipapirer, netto - Ordinære ikke-konvertible;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.42.24;Ansvarlig lånekapital i form av rentebærende omsettelige verdipapirer, netto - Konvertible;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.49.11;Fondsobligasjoner - Evigvarende;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.55.11;Andre ansvarlige lån - Evigvarende;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;8.55.20;Andre ansvarlige lån - Andre;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.92.10;Selskapskapital - Aksjekapital;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.92.12;Selskapskapital - Eierandelskapital;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.92.20;Selskapskapital - Garantifond;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.92.30;Selskapskapital - Egne aksjer (negativ);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.92.32;Selskapskapital - Egne eierandelskapital (negativ);NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.93.10;Annen innskutt egenkapital - Overkurs;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.93.25;Annen innskutt egenkapital - Egenkapitalandel av sammensatte fin. Instrumenter o.a. egenkapitalinstrumenter;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.93.30;Annen innskutt egenkapital - Annen innskutt egenkapital;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.93.49;Annen innskutt egenkapital - Fondsobligasjonskapital;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.96.10;Fond mv. - Fond for vurderingsforskjeller;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.96.20;Fond mv. - Fond for urealiserte gevinster;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.96.70;Fond mv. - Avsetning til naturskadefondet;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.96.80;Fond mv. - Avsetning til garantiordningen;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.98.10;Annen opptjent egenkapital - Utbytte/grunnfondsbev.renter siste år;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.98.42;Annen opptjent egenkapital - Renter på fondsobligasjoner siste år;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.98.50;Annen opptjent egenkapital - Konsernbidrag siste år;NA
-RF-1503;Næringsoppgave 7;Income Statement 7;9.98.90;Annen opptjent egenkapital - Øvrig;NA
+ï»¿GroupingCategory;CategoryDescriptionNOB;CategoryDescriptionENG;GroupingCode;CodeDescriptionNOB;CodeDescriptionENG
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.05.0.10;Forfalte bruttopremier;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.05.0.20;Avgitte gjenforsikringspremier (negativt fortegn hvis kostnad);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.05.0.30;Endring i avsetning for ikke opptjent bruttopremie (negativt fortegn hvis kostnad);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.05.0.40;Endring i gjenforsikringsandel av ikke opptjent bruttopremie (negativt fortegn hvis kostnad);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.10.0.00;Renteinntekter mv.;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.35.1.36.70;Resultatandel,Ek-.metoden (kan vÃ¦re negativ);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.35.0.99;Annet utbytte og andel av over-/ under-skudd, samt renter pÃ¥ obligasjons- og pengemarkedsfond;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.60.0.00;Netto verdiendringer (negativ hvis netto negative verdiendringer);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.70.0.00;Netto realisert gevinst/tap (negativ hvis netto realisert tap);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;2.45.0.00;Provisjoner og administrasjonsgebyrer;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;2.55.0.00;Driftsinntekter faste eiendommer;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;2.65.0.00;Ã˜vrige forsikringsrelaterte inntekter;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.65.0.00;Rente pÃ¥ skatt og andre inntekter i ikke-teknisk regnskap;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;4.05.0.00;Erstatningskostnader;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;4.08.0.00;Endring i Ã¸vrige forsikringstekniske avsetninger;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;4.10.8.00;Rentekostnader, Ansvarlig lÃ¥nekapital;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;4.10.0.88;Rentekostnader, Finansielle derivater;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;4.10.0.91;Rentekostnader, Andre finansielle forpliktelser;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;4.10.0.94;Forsikringsrelaterte rentekostnader;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.45.0.10;Provisjoner, kurtasje mv., Provisjoner til agenter mv.;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.45.0.20;Provisjoner, kurtasje mv., Avgitt provisjoner for mottatt gjenforsikring (negativt fortegn hvis inntekt);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.45.0.30;Provisjoner, kurtasje mv., Mottatte provisjoner for avgitt gjenforsikring og gevinstandeler (negativt fortegn hvis inntekt);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.45.0.40;Provisjoner, kurtasje mv., Avgitt provisjon for mottatt koassuranse (negativt fortegn hvis inntekt);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.45.0.50;Provisjoner, kurtasje mv., Mottatt provisjon for avgitt koassuranse (negativt fortegn hvis inntekt);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.45.0.88;Provisjoner, kurtasje mv., Kurtasje mv.;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.50.0.05;LÃ¸nns- og personalkostnader, LÃ¸nn og feriepenger til ansatte;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.50.0.21;LÃ¸nns- og personalkostnader, Arbeidsgiveravgift;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.50.0.28;LÃ¸nns- og personalkostnader, Pensjonskostnader;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.50.0.50;LÃ¸nns- og personalkostnader, Andre personalkostnader;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.52.0.00;Honorarer;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.55.0.00;Driftskostnader faste eiendommer;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.65.0.10;Andre ordinÃ¦re driftskostnader, Leie og driftskostnader vedr. lokaler og maskiner mv.;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.65.0.88;Andre forsikringsrelaterte driftskostnader og kostnader knyttet til finansielle eiendeler;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.65.0.89;Andre forsikringsrelaterte kostnader;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.71.4.85;Avskrivninger, Immaterielle eiendeler mv.;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.71.5.86;Avskrivninger, Bygninger og annen fast eiendom;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.71.5.87;Avskrivninger, Maskiner, inventar og transportmidler;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;6.65.0.00;Emisjonskostnader, rente pÃ¥ skatt og andre kostnader i ikke-teknisk regnskap;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.05.0.05;Periodeskatt;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.05.0.11;For lite/mye avsatt skatt tidligere Ã¥r;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.05.0.92;Endring i forpliktelse ved utsatt skatt;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.91.0.30;Estimatendinger knyttet til ytelsesbaserte pensjonsordninger;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.91.0.60;Fra finansielle eiendeler og forpliktelser;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.91.0.71;Verdireguleringer pÃ¥ eiendom, anlegg og utstyr;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.91.0.72;Fra andre ikke-finansielle eiendeler;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.91.7.89;Skatt pÃ¥ andre inntekter og kostnader som ikke blir omklassifisert;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.92.0.20;Fra investeringer i rentebÃ¦rende verdipapirer klassifisert til virkelig verdi over OCI - kun skadeforsikring som fÃ¸lger IFRS 9;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.92.0.21;Gevinster og tap pÃ¥ finansielle eiendeler tilgjengelig for salg - kun skadeforsikring som ikke fÃ¸lger IFRS 9;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.92.0.40;Effektiv andel av nettogevinst pÃ¥ sikringsinstrumenter i kontantstrÃ¸msikring;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.92.0.60;Fra andre finansielle eiendeler og forpliktelser;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.92.0.70;Fra ikke-finansielle eiendeler;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.92.7.89;Skatt pÃ¥ andre inntekter og kostnader som kan bli omklassifisert;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.15.00;Sedler og skillemynt;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.21.00;Bankinnskudd;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.36.21;Aksjer, ekskl. aksjer i eiendomsselskaper;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.36.22;Aksjer i eiendomsselskaper;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.36.31;Andeler i KS og ansvarlige selskaper, ekskl. andeler i eiendomsselskaper;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.36.32;Andeler i eiendomsselskaper;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.36.33;Andeler i indre eiendomsselskaper;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.36.34;Andeler i andre indre selskaper (IS);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.36.51;Andeler i rentefond;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.36.56;Andeler i aksje- og kombinasjonsfond;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.36.90;Egenkapitalbevis;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.40.00;RentebÃ¦rende omsettelige verdipapirer;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.88.00;Finansielle derivater;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;1.89.90;Andre verdipapirer/finansielle eiendeler ekskl. utlÃ¥n;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;2.55.37;UtlÃ¥n brutto balansefÃ¸rt verdi - Med pant i bolig;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;2.55.42;UtlÃ¥n brutto balansefÃ¸rt verdi - Andre pantelÃ¥n;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;2.55.88;UtlÃ¥n brutto balansefÃ¸rt verdi - Verdipapir-/ repolÃ¥n;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;2.55.92;UtlÃ¥n brutto balansefÃ¸rt verdi - Andre utlÃ¥n;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;2.60.00;Tapsnedskrivninger;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.26.00;Gjenforsikringsandel av ikke opptjent bruttopremie;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.27.00;Gjenforsikringsandel av brutto erstatningsavsetning;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.62.70;Opptjente, ikke forfalte leieinntekter;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.62.90;Opptjente, ikke forfalte andre inntekter;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.63.50;Forskuddsbetalte direkte salgskostnader;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.63.90;Forskuddsbetalte andre kostnader;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.73.00;I regning med filial;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.75.10;Andre fordringer - Tegnet, ikke innbetalt kapital;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.75.31;Andre fordringer - Vedr. dir. forsikring, forsikringstakere;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.75.32;Andre fordringer - Vedr. direkte forsikring, mellommenn;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.75.40;Andre fordringer - VedrÃ¸rende gjenforsikring;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.75.90;Andre fordringer - Andre fordringer ellers;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.84.00;Eiendeler ved skatt (utsatt skattefordel);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.89.50;Andre eiendeler - Gjenforsikringsdepoter;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;3.89.90;Andre eiendeler - Ã˜vrige;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;4.85.11;Immaterielle eiendeler - Goodwill;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;4.85.90;Immaterielle eiendeler - Andre immaterielle eiendeler;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.86.10;Bygninger og annen fast eiendom, ekskl. aksjer i eiendomsselskaper- Investeringseiendommer;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.86.20;Bygninger og annen fast eiendom, ekskl. aksjer i eiendomsselskaper- Eierbenyttet eiendom;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.87.00;Maskiner, inventar og transportmidler;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;5.96.00;Leierettigheter;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.55.88;LÃ¥n - Verdipapir-/repolÃ¥n;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.55.90;LÃ¥n - LikviditetslÃ¥n;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.62.80;PÃ¥lÃ¸pte, ikke forfalte kostnader - LÃ¸nn, ferielÃ¸nn, honorarer o.l;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.62.90;PÃ¥lÃ¸pte, ikke forfalte kostnader - Andre kostnader;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.63.70;Mottatte, ikke opptjente inntekter - Leieinntekter;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.63.90;Mottatte, ikke opptjente inntekter - Andre inntekter;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.71.10;Utbytte, konsernbidrag o.l - Utbytte/ egenkapitalbevisrenter siste Ã¥r;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.71.50;Utbytte, konsernbidrag o.l - Konsernbidrag siste Ã¥r;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.73.00;I regning med filial;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.75.30;Annen gjeld - VedrÃ¸rende direkte forsikring;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.75.40;Annen gjeld - VedrÃ¸rende gjenforsikring;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.75.50;Annen gjeld - Premiedepot fra gjenforsikr.foretak;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.75.90;Annen gjeld - Annen gjeld ellers;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.88.00;Finansielle derivater;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.89.00;Forpliktelser knyttet til leierettigheter;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.90.11;Avsetninger o.l. - Periodeskatt (kan vÃ¦re negativ);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.90.13;Avsetninger o.l. - Forpliktelse ved utsatt skatt knyttet til forsikringsforpliktelser/forsikringstekniske avsetninger under egenkapital;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.90.15;Avsetninger o.l. - Andre forpliktelser ved utsatt skatt;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.90.70;Avsetninger o.l. - Pensjonsforpliktelser;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;7.90.90;Avsetninger o.l. - Andre avsetninger;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.26.11;Avsetning for ikke opptjent bruttopremie;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.27.11;Brutto erstatningsavsetning;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.29.00;Avsetning for ikke avlÃ¸pt risiko;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.42.11;Ansvarlig lÃ¥nekapital i form av rentebÃ¦rende omsettelige verdipapirer, netto - Evigvarende;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.42.22;Ansvarlig lÃ¥nekapital i form av rentebÃ¦rende omsettelige verdipapirer, netto - OrdinÃ¦re ikke-konvertible;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.42.24;Ansvarlig lÃ¥nekapital i form av rentebÃ¦rende omsettelige verdipapirer, netto - Konvertible;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.49.11;Fondsobligasjoner - Evigvarende;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.55.11;Andre ansvarlige lÃ¥n - Evigvarende;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;8.55.20;Andre ansvarlige lÃ¥n - Andre;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.92.10;Selskapskapital - Aksjekapital;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.92.12;Selskapskapital - Eierandelskapital;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.92.20;Selskapskapital - Garantifond;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.92.30;Selskapskapital - Egne aksjer (negativ);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.92.32;Selskapskapital - Egne eierandelskapital (negativ);NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.93.10;Annen innskutt egenkapital - Overkurs;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.93.25;Annen innskutt egenkapital - Egenkapitalandel av sammensatte fin. Instrumenter o.a. egenkapitalinstrumenter;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.93.30;Annen innskutt egenkapital - Annen innskutt egenkapital;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.93.49;Annen innskutt egenkapital - Fondsobligasjonskapital;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.96.10;Fond mv. - Fond for vurderingsforskjeller;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.96.20;Fond mv. - Fond for urealiserte gevinster;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.96.70;Fond mv. - Avsetning til naturskadefondet;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.96.80;Fond mv. - Avsetning til garantiordningen;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.98.10;Annen opptjent egenkapital - Utbytte/grunnfondsbev.renter siste Ã¥r;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.98.42;Annen opptjent egenkapital - Renter pÃ¥ fondsobligasjoner siste Ã¥r;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.98.50;Annen opptjent egenkapital - Konsernbidrag siste Ã¥r;NA
+RF-1503;NÃ¦ringsoppgave 7;Income Statement 7;9.98.90;Annen opptjent egenkapital - Ã˜vrig;NA
