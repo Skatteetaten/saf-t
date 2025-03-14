@@ -559,14 +559,32 @@
   <Account>
     <GroupingCategory>KA_K</GroupingCategory>
     <CategoryDescription ISOLanguageCode="NOB">KOSTRA Arts_K</CategoryDescription>
-    <GroupingCode>874</GroupingCode>
-    <CodeDescription ISOLanguageCode="NOB">Eiendomsskatt annen eiendom</CodeDescription>
+    <GroupingCode>871</GroupingCode>
+    <CodeDescription ISOLanguageCode="NOB">Eiendomsskatt vannkraftanlegg</CodeDescription>
+  </Account>
+  <Account>
+    <GroupingCategory>KA_K</GroupingCategory>
+    <CategoryDescription ISOLanguageCode="NOB">KOSTRA Arts_K</CategoryDescription>
+    <GroupingCode>872</GroupingCode>
+    <CodeDescription ISOLanguageCode="NOB">Eiendomsskatt vindkraftverk</CodeDescription>
+  </Account>
+  <Account>
+    <GroupingCategory>KA_K</GroupingCategory>
+    <CategoryDescription ISOLanguageCode="NOB">KOSTRA Arts_K</CategoryDescription>
+    <GroupingCode>873</GroupingCode>
+    <CodeDescription ISOLanguageCode="NOB">Eiendomsskatt petroleumsanlegg</CodeDescription>
   </Account>
   <Account>
     <GroupingCategory>KA_K</GroupingCategory>
     <CategoryDescription ISOLanguageCode="NOB">KOSTRA Arts_K</CategoryDescription>
     <GroupingCode>875</GroupingCode>
     <CodeDescription ISOLanguageCode="NOB">Eiendomsskatt boliger og fritidsboliger</CodeDescription>
+  </Account>
+  <Account>
+    <GroupingCategory>KA_K</GroupingCategory>
+    <CategoryDescription ISOLanguageCode="NOB">KOSTRA Arts_K</CategoryDescription>
+    <GroupingCode>876</GroupingCode>
+    <CodeDescription ISOLanguageCode="NOB">Eiendomsskatt næringseiendom m.m.</CodeDescription>
   </Account>
   <Account>
     <GroupingCategory>KA_K</GroupingCategory>
