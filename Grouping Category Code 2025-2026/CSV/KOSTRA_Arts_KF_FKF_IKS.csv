@@ -1,0 +1,163 @@
+GroupingCategory;CategoryDescriptionNOB;GroupingCode;CodeDescriptionNOB
+KA_KS;KOSTRA Arts_KS;010;Fastlønn
+KA_KS;KOSTRA Arts_KS;020;Lønn til vikarer
+KA_KS;KOSTRA Arts_KS;030;Lønn til ekstrahjelp
+KA_KS;KOSTRA Arts_KS;040;Overtidslønn
+KA_KS;KOSTRA Arts_KS;050;Annen lønn og trekkpliktige godtgjørelser
+KA_KS;KOSTRA Arts_KS;070;Lønn til vedlikehold
+KA_KS;KOSTRA Arts_KS;075;Lønn til renhold
+KA_KS;KOSTRA Arts_KS;080;Godtgjørelser til folkevalgte
+KA_KS;KOSTRA Arts_KS;089;Trekkpliktig, opplysningspliktig, ikke arbeidsgiveravgiftspliktig lønn
+KA_KS;KOSTRA Arts_KS;090;Pensjonsinnskudd og trekkpliktige forsikringsordninger
+KA_KS;KOSTRA Arts_KS;099;Arbeidsgiveravgift
+KA_KS;KOSTRA Arts_KS;100;Kontormateriell
+KA_KS;KOSTRA Arts_KS;105;Undervisningsmateriell
+KA_KS;KOSTRA Arts_KS;110;Medisinsk forbruksmateriell
+KA_KS;KOSTRA Arts_KS;114;Medikamenter
+KA_KS;KOSTRA Arts_KS;115;Matvarer
+KA_KS;KOSTRA Arts_KS;120;Samlepost for annet forbruksmateriell, varer og tjenester
+KA_KS;KOSTRA Arts_KS;130;Post, bank, telefon, internett, bredbånd
+KA_KS;KOSTRA Arts_KS;140;Annonser, reklame, informasjon
+KA_KS;KOSTRA Arts_KS;150;Opplæring og kurs
+KA_KS;KOSTRA Arts_KS;160;Utgifter og godtgjørelser for reiser, diett, bil mv. som er opplysningspliktige
+KA_KS;KOSTRA Arts_KS;165;Andre opplysningspliktige godtgjørelser
+KA_KS;KOSTRA Arts_KS;170;Transport og reise
+KA_KS;KOSTRA Arts_KS;180;Strøm 
+KA_KS;KOSTRA Arts_KS;181;Fjernvarme og fjernkjøling
+KA_KS;KOSTRA Arts_KS;182;Fyringsolje og fyringsparafin
+KA_KS;KOSTRA Arts_KS;183;Naturgass og andre fossile gasser
+KA_KS;KOSTRA Arts_KS;184;Bioenergi 
+KA_KS;KOSTRA Arts_KS;185;Forsikringer, vakthold og sikring 
+KA_KS;KOSTRA Arts_KS;190;Leie av lokaler og grunn
+KA_KS;KOSTRA Arts_KS;195;Avgifter, gebyrer, lisenser o.l.
+KA_KS;KOSTRA Arts_KS;200;Kjøp og finansiell leie av driftsmidler
+KA_KS;KOSTRA Arts_KS;209;Medisinsk utstyr
+KA_KS;KOSTRA Arts_KS;210;Kjøp og leie av transportmidler
+KA_KS;KOSTRA Arts_KS;220;Leie av driftsmidler
+KA_KS;KOSTRA Arts_KS;230;Vedlikehold, påkostning, nybygg og nyanlegg
+KA_KS;KOSTRA Arts_KS;240;Driftsavtaler, reparasjoner og vaktmestertjenester
+KA_KS;KOSTRA Arts_KS;250;Materialer til vedlikehold, påkostning, nybygg og nyanlegg
+KA_KS;KOSTRA Arts_KS;260;Renholds- og vaskeritjenester
+KA_KS;KOSTRA Arts_KS;271;Innleie av personell fra private (vikartjenester)
+KA_KS;KOSTRA Arts_KS;272;Andre tjenester 
+KA_KS;KOSTRA Arts_KS;280;Grunnerverv
+KA_KS;KOSTRA Arts_KS;285;Kjøp av eksisterende bygninger og anlegg
+KA_KS;KOSTRA Arts_KS;300;Kjøp fra  staten
+KA_KS;KOSTRA Arts_KS;330;Kjøp fra fylkeskommuner
+KA_KS;KOSTRA Arts_KS;350;Kjøp fra kommuner
+KA_KS;KOSTRA Arts_KS;370;Kjøp fra andre 
+KA_KS;KOSTRA Arts_KS;380;Kjøp fra andre regnskapsenheter som inngår i KOSTRA konsern
+KA_KS;KOSTRA Arts_KS;400;Overføring til  staten
+KA_KS;KOSTRA Arts_KS;429;Merverdiavgift som gir rett til merverdiavgiftskompensasjon
+KA_KS;KOSTRA Arts_KS;430;Overføring til fylkeskommuner
+KA_KS;KOSTRA Arts_KS;450;Overføring til kommuner
+KA_KS;KOSTRA Arts_KS;470;Overføring til andre 
+KA_KS;KOSTRA Arts_KS;480;Overføring til andre regnskapsenheter som inngår i KOSTRA konsern
+KA_KS;KOSTRA Arts_KS;500;Renteutgifter, provisjoner og andre finansutgifter
+KA_KS;KOSTRA Arts_KS;501;Konserninterne renteutgifter
+KA_KS;KOSTRA Arts_KS;509;Tap på finansielle instrumenter 
+KA_KS;KOSTRA Arts_KS;510;Avdrag på lån
+KA_KS;KOSTRA Arts_KS;511;Konserninterne avdrag
+KA_KS;KOSTRA Arts_KS;512;Avdrag på lån til videreutlån
+KA_KS;KOSTRA Arts_KS;520;Utlån 
+KA_KS;KOSTRA Arts_KS;521;Konserninterne utlån
+KA_KS;KOSTRA Arts_KS;522;Videreutlån
+KA_KS;KOSTRA Arts_KS;529;Kjøp av aksjer og andeler
+KA_KS;KOSTRA Arts_KS;530;Dekning av tidligere års merforbruk og udekket beløp
+KA_KS;KOSTRA Arts_KS;540;Avsetninger til ubundne fond
+KA_KS;KOSTRA Arts_KS;550;Avsetninger til bundne fond 
+KA_KS;KOSTRA Arts_KS;570;Overføring til investering
+KA_KS;KOSTRA Arts_KS;589;Rapportkontroll (positivt avvik)
+KA_KS;KOSTRA Arts_KS;590;Avskrivninger
+KA_KS;KOSTRA Arts_KS;600;Brukerbetalinger
+KA_KS;KOSTRA Arts_KS;620;Annet salg av varer og tjenester, gebyrer o.l. som ikke er merverdiavgiftspliktig
+KA_KS;KOSTRA Arts_KS;629;Billettinntekter
+KA_KS;KOSTRA Arts_KS;630;Utleie av boliger og lokaler mv. og festeavgifter
+KA_KS;KOSTRA Arts_KS;640;Merverdiavgiftspliktige gebyrer
+KA_KS;KOSTRA Arts_KS;650;Annet merverdiavgiftspliktig salg av varer og tjenester
+KA_KS;KOSTRA Arts_KS;660;Salg av driftsmidler
+KA_KS;KOSTRA Arts_KS;670;Salg av fast eiendom
+KA_KS;KOSTRA Arts_KS;700;Refusjon fra staten
+KA_KS;KOSTRA Arts_KS;710;Sykelønnsrefusjon
+KA_KS;KOSTRA Arts_KS;729;Kompensasjon for merverdiavgift 
+KA_KS;KOSTRA Arts_KS;730;Refusjon fra fylkeskommuner
+KA_KS;KOSTRA Arts_KS;750;Refusjon fra kommuner
+KA_KS;KOSTRA Arts_KS;770;Refusjon fra andre
+KA_KS;KOSTRA Arts_KS;780;Salg til andre regnskapsenheter som inngår i KOSTRA konsern
+KA_KS;KOSTRA Arts_KS;800; Rammetilskudd
+KA_KS;KOSTRA Arts_KS;810;Andre statlige overføringer
+KA_KS;KOSTRA Arts_KS;830;Overføring fra fylkeskommuner
+KA_KS;KOSTRA Arts_KS;850;Overføring fra kommuner
+KA_KS;KOSTRA Arts_KS;870;Skatt på inntekt og formue
+KA_KS;KOSTRA Arts_KS;871;Eiendomsskatt vannkraftanlegg
+KA_KS;KOSTRA Arts_KS;872;Eiendomsskatt vindkraftverk
+KA_KS;KOSTRA Arts_KS;873;Eiendomsskatt petroleumsanlegg
+KA_KS;KOSTRA Arts_KS;876;Eiendomsskatt kraftnett og næringseiendom m.m.
+KA_KS;KOSTRA Arts_KS;877;Andre direkte og indirekte skatter
+KA_KS;KOSTRA Arts_KS;878;Eiendomsskatt boliger
+KA_KS;KOSTRA Arts_KS;879;Eiendomsskatt fritidsboliger
+KA_KS;KOSTRA Arts_KS;880;Overføring fra andre regnskapsenheter som inngår i KOSTRA konsern
+KA_KS;KOSTRA Arts_KS;890;Overføringer fra andre
+KA_KS;KOSTRA Arts_KS;900;Renteinntekter
+KA_KS;KOSTRA Arts_KS;901;Konserninterne renteinntekter
+KA_KS;KOSTRA Arts_KS;905;Utbytte og eieruttak
+KA_KS;KOSTRA Arts_KS;909;Gevinster på finansielle instrumenter
+KA_KS;KOSTRA Arts_KS;910;Bruk av lån
+KA_KS;KOSTRA Arts_KS;911;Bruk av konserninterne lån
+KA_KS;KOSTRA Arts_KS;912;Bruk av lån til videreutlån
+KA_KS;KOSTRA Arts_KS;920;Mottatte avdrag på utlån
+KA_KS;KOSTRA Arts_KS;921;Mottatte avdrag på konserninterne utlån
+KA_KS;KOSTRA Arts_KS;922;Mottatte avdrag på videreutlån
+KA_KS;KOSTRA Arts_KS;929;Salg av aksjer og andeler
+KA_KS;KOSTRA Arts_KS;940;Bruk av ubundne fond
+KA_KS;KOSTRA Arts_KS;950;Bruk av bundne fond
+KA_KS;KOSTRA Arts_KS;970;Overføring fra drift
+KA_KS;KOSTRA Arts_KS;980;Merforbruk og udekket beløp fremført til inndekning i senere år
+KA_KS;KOSTRA Arts_KS;989;Rapportkontroll (negativt avvik)
+KA_KS;KOSTRA Arts_KS;990;Motpost avskrivninger  
+KA_KS;KOSTRA Arts_KS;10;Bankinnskudd og kontanter
+KA_KS;KOSTRA Arts_KS;11;Obligasjoner (omløpsmidler)
+KA_KS;KOSTRA Arts_KS;12;Sertifikater
+KA_KS;KOSTRA Arts_KS;13;Kundefordringer
+KA_KS;KOSTRA Arts_KS;14;Konserninterne kortsiktige fordringer
+KA_KS;KOSTRA Arts_KS;15;Derivater
+KA_KS;KOSTRA Arts_KS;16;Andre kortsiktige fordringer
+KA_KS;KOSTRA Arts_KS;17;Varer
+KA_KS;KOSTRA Arts_KS;18;Aksjer og andeler (omløpsmidler)
+KA_KS;KOSTRA Arts_KS;19;Premieavvik
+KA_KS;KOSTRA Arts_KS;20;Pensjonsmidler
+KA_KS;KOSTRA Arts_KS;21;Aksjer og andeler (anleggsmidler)
+KA_KS;KOSTRA Arts_KS;22;Utlån (anleggsmidler)
+KA_KS;KOSTRA Arts_KS;23;Konserninterne langsiktige fordringer
+KA_KS;KOSTRA Arts_KS;24;Utstyr, maskiner og transportmidler
+KA_KS;KOSTRA Arts_KS;27;Faste eiendomer og anlegg
+KA_KS;KOSTRA Arts_KS;28;Immaterielle eiendeler
+KA_KS;KOSTRA Arts_KS;29;Obligasjoner (anleggsmidler)
+KA_KS;KOSTRA Arts_KS;31;Likviditetslån
+KA_KS;KOSTRA Arts_KS;32;Annen kortsiktig gjeld
+KA_KS;KOSTRA Arts_KS;33;Konsernintern kortsiktig gjeld
+KA_KS;KOSTRA Arts_KS;34;Derivater
+KA_KS;KOSTRA Arts_KS;35;Leverandørgjeld
+KA_KS;KOSTRA Arts_KS;39;Premieavvik
+KA_KS;KOSTRA Arts_KS;40;Pensjonsforpliktelse
+KA_KS;KOSTRA Arts_KS;411;Utestående obligasjonslån med forfall etter neste regnskapsår
+KA_KS;KOSTRA Arts_KS;412;Utestående obligasjonslån med forfall i neste regnskapsår
+KA_KS;KOSTRA Arts_KS;431;Sertifikatlån
+KA_KS;KOSTRA Arts_KS;451;Lån i kredittinstitusjon med avdragsprofil
+KA_KS;KOSTRA Arts_KS;452;Avdragsfrie lån i kredittinstitusjon hvor hovedstol forfaller etter neste regnskapsår
+KA_KS;KOSTRA Arts_KS;453;Avdragsfrie lån i kredittinstitusjon hvor hovedstol forfaller i neste regnskapsår
+KA_KS;KOSTRA Arts_KS;46;Avsetning for forpliktelser
+KA_KS;KOSTRA Arts_KS;47;Konsernintern langsiktig gjeld
+KA_KS;KOSTRA Arts_KS;51;Bundne driftsfond
+KA_KS;KOSTRA Arts_KS;53;Ubundet investeringsfond
+KA_KS;KOSTRA Arts_KS;55;Bundne investeringsfond
+KA_KS;KOSTRA Arts_KS;56;Disposisjonsfond
+KA_KS;KOSTRA Arts_KS;580;Prinsippendringer som påvirker arbeidskapitalen investering
+KA_KS;KOSTRA Arts_KS;581;Prinsippendringer som påvirker arbeidskapitalen drift
+KA_KS;KOSTRA Arts_KS;5900;Merforbruk i driftsregnskapet
+KA_KS;KOSTRA Arts_KS;5970;Udekket beløp i investeringsregnskapet
+KA_KS;KOSTRA Arts_KS;5990;Kapitalkonto
+KA_KS;KOSTRA Arts_KS;9100;Ubrukte lånemidler
+KA_KS;KOSTRA Arts_KS;9110;Ubrukte konserninterne lånemidler
+KA_KS;KOSTRA Arts_KS;9200;Andre memoriakonti
+KA_KS;KOSTRA Arts_KS;9999;Motkonto for memoriakontiene
