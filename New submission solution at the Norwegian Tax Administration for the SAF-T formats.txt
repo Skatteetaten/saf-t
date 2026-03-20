@@ -1,0 +1,5 @@
+A new submission solution at the Norwegian Tax Administration for the SAF-T formats (SAF-T Cash Register and SAF-T Financial) is under development and ready for testing!
+
+Would you like to participate in testing the new solution? If so, please send me an email at ingerid.robole@skatteetaten.no, and I will invite you to the Slack channel that has been set up for testing the new solution.
+In the Slack channel, you will among other things find guidance on how to test the submission of SAF-T files to the Norwegian Tax Administration, and you can ask questions or provide input on the new submission solution.
+Developers are connected to the channel and will be available to answer any questions about the solution.
