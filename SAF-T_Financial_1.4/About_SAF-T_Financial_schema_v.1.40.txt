@@ -1,0 +1,27 @@
+The new SAF-T Financial schema, v.1.40, comes into force the first period with financial reporting starting 1. januar 2027 or later. Until then the use of the SAF-T schema v. 1.40 will be voluntary.
+
+
+Changes with full back compatibility in the XSD Schema v 1.40:
+
+• Change in SimpleTypes
+One new datatype: SAFlongmonetaryType. Monetary amount.38 digits max, of which 18 can be fractional
+digits.
+
+• Change in Owners.
+The element <AccountID> has changed repetitions from 1 to unbounded (0..U).
+
+• Changes in AmountStructure
+The element <CurrencyAmount> has changed datatype, from SAFmonetaryType to SAFlongmonetaryType
+
+The element <ExchangeRate> has changed datatype, from SAFmonetaryType to SAFlongmonetaryType
+
+• Included two new optional elements in AmountStructure
+<VirtualCurrencyType>
+<Country>
+
+• Included a new structure in TaxInformationStructure
+NOKAmountStructure. To allow amounts to be shown in Norwegian kroner, the elements <DebitNOKTaxAmount> and
+<CreditNOKTaxAmount> have been added. These elements must only be used when the
+AmountStructure in TaxInformation presents amounts in a currency other than Norwegian kroner,
+in accordance with the requirement in the Bookkeeping Act, section 4-2, to fix VAT amounts in
+NOK.
