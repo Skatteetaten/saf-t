@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AuditFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:n1="urn:StandardAuditFile-Taxation-Financial:NO" xsi:schemaLocation="urn:StandardAuditFile-Taxation-Financial:NO Norwegian_SAF-T_Financial_Schema_v_1.30.xsd">
+<AuditFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:StandardAuditFile-Taxation-Financial:NO" xsi:schemaLocation="urn:StandardAuditFile-Taxation-Financial:NO Norwegian_SAF-T_Financial_Schema_v_1.30.xsd">
 	<Header>
         <AuditFileVersion>1.30</AuditFileVersion>
         <AuditFileCountry>NO</AuditFileCountry>

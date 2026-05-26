@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AuditFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:n1="urn:StandardAuditFile-Taxation-Financial:NO" xsi:schemaLocation="urn:StandardAuditFile-Taxation-Financial:NO Norwegian_SAF-T_Financial_Schema_v_1.40.xsd">
+<AuditFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:StandardAuditFile-Taxation-Financial:NO" xsi:schemaLocation="urn:StandardAuditFile-Taxation-Financial:NO Norwegian_SAF-T_Financial_Schema_v_1.40.xsd">
 	<Header>
 	    <AuditFileVersion>1.40</AuditFileVersion>
         <AuditFileCountry>NO</AuditFileCountry>
@@ -418,7 +418,7 @@
 						<Country>FI</Country>
                         </DebitTaxAmount>
 						<DebitNOKTaxAmount>
-							<Amount>2500</Amount>
+							<NOKAmount>2500</NOKAmount>
 						</DebitNOKTaxAmount>
                     <TaxDeclarationPeriod>5</TaxDeclarationPeriod>
                     </TaxInformation>
