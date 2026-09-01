@@ -417,9 +417,6 @@
 						<ExchangeRate>8.1230000</ExchangeRate>
 						<Country>FI</Country>
                         </DebitTaxAmount>
-						<DebitNOKTaxAmount>
-							<NOKAmount>2500</NOKAmount>
-						</DebitNOKTaxAmount>
                     <TaxDeclarationPeriod>5</TaxDeclarationPeriod>
                     </TaxInformation>
                     <ReferenceNumber>50841525</ReferenceNumber>
