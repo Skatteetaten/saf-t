@@ -1,0 +1,7 @@
+A minor correction has been made to the XSD schemas for SAF-T Financial versions 1.30 and 1.40.
+
+The technical specification defines SelectionCriteria in the Header as mandatory. Furthermore, the general documentation states that SelectionCriteria was changed from optional to mandatory in version 1.30.
+
+However, the XSD schemas for both versions incorrectly define the sequence as optional. This was unintended and has now been corrected to make the sequence mandatory, in line with the technical specification.
+
+As this is a corrective change only, no version number updates have been introduced.
