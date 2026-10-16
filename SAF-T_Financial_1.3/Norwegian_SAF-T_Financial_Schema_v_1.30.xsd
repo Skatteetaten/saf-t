@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by  (Skatteetaten) -->
+<!-- edited with XMLSpy v2026 (x64) (https://www.altova.com) by  (Skatteetaten) -->
 <xs:schema xmlns="urn:StandardAuditFile-Taxation-Financial:NO" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:doc="urn:schemas-OECD:schema-extensions:documentation" targetNamespace="urn:StandardAuditFile-Taxation-Financial:NO" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.30" id="SAF-T">
 	<xs:annotation>
 		<xs:documentation>
@@ -2608,7 +2608,7 @@ CurrencyAmount x ExchangeRate = Amount </xs:documentation>
 					<xs:documentation>Analysis ID of the specific dimension.</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:choice minOccurs= "0">
+			<xs:choice minOccurs="0">
 				<xs:element name="DebitAnalysisAmount" type="AmountStructure">
 					<xs:annotation>
 						<xs:documentation>Debit amount information for analysis.</xs:documentation>
@@ -3087,7 +3087,7 @@ Enumerated: Active, Observation, Passive.</xs:documentation>
 		<xs:annotation>
 			<xs:documentation>The selection criteria used to generate this Standard Auditfile.</xs:documentation>
 		</xs:annotation>
-		<xs:sequence minOccurs="0">
+		<xs:sequence>
 			<xs:element name="TaxReportingJurisdiction" type="SAFmiddle1textType" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Identifies the tax jurisdiction for whose purpose the SAF has been created. Principally for use where a single Revenue body covers more than one territory.</xs:documentation>
